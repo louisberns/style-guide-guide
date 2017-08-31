@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Motion
+title: Movimento
 group: styles
 permalink: /styles/motion.html
 description: How the style guide uses motion to enhance the user experience.

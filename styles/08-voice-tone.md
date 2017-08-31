@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Voice and tone
+title: Tom de voz
 group: styles
 permalink: /styles/voice-tone.html
 description: Capturing the personality and authority of the brand in words

@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Color
+title: Cores
 group: styles
 permalink: /styles/color.html
 description: Color styles define how color is used in the design system.

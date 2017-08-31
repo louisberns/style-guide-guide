@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Typography
+title: Tipografia
 group: styles
 permalink: /styles/typography.html
 description: Typography style description

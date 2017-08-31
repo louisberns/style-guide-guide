@@ -1,4 +1,4 @@
----
+/*---
 layout: component-detail
 group: components
 subgroup: media
@@ -15,3 +15,4 @@ variations:
   includeCategory: 02-blocks
   includeName: card
 ---
+*/

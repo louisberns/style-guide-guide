@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Iconography
+title: Iconografia
 group: styles
 permalink: /styles/iconography.html
 description: How to style or construct icons for the design system
