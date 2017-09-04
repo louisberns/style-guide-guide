@@ -1,7 +1,7 @@
 ---
 layout: landing
 type: landing
-title: Components
+title: Componentes
 group: components
 permalink: /components/
 description: Component overview description
