@@ -82,7 +82,7 @@
 		<li class="c-primary-nav__item {% if page.url contains '/components' %}is-active{% endif %}">
 			<a class="c-primary-nav__link c-primary-nav__link--has-children js-nav-dropdown-trigger {% if page.url contains '/components' %} is-active  is-current{% endif %}" href="{{ "/components/" | prepend: site.baseurl }}">
 
-				<span class="c-primary-nav__text">Components</span>
+				<span class="c-primary-nav__text">Componentes</span>
 
 				<svg class="c-icon c-primary-nav__icon" aria-hidden="true">
 					<use href="{{ "/icons.svg#chevron-right" | prepend: site.baseurl }}"></use>
@@ -129,7 +129,7 @@
 
 		</li><!-- end c-nav__list__item -->
 
-        <li class="c-primary-nav__item {% if page.url contains '/utilities' %}is-active{% endif %}">
+      <!--  <li class="c-primary-nav__item {% if page.url contains '/utilities' %}is-active{% endif %}">
 
 			<a href="{{ "/utilities/index.html" | prepend: site.baseurl }}" class="c-primary-nav__link c-primary-nav__link--has-children js-nav-dropdown-trigger {% if page.url contains '/utilities' %} is-active  is-current{% endif %}">
 
@@ -162,9 +162,9 @@
 			{% endfor %}
 			</ul>
 
-		</li><!-- end c-nav__list__item -->
+		</li>--><!-- end c-nav__list__item -->
 
-		<li class="c-primary-nav__item">
+		<!--<li class="c-primary-nav__item">
 
 			{% for my_page in site.pages %}
 				{% if my_page.url == "/page-templates.html" %}
@@ -174,7 +174,7 @@
 				{% endif %}
 			{% endfor %}
 
-		</li><!-- end c-nav__list__item -->
+		</li>--><!-- end c-nav__list__item -->
 
 		<li class="c-primary-nav__item">
 
@@ -193,7 +193,7 @@
 			{% for my_page in site.pages %}
 				{% if my_page.url == "/support.html" %}
 				<a href="{{ "/support.html" | prepend: site.baseurl }}" class="c-primary-nav__link {% if page.url == '/support.html' %}is-active is-current{% endif %}">
-					<span class="c-primary-nav__text">Support</span>
+					<span class="c-primary-nav__text">Suporte</span>
 				</a>
 				{% endif %}
 			{% endfor %}
@@ -205,7 +205,7 @@
 			{% for my_page in site.pages %}
 				{% if my_page.url == "/contribute.html" %}
 				<a href="{{ "/contribute.html" | prepend: site.baseurl }}" class="c-primary-nav__link {% if page.url == '/contribute.html' %}is-active is-current{% endif %}">
-					<span class="c-primary-nav__text">Contribute</span>
+					<span class="c-primary-nav__text">Contribua</span>
 				</a>
 				{% endif %}
 			{% endfor %}

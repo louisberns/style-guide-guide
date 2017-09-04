@@ -1,4 +1,4 @@
----
+/*---
 layout: page
 title: Data entry
 group: guidelines
@@ -8,3 +8,4 @@ description: High-level form guidelines
 ---
 
 Form guidelines go here
+*/

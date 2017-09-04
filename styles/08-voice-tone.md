@@ -1,4 +1,4 @@
----
+/*---
 layout: page
 type: detail
 title: Tom de voz
@@ -9,3 +9,4 @@ description: Capturing the personality and authority of the brand in words
 ---
 
 For inspiration, check out MailChimp's fantastic [Voice and Tone](http://voiceandtone.com/) website.
+*/

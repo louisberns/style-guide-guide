@@ -1,4 +1,4 @@
----
+/*---
 layout: page
 type: detail
 title: Imageria
@@ -11,3 +11,4 @@ description: Styles for treating pictures and graphics
 Image style guidelines go here
 
 <img src="../favicon.ico" alt="" />
+*/
