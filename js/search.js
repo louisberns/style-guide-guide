@@ -7,7 +7,9 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
+        var mainDir = "/style-guide-guide"
+        appendString += '<li><a href="'+ mainDir + item.url + '"><h3>' + item.title + '</h3></a>';
+        console.log(item.url + "|||" + window.location.href);
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
