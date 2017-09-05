@@ -4,6 +4,7 @@ type: detail
 title: Acessibilidade
 group: guidelines
 permalink: /guidelines/accessibility.html
+level: "2"
 description: Describe the design system's approach to accessibility
 
 ---

@@ -3,6 +3,7 @@ layout: landing
 type: landing
 group: styles
 permalink: /styles/
+level: "2"
 
 title: Styles
 description: The attributes of the brand

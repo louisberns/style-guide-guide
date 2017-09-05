@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/button.html
+level: "2"
 
 title: Botões
 description: Button description

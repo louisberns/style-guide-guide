@@ -4,6 +4,7 @@ type: detail
 title: Browser support
 group: guidelines
 permalink: /guidelines/browsers.html
+level: "2"
 description: Guidelines that explain which browsers the design system is optimized for
 
 

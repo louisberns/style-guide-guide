@@ -4,6 +4,7 @@ type: detail
 title: Iconografia
 group: styles
 permalink: /styles/iconography.html
+level: "2"
 description: How to style or construct icons for the design system
 
 ---

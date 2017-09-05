@@ -2,6 +2,7 @@
 layout: page
 group: guidelines
 permalink: /guidelines/code.html
+level: "2"
 title: Code conventions
 description: Guidelines for the design system's code base.
 ---

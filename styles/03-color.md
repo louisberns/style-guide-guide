@@ -4,6 +4,7 @@ type: detail
 title: Cores
 group: styles
 permalink: /styles/color.html
+level: "2"
 description: Color styles define how color is used in the design system.
 
 ---

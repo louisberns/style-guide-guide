@@ -3,6 +3,7 @@ layout: page
 title: Princípios
 group: guidelines
 permalink: /guidelines/principles.html
+level: "2"
 description: The design system's guiding values
 
 

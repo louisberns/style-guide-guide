@@ -4,6 +4,7 @@ type: detail
 title: Design tokens
 group: styles
 permalink: /styles/design-tokens.html
+level: "2"
 description: Design token information
 
 ---

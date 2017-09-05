@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/table.html
+level: "2"
 
 title: Tabela
 description: Table description

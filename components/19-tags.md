@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/tabs.html
+level: "2"
 
 title: Tabs
 description: Ordered list showing what level you are on in reference to the site

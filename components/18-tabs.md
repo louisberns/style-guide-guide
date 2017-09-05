@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/tabs.html
+level: "2"
 
 title: Tabs
 description: Unordered list of links where the each link targets different information

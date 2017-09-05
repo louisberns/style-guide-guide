@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/alert.html
+level: "2"
 
 title: Alerta
 description: Alert description

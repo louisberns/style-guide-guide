@@ -4,6 +4,7 @@ type: detail
 title: Imageria
 group: styles
 permalink: /styles/imagery.html
+level: "2"
 description: Styles for treating pictures and graphics
 
 ---

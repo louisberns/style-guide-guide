@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/range-slider.html
+level: "2"
 
 title: Range Slider
 description: Ordered list showing what level you are on in reference to the site

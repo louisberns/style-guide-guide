@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/modals.html
+level: "2"
 
 title: Modals
 description: Ordered list showing what level you are on in reference to the site

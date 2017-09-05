@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/search.html
+level: "2"
 
 title: Search
 description: Ordered list showing what level you are on in reference to the site

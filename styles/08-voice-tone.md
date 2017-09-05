@@ -4,6 +4,7 @@ type: detail
 title: Tom de voz
 group: styles
 permalink: /styles/voice-tone.html
+level: "2"
 description: Capturing the personality and authority of the brand in words
 
 ---

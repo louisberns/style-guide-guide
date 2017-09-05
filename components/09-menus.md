@@ -2,6 +2,7 @@
 layout: component-detail
 group: components
 permalink: /components/menus.html
+level: "2"
 
 title: Menus
 description: Ordered list showing what level you are on in reference to the site
