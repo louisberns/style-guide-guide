@@ -71,7 +71,7 @@
  *    responsive environments "sidebar"
  */
 .l-page-layout__secondary {
-
+	border-bottom: 1px solid $color-gray-10;
 	/**
 	 * Secondary section in a two-column fixed layout
 	 * 1) This is a fixed element
@@ -83,6 +83,7 @@
             overflow: auto;
 			width: 18rem;
             height: 100vh;
+						border-right: 1px solid $color-gray-10;
         }
     }
 }

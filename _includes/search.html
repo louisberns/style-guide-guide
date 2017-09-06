@@ -1,16 +1,16 @@
 {% if page.level == "2" %}
 
-<form action="../search-result.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
+<form action="../search-result.html" method="get" class="search-form">
+  <!--<label for="search-box">Search</label>-->
+  <input type="text" id="search-box" name="query" placeholder="Pesquisar">
   <input type="submit" value="search">
 </form>
 
 {% else %}
 
-<form action="search-result.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
+<form action="search-result.html" method="get" class="search-form">
+  <!--<label for="search-box">Search</label>-->
+  <input type="text" id="search-box" name="query" placeholder="Pesquisar">
   <input type="submit" value="search">
 </form>
 

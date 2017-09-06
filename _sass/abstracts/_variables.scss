@@ -49,6 +49,7 @@
 $color-white: #fff;
 $color-gray-02: #f9f9f9;
 $color-gray-07: #eee;
+$color-gray-10: #e5e5e5;
 $color-gray-13: #ddd;
 $color-gray-27: #bbb;
 $color-gray-50: #808080;
@@ -72,6 +73,13 @@ $color-utility-warning: #a59b15;
 $color-utility-warning-light: #fffecf;
 
 
+/**
+ * Color RGBA style and shadows
+ */
+$color-utility-input-text: rgba(229, 229, 229, 0.8);
+$color-box-shadow: rgba(0,0,0,.26);
+
+
 
 
 
@@ -82,7 +90,7 @@ $color-utility-warning-light: #fffecf;
 /**
  * Font Family
  */
-$font: "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+$font: "Open-Sans", sans-serif;
 
 /**
  * Font Sizing

@@ -281,7 +281,7 @@
 		if (navLink[i].nodeName != 'BUTTON') { /* 2 */
 			  navLink[i].setAttribute('role','button');
 				navLink[i].setAttribute('tabindex','0');
-				
+
 				navLink[i].addEventListener('keypress',function(event){ /* 3 */
 							if (event.keyCode == 32) {
 									event.preventDefault();
@@ -289,7 +289,7 @@
 							}
 				});
 		}
-		
+
 		if (navLink[i].parentNode.classList.contains('is-active')) {  /* 4 */
 				navLink[i].setAttribute('aria-expanded','true');
 		}
@@ -329,7 +329,7 @@
 		if (navToggle[i].nodeName != 'BUTTON') { /* 2 */
 			  navToggle[i].setAttribute('role','button');
 				navToggle[i].setAttribute('tabindex','0');
-				
+
 				navToggle[i].addEventListener('keypress',function(event){ /* 3 */
 							if (event.keyCode == 32) {
 									event.preventDefault();
@@ -337,14 +337,14 @@
 							}
 				});
 		}
-		
+
 		if (navToggle[i].parentNode.classList.contains('is-active')) {  /* 4 */
 				navToggle[i].setAttribute('aria-expanded','true');
 		}
 		else {
 				navToggle[i].setAttribute('aria-expanded','false');
 		}
-		
+
 		navToggle[i].addEventListener('click',function(event){ /* 5 */
 	        event.preventDefault();
 	        var navToggleParent = this.parentNode; /* 5 */
@@ -359,16 +359,26 @@
 							this.setAttribute('aria-expanded', 'true');
 	        }
 		});
+
+		$(window).resize(function () {
+			console.log("window resize");
+			if ($('body').innerWidth() > 991 ) {
+				 var navPanel = document.querySelector('.js-nav-panel');
+				 if (navPanel.classList.contains('is-active')) { /* 6 */
+						 navPanel.classList.remove('is-active');
+				 }
+			}
+		});
 	}
-	
+
 	/**
 	 * Sets aria-current to the current navigation link
 	 * 1) Select all items denoted as current
 	 * 2) Add the aria-current attribute
 	 */
-	 
+
 	 	var navLink = document.querySelectorAll('.is-current'); /* 1 */
-	 
+
 	 	for (i=0; i<navLink.length; i++) { /* 1 */
 			navLink[i].setAttribute('aria-current', 'page'); /* 2 */
 		}
