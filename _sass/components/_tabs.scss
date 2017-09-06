@@ -21,6 +21,8 @@
 .c-tabs__list {
 	display: flex;
 	border-bottom: 1px solid $color-gray-27;
+	list-style: none !important;
+	margin: 0 !important;
 
 	/**
 	 * Tabs list within vertical tabs
@@ -33,6 +35,14 @@
 
 }
 
+/**
+ * Tabs items
+ */
+.c-tabs__item {
+	margin: 0 !important;
+}
+
+
  /**
  * Tabs list
  * 1) Overlap the tabs bottom border
@@ -40,9 +50,12 @@
 .c-tabs__link {
 	display: block;
 	padding: 0.5rem 1rem;
-	margin-bottom: -1px;
+	margin: 0 0 -1px 0 !important;
     min-width: 5rem;
     text-align: center;
+		color: $color-gray-73 !important;
+		text-decoration: none !important;
+
 
 	/**
 	 * Active tabs link

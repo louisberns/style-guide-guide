@@ -58,7 +58,7 @@
         height: 100vh;
 
         @media all and (min-width: $bp-xl) {
-            margin-left: 18rem; /* 1 */
+            margin-left: 15rem; /* 1 */
         }
     }
 }
@@ -79,9 +79,9 @@
     .l-page-layout--two-column-fixed > & {
         @media all and (min-width: $bp-xl) {
             position: fixed;
-    	    z-index: 2;
+    	      z-index: 2;
             overflow: auto;
-			width: 18rem;
+						width: 15rem;
             height: 100vh;
 						border-right: 1px solid $color-gray-10;
         }
