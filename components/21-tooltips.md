@@ -4,12 +4,12 @@ group: components
 permalink: /components/tooltips.html
 level: "2"
 
-title: Tooltips
+title: Tooltips/Popover
 description: Ordered list showing what level you are on in reference to the site
 
 variations:
-- title: Tooltips
-  description: tooltips description
+- title: Tooltips/Popover
+  description: tooltips/popover description
   styleModifier: c-tooltips
   includeClassification: molecules
   includeCategory: 02-blocks

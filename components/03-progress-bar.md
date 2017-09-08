@@ -10,7 +10,7 @@ description: Progress bar description
 variations:
 - title: Barra de progresso
   description: Progress bar description
-  #styleModifier: c-alert
+  styleModifier: c-progress-bar
   includeClassification: molecules
   includeCategory: 02-blocks
   includeName: card

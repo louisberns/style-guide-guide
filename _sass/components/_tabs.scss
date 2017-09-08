@@ -17,10 +17,9 @@
 
 .c-tabs-vertical--atom {
 	display: flex;
-	padding: 1em 0;
 	vertical-align: middle;
 	justify-content: space-around;
-	align-items: baseline;
+	align-items: flex-start;
 }
 
 .c-tabs__list-atom {
@@ -29,6 +28,7 @@
 	list-style: none !important;
 	margin: 0 !important;
 	flex-direction: column;
+	min-width: 162px;
 }
 
 
@@ -78,8 +78,9 @@
 	 * Active tabs link
 	 */
 	&.is-active {
-		border: 1px solid $color-gray-27;
-		border-bottom: 1px solid $color-white;
+		font-weight: 700;
+		/*border: 1px solid $color-gray-27;*/
+		border-bottom: 2px solid $color-blue;
 	}
 
 	/**
@@ -145,6 +146,10 @@
 
 }
 
+.c-tabs__body-atom {
+	padding: 0;
+}
+
 /**
  * Tab Panel
  * 1) Display by default, and only hide if JS is available
@@ -158,5 +163,32 @@
 	 */
 	&.is-active {
 		display: block;
+	}
+}
+
+.c-tabs__panel-atom {
+	display: none;
+	padding: 0 1rem;
+
+	/**
+	 * Active tabs panel
+	 */
+	&.is-active {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 540px) {
+	.c-tabs-vertical--atom{
+		display: block;
+	}
+	.c-tabs__list-atom {
+		border-right: none;
+	}
+	.c-tabs--atom-type {
+		&.is-active {
+			border-right: 2px solid $color-blue;
+			border-left: 2px solid $color-blue;
+		}
 	}
 }

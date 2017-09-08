@@ -99,6 +99,8 @@ layout: default
 						<div class="c-tabs__panel js-tabs-panel" id="html-{{ forloop.index }}">
 
 							{% capture markupOnlyPath %}/patterns/{{ componentString }}/{{ componentString }}.markup-only.html{% endcapture %}
+							{% capture mustachePath %}/patterns/{{ componentString }}/{{ componentString }}.mustache{% endcapture %}
+							{% capture renderedPath %}/patterns/{{ componentString }}/{{ componentString }}.rendered.html{% endcapture %}
 
 							<div class="pattern-code">
 								<button class="c-btn pattern-code-copy-btn" data-clipboard-target="#pattern-code-{{ forloop.index }}">Copy</button>
@@ -112,7 +114,7 @@ layout: default
 
 							<div class="pattern-code">
 								<button class="c-btn pattern-code-copy-btn" data-clipboard-target="#pattern-code-{{ forloop.index }}">Copy</button>
-								<pre class="highlight pattern-code-block"><code class="language-html" id="pattern-code-{{ forloop.index }}">THIS IS ANGULAR CODE</code></pre>
+								<pre class="highlight pattern-code-block"><code class="language-html" id="pattern-code-{{ forloop.index }}">{% highlight liquid %}{% include {{ mustachePath }} %}{% endhighlight %}</code></pre>
 							</div>
 
 						</div><!--end c-tabs__panel-->
@@ -121,7 +123,7 @@ layout: default
 
 							<div class="pattern-code">
 								<button class="c-btn pattern-code-copy-btn" data-clipboard-target="#pattern-code-{{ forloop.index }}">Copy</button>
-								<pre class="highlight pattern-code-block"><code class="language-html" id="pattern-code-{{ forloop.index }}">THIS IS REACT CODE</code></pre>
+								<pre class="highlight pattern-code-block"><code class="language-html" id="pattern-code-{{ forloop.index }}">{% highlight liquid %}{% include {{ renderedPath }} %}{% endhighlight %}</code></pre>
 							</div>
 
 						</div><!--end c-tabs__panel-->
