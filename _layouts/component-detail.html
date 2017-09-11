@@ -31,115 +31,24 @@ layout: default
 						{% if variation.description %}<div>{{ variation.description | markdownify }} </div>{% endif %}
 					</header>
 
-					{% if variation.includeClassification == 'atoms' %}
-					{% assign atomicNumber = "00" %}
-					{% elsif variation.includeClassification == 'components' %}
-					{% assign atomicNumber = "01" %}
-					{% elsif variation.includeClassification == 'molecules' %}
-					{% assign atomicNumber = "01" %}
-					{% elsif variation.includeClassification == 'organisms' %}
-					{% assign atomicNumber = "02" %}
-					{% endif %}
-
-					{% capture componentString %}{{ atomicNumber }}-{{ variation.includeClassification }}-{{ variation.includeCategory }}-{{ variation.includeName }}{% endcapture %}
-
-					{% capture path %}/patterns/{{ componentString }}/{{ componentString }}.rendered.html{% endcapture %}
-					<div class="iffframe">
-
-						<iframe class="iffframe__iframe" frameBorder="0" width="100%" height="100%" src="{{ path | prepend: site.baseurl }}"></iframe>
-
-						<div class="iffframe__handle"></div>
-
-					</div><!--end iffframe-->
-
+					<div class="c-tabs js-tab">
+						<div class="c-tabs__body js-tab">
+							{% if variation.includeEg %}
+							{% assign example = variation.includeEg %}
+							{% assign egPath = example | append: '-eg.html' %}
+							{% capture file %}components/{{egPath}}{% endcapture %}
+							{% include  {{file}} %}
+							{% endif %}
+						</div><!--end c-tabs__body-->
+					</div><!--end c-tabs-->
 				</section><!--end section-->
 
 			</div><!--end c-tabs__panel-->
-			{% endfor %}
+		  {% endfor %}
 
 		</div><!--end c-tabs__body-->
 
 	</div><!--end c-tabs-->
-
-	<ul class="c-tabs-list js-tabs-list">
-		{% for variation in page.variations %}
-
-			{% if variation.includeClassification == 'atoms' %}
-			{% assign atomicNumber = "00" %}
-			{% elsif variation.includeClassification == 'components' %}
-			{% assign atomicNumber = "01" %}
-			{% elsif variation.includeClassification == 'molecules' %}
-			{% assign atomicNumber = "01" %}
-			{% elsif variation.includeClassification == 'organisms' %}
-			{% assign atomicNumber = "02" %}
-			{% endif %}
-
-			{% capture componentString %}{{ atomicNumber }}-{{ variation.includeClassification }}-{{ variation.includeCategory }}-{{ variation.includeName }}{% endcapture %}
-
-			{% capture path %}/patterns/{{ componentString }}/{{ componentString }}.rendered.html{% endcapture %}
-
-			<li class="c-tabs-list__item js-tabs-list-item" data-code-tabs="tab-{{ variation.title | downcase | replace: ' ', '-' }}">
-
-				<div class="c-tabs test-tabs  js-tabs">
-
-					<ul class="c-tabs__list">
-
-						<li class="c-tabs__item">
-							<a href="#html-{{ forloop.index }}" class="c-tabs__link js-tab">HTML</a>
-						</li><!-- end c-tabs__item -->
-
-						<li class="c-tabs__item">
-							<a href="#angular-{{ forloop.index }}" class="c-tabs__link js-tab">Angular</a>
-						</li><!-- end c-tabs__item -->
-
-						<li class="c-tabs__item">
-							<a href="#react-{{ forloop.index }}" class="c-tabs__link js-tab">React</a>
-						</li><!-- end c-tabs__item -->
-
-					</ul><!-- end c-tabs__list -->
-
-					<div class="c-tabs__body ">
-
-						<div class="c-tabs__panel js-tabs-panel" id="html-{{ forloop.index }}">
-
-							{% capture markupOnlyPath %}/patterns/{{ componentString }}/{{ componentString }}.markup-only.html{% endcapture %}
-							{% capture mustachePath %}/patterns/{{ componentString }}/{{ componentString }}.mustache{% endcapture %}
-							{% capture renderedPath %}/patterns/{{ componentString }}/{{ componentString }}.rendered.html{% endcapture %}
-
-							<div class="pattern-code">
-								<button class="c-btn pattern-code-copy-btn" data-clipboard-target="#pattern-code-{{ forloop.index }}">Copy</button>
-								<pre class="highlight pattern-code-block"><code class="language-html" id="pattern-code-{{ forloop.index }}">{% highlight liquid %}{% include {{ markupOnlyPath }} %}{% endhighlight %}</code></pre>
-							</div>
-
-						</div><!--end c-tabs__panel-->
-
-
-						<div class="c-tabs__panel js-tabs-panel" id="angular-{{ forloop.index }}">
-
-							<div class="pattern-code">
-								<button class="c-btn pattern-code-copy-btn" data-clipboard-target="#pattern-code-{{ forloop.index }}">Copy</button>
-								<pre class="highlight pattern-code-block"><code class="language-html" id="pattern-code-{{ forloop.index }}">{% highlight liquid %}{% include {{ mustachePath }} %}{% endhighlight %}</code></pre>
-							</div>
-
-						</div><!--end c-tabs__panel-->
-
-						<div class="c-tabs__panel js-tabs-panel" id="react-{{ forloop.index }}">
-
-							<div class="pattern-code">
-								<button class="c-btn pattern-code-copy-btn" data-clipboard-target="#pattern-code-{{ forloop.index }}">Copy</button>
-								<pre class="highlight pattern-code-block"><code class="language-html" id="pattern-code-{{ forloop.index }}">{% highlight liquid %}{% include {{ renderedPath }} %}{% endhighlight %}</code></pre>
-							</div>
-
-						</div><!--end c-tabs__panel-->
-
-					</div><!-- end c-tabs__body-->
-
-				</div><!-- end c-tabs -->
-
-			</li><!-- end c-tabs-list__item -->
-		{% endfor %}
-
-	</ul><!-- end c-tabs-list -->
 
 </section><!-- end c-section -->
 

@@ -1,15 +1,10 @@
 ---
 layout: page
 title: Introdução
-description: Conteúdo inicial para utilização do Design System.
+description: Conteúdo inicial para utilização do Design System
 ---
 
-## Downloading
-Provide links and information for downloading the design system's files:
-
-<div><a href="{{ "/downloads.html" | prepend: site.baseurl }}" class="c-btn">Download Design System Files</a></div>
-
-## File Structure
+<!--## File Structure
 Provide an overview of the file system structure and how users of the design system should integrate the design system's code into their project. This info will obviously vary depending on your organization's environment(s).
 
 ```
@@ -25,13 +20,46 @@ design-system-1.0/
 │   ├── design-system-1.0.js
 │   └── design-system-1.0.min.js
 └── [additional files]
-```
+```-->
 
-## Creating pages and using components
-Provide information on how to properly link up design system files in order to create a basic "hello world" template. From there, describe the process of incorporating design system's components into the project. Again, this will undoubtedly vary based on the setup and technologies your organization utilizes.
+## Utilizando o Elo Design System para seu produto
+Para utilizar nosso Design System no produto deve-se utilizar como referência os
+conteúdos disponibilizados aqui. Para acessar essas referências simplesmente selecione-as
+no menu ao lado ou pesquise o conteúdo necessário.
 
-## Code conventions
+Criamos esse Design System com objetivo de ser utilizado em todas nossas soluções,
+portanto adaptamos o **WES (Web Enterprise Suite)** para que possam implementar
+de forma fácil. Para as versões WES anteriores a 17.2, ainda é possível aplicar os
+padrões documentados aqui, nosso Design System é 100% compatível com o **Metronic**.
+
+## Design Atômico
+A base por trás do **Elo Design System** é o Design Atômico, um modo de pensar que
+nos ajuda a entender o que o Design System pode fazer e como ele pode
+impactar todos os sistemas Benner.
+
+### O que é Design Atômico
+Criada por Brad Frost, o Design Atômico é uma analogia para explicar como
+componentes se comportam e interagem entre si em um sistema. Ele empresta alguns
+conceitos da Química e divide os componentes visuais em cinco partes (do menor,
+para o maior): *átomos, moléculas, organismos, templates e páginas*.
+
+Átomos quando agrupados formam Moléculas, que quando agrupados formam Organismos,
+assim por diante. Pense em peças de Lego: uma simples peça de Lego não representa
+muita coisa, mas quando agrupadas com outras peças formam partes maiores, que
+quando agrupadas formam grandes obras.
+<br>
+<br>
+{% include image-tabs.html %}
+<br>
+### Por que isso é importante?
+Entender um pouco sobre o tema ajuda bastante quando projetamos um sistema, pois
+deixamos de pensar apenas no resultado final de uma página ou sistema, e
+começamos a pensar nas partes que vão compor essa página, facilitando a
+reutilização durante o processo de desenvolvimento. Ter peças prontas em vez de
+criar peças novas em todo projeto.
+
+<!--## Code conventions
 Provide a link to learn more about <a href="{{ "/guidelines/code.html" | prepend: site.baseurl }}">code conventions</a>.
 
 ## Support and Community
-Provide information on where people can go to <a href="{{ "/support.html" | prepend: site.baseurl }}">ask for help</a>, and provide a link to the <a href="{{ "/contribute.html" | prepend: site.baseurl }}">contribution page</a> to help plant tback to the system.
+Provide information on where people can go to <a href="{{ "/support.html" | prepend: site.baseurl }}">ask for help</a>, and provide a link to the <a href="{{ "/contribute.html" | prepend: site.baseurl }}">contribution page</a> to help plant tback to the system.-->

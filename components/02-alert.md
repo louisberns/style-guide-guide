@@ -5,15 +5,15 @@ permalink: /components/alert.html
 level: "2"
 
 title: Alerta
-description: Alert description
+description: Informar um feedback de ações realizadas por ele ou pelo sistema
 
 variations:
 - title: Alerta
-  description: Feedback de ações realizadas por ele ou pelo sistema
   styleModifier: c-alert
-  includeClassification: components
-  includeCategory: 02-alert
+  includeClassification: molecules
+  includeCategory: 02-blocks
   includeName: card
+  includeEg: alert
 ---
 
 ### Quando usar
@@ -24,4 +24,4 @@ variations:
 
 ### Quando não usar
 - Não utilizar feedbacks de confirmação até que a ação esteja realmente confirmada pelo sistema. Exemplo: envio de informações em um formulário
-- Não é recomendável apresentar mensagens de erros sem orientações de como resolver ou responsável pela resolução do problema.
+- Não é recomendável apresentar mensagens de erros sem orientações de como resolver ou responsável pela resolução do problema

@@ -9,11 +9,11 @@ description: Referência que mostra ao usuário onde se encontra na ávore do si
 
 variations:
 - title: Breadcrumbs
-  description: Breadcrumbs description
   styleModifier: c-breadcrumbs
   includeClassification: components
   includeCategory: 02-blocks
   includeName: card
+  includeEg: breadcrumbs
 ---
 
 ### Quando usar

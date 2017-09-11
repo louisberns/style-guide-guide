@@ -10,3 +10,15 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+/**
+	*Responsive image central text-content
+	*/
+.c-img {
+	width: 85%;
+	margin: 0 auto;
+}
+
+.c-img__image {
+	width: 100%;
+}
