@@ -11,7 +11,7 @@ variations:
 - title: Tabs
   description: Tabs description
   styleModifier: c-tabs
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

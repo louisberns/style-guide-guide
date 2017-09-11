@@ -11,7 +11,7 @@ variations:
 - title: Pagination
   description: pagination description
   styleModifier: c-pagination
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

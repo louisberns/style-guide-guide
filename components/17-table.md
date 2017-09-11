@@ -11,7 +11,7 @@ variations:
 - title: Tabela
   description: Table description
   styleModifier: c-table
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

@@ -9,9 +9,17 @@ description: Progress bar description
 
 variations:
 - title: Barra de progresso
-  description: Progress bar description
+  description: Informa o nível de completude de uma tarefa ou processo em execução
   styleModifier: c-progress-bar
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---
+
+### Quando usar
+- Quando uma ação exige que haja diferentes passos para completá-la totalmente
+- Quando uma ação depende de uma ação anterior para ser realizada.
+
+### Quando não usar
+- Não devem ser usados como elementos de navegação entre páginas diferentes. Recomenda-se o uso de breadcrumbs.
+- Evite utilizar quando há poucas ações a serem realizadas, pois dividir em mais etapas pode tornar o processo mais trabalhoso em vez de rápido. Exemplo: preencher poucos campos em um formulário pequeno.

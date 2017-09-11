@@ -11,7 +11,7 @@ variations:
 - title: Radio Buttons
   description: radio-buttons description
   styleModifier: c-radio-buttons
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

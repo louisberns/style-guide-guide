@@ -11,7 +11,7 @@ variations:
 - title: Menus
   description: menus description
   styleModifier: c-menus
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

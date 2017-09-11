@@ -11,7 +11,7 @@ variations:
 - title: Pickers
   description: pickers description
   styleModifier: c-pickers
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

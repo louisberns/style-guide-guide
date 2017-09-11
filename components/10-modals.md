@@ -11,7 +11,7 @@ variations:
 - title: Modals
   description: modals description
   styleModifier: c-modals
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

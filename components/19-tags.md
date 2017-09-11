@@ -11,7 +11,7 @@ variations:
 - title: Tags
   description: tags description
   styleModifier: c-tags
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

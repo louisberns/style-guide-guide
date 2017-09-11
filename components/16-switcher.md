@@ -11,7 +11,7 @@ variations:
 - title: Switcher
   description: switcher description
   styleModifier: c-switcher
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

@@ -11,7 +11,7 @@ variations:
 - title: Text field
   description: Text field description
   styleModifier: c-text-field
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 

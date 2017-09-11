@@ -11,7 +11,7 @@ variations:
 - title: Tooltips/Popover
   description: tooltips/popover description
   styleModifier: c-tooltips
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

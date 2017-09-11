@@ -11,7 +11,7 @@ variations:
 - title: Forms
   description: forms description
   styleModifier: c-forms
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---

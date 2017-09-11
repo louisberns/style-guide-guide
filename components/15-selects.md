@@ -11,7 +11,7 @@ variations:
 - title: Selects
   description: selects description
   styleModifier: c-selects
-  includeClassification: molecules
+  includeClassification: components
   includeCategory: 02-blocks
   includeName: card
 ---
