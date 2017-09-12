@@ -33,8 +33,11 @@ input[type="submit"] {
 	font-size: 20px;
 }
 
+#search-results {
+	list-style: none;
+}
+
 .search {
-	width: 50%;
 	margin: 0 auto;
-	padding: 100px 0;
+	padding: 0;
 }

@@ -98,3 +98,18 @@
 		}
 	}
 }
+
+.logo-benner {
+		display: none;
+    position: absolute;
+    bottom: 10px;
+    max-width: 200px;
+
+		@media screen and (min-width: $bp-xl) {
+			display: block;
+		}
+}
+
+img#benner {
+	width: 100%;
+}
