@@ -4,11 +4,21 @@ title: Princípios
 group: guidelines
 permalink: /guidelines/principles.html
 level: "2"
-description: The design system's guiding values
-
-
+description: descrição princípios ~~
 ---
 
-Here is where you take the time to explain the principles that are encapsulated in the entire design system. These principles will manifest themselves in different ways, from high-level guidelines to low-level components.
+Na Benner acreditamos que a inovação é a chave para simplificar negócios. Por isso, nosso objetivo é oferecer soluções que sejam relevantes para o mercado, otimizando resultados e aproximando pessoas e empresas. É nesse cenário que nascem os nossos princípios, um guia para que o desenvolvimento das soluções esteja cada dia mais alinhado à missão da Benner.
+<br>
+<br>
 
-For inspiration, be sure to check out [Design Principles FTW](http://www.designprinciplesftw.com/) and [what goes into creating good design principles](https://articles.uie.com/creating-design-principles/).
+### CONTEXTUAL
+Utilizar de uma linguagem que se adapte aos diversos cenários em que será aplicada, buscando sempre a melhor forma de auxiliar na resolução de problemas específicos de cada usuário.
+
+### CONFIÁVEL
+Passar confiança ao usuário, garantindo uma experiência relevante e consistente.
+
+### EFICIENTE
+Transformar cenários complexos em soluções simples e amigáveis, facilitando a vida do usuário com informações claras e funcionalidades relevantes.
+
+### UNIFICADO
+Gerar sinergia entre as pessoas e organizações, estimulando a colaboração e conexão para uma constante evolução.

@@ -31,14 +31,16 @@ layout: default
 						{% if variation.description %}<div>{{ variation.description | markdownify }} </div>{% endif %}
 					</header>
 
-					<div class="c-tabs js-tab">
-						<div class="c-tabs__body js-tab">
-							{% if variation.includeEg %}
-							{% assign example = variation.includeEg %}
-							{% assign egPath = example | append: '-eg.html' %}
-							{% capture file %}components/{{egPath}}{% endcapture %}
-							{% include  {{file}} %}
-							{% endif %}
+					<div class="c-tabs ">
+						<div class="c-tabs__body">
+							<div class="c-eg">
+								{% if variation.includeEg %}
+								{% assign example = variation.includeEg %}
+								{% assign egPath = example | append: '-eg.html' %}
+								{% capture file %}components/{{egPath}}{% endcapture %}
+								{% include  {{file}} %}
+								{% endif %}
+							</div>
 						</div><!--end c-tabs__body-->
 					</div><!--end c-tabs-->
 				</section><!--end section-->
