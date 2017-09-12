@@ -4,7 +4,7 @@ title: Princípios
 group: guidelines
 permalink: /guidelines/principles.html
 level: "2"
-description: descrição princípios ~~
+description: Conheça os princípios de nosso Design System
 ---
 
 Na Benner acreditamos que a inovação é a chave para simplificar negócios. Por isso, nosso objetivo é oferecer soluções que sejam relevantes para o mercado, otimizando resultados e aproximando pessoas e empresas. É nesse cenário que nascem os nossos princípios, um guia para que o desenvolvimento das soluções esteja cada dia mais alinhado à missão da Benner.

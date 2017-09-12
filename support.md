@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support
+title: Suporte
 description: The support page provides information about getting help with using the design system
 ---
 

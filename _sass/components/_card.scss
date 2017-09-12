@@ -3,6 +3,38 @@
 \*------------------------------------*/
 
 /**
+	*Component for organizing the cards
+	*/
+.c-card-panel {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	justify-content: space-evenly;
+}
+
+/**
+	*Card container, for simple addition
+	*/
+.c-card-color {
+	width: 140px;
+	height: 110px;
+}
+
+.c-card-item {
+	max-width: 140px;
+	text-align: center;
+}
+
+.c-card-color-name {
+	border: 1px solid $color-gray-10;
+	min-height: 60px;
+	font-weight: 700;
+	font-size: 12px;
+}
+
+/**
  * 1) A card is a block of media followed by a body of text in a vertical format
  */
 .c-card {
@@ -16,7 +48,7 @@
 }
 
 /**
-* Card Footer
+* Card Header
 */
 .c-card__header {
 	background: $color-gray-02;

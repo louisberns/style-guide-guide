@@ -1,0 +1,176 @@
+{% for color in page.colors-first %}
+{% capture blue-steel %}#{{color.blue-steel}}{% endcapture %}
+{% capture blue-sharp %}#{{color.blue-sharp}}{% endcapture %}
+{% capture green-seagreen %}#{{color.green-seagreen}}{% endcapture %}
+{% capture green-turquoise %}#{{color.green-turquoise}}{% endcapture %}
+
+  <h2>Cores primárias</h2>
+  <p>Cores primárias são as cores principais do Elo. Elas são usadas na maioria dos elementos, como botões, títulos, abas, etc.</p>
+
+  <div class="c-card-panel">
+    <div class="c-card-item">
+      <div style="background-color: {{blue-steel}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>blue-steel<br>{{blue-steel}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{blue-sharp}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>blue-sharp<br>{{blue-sharp}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{green-seagreen}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>green-seagreen<br>{{green-seagreen}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{green-turquoise}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>green-turquoise<br>{{green-turquoise}}</span>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+
+{% for color in page.colors-second %}
+{% capture purple %}#{{color.purple}}{% endcapture %}
+{% capture purple-medium %}#{{color.purple-medium}}{% endcapture %}
+{% capture red %}#{{color.red}}{% endcapture %}
+{% capture red-sunglo %}#{{color.red-sunglo}}{% endcapture %}
+{% capture red-pink %}#{{color.red-pink}}{% endcapture %}
+{% capture yellow-casablanca %}#{{color.yellow-casablanca}}{% endcapture %}
+  <h2>Cores secundárias</h2>
+  <p>Cores secundárias devem ser usadas para destacar outros elementos que não são tão comuns nas interfaces, como gráficos, dados, etc.</p>
+
+  <div class="c-card-panel">
+    <div class="c-card-item">
+      <div style="background-color: {{purple}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>purple<br>{{purple}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{purple-medium}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>purple-medium<br>{{purple-medium}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{red}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>red<br>{{red}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{red-sunglo}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>red-sunglo<br>{{red-sunglo}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{red-pink}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>red-pink<br>{{red-pink}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{yellow-casablanca}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>yellow-casablanca<br>{{yellow-casablanca}}</span>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+
+{% for color in page.colors-feedback %}
+{% capture red-thunderbird %}#{{color.red-thunderbird}}{% endcapture %}
+{% capture yellow-crusta %}#{{color.yellow-crusta}}{% endcapture %}
+{% capture green-jungle %}#{{color.green-jungle}}{% endcapture %}
+{% capture blue-steel %}#{{color.blue-steel}}{% endcapture %}
+  <h2>Cores de feedback</h2>
+  <p>Cores de feedback tem como objetivo informar o usuário sobre alguma resposta do sistema, como erros, confirmações, avisos, etc.</p>
+
+  <div class="c-card-panel">
+    <div class="c-card-item">
+      <div style="background-color: {{red-thunderbird}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>red-thunderbird<br>{{red-thunderbird}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{yellow-crusta}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>yellow-crusta<br>{{yellow-crusta}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{green-jungle}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>green-jungle<br>{{green-jungle}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{blue-steel}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>blue-steel<br>{{blue-steel}}</span>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+
+{% for color in page.colors-neutral %}
+{% capture gray-carrara %}#{{color.gray-carrara}}{% endcapture %}
+{% capture gray %}#{{color.gray}}{% endcapture %}
+{% capture gray-silver %}#{{color.gray-silver}}{% endcapture %}
+{% capture gray-cascade %}#{{color.gray-cascade}}{% endcapture %}
+{% capture gray-gallery %}#{{color.gray-gallery}}{% endcapture %}
+{% capture dark %}#{{color.dark}}{% endcapture %}
+  <h2>Cores neutras</h2>
+  <p>Cores neutras são as cores fornecidas pela variação preto/branco/cinza e servem para balancear a utilização na interface.</p>
+
+  <div class="c-card-panel">
+    <div class="c-card-item">
+      <div style="background-color: {{gray-carrara}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>gray-carrara<br>{{gray-carrara}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{gray}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>gray<br>{{gray}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{gray-silver}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>gray-silver<br>{{gray-silver}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{gray-cascade}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>gray-cascade<br>{{gray-cascade}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{gray-gallery}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>gray-gallery<br>{{gray-gallery}}</span>
+      </div>
+    </div>
+    <div class="c-card-item">
+      <div style="background-color: {{dark}}" class="c-card-color"></div>
+      <div class="c-card-color-name">
+        <span>dark<br>{{dark}}</span>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
