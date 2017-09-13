@@ -51,3 +51,49 @@
 .c-table__footer-cell {
 	padding: 0.8rem;
 }
+
+
+
+/*------------------------------------*\
+	#TABLE FLEX
+\*------------------------------------*/
+
+.c-table-flex {
+	margin: 0;
+	padding: 0;
+}
+
+.c-table-flex__cell {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	padding: 1em 0;
+
+	@media screen and (max-width: $bp-xl) {
+		flex-direction: column;
+	}
+}
+
+.c-table-flex__content {
+	min-width: 225px;
+	padding-bottom: .5em;
+}
+
+/**
+	*List of details about typography
+	*/
+.c-table-flex__list {
+	list-style: none !important;
+
+	@media screen and (max-width: $bp-xl) {
+		margin-left: 0 !important;
+	}
+}
+
+.c-table-flex__list-head {
+	font-weight: 700;
+}
+
+.c-table-flex__item {
+
+}

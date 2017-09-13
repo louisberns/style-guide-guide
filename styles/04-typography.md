@@ -9,4 +9,4 @@ description: Typography style description
 
 ---
 
-For inspiration, check out [Material Design's typography styles](https://material.io/guidelines/style/typography.html#typography-styles)
+{% include typography-guide.html %}

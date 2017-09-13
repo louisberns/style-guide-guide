@@ -1,26 +1,18 @@
 ---
 layout: page
 title: Suporte
-description: The support page provides information about getting help with using the design system
+description: Entre em contato conosco
 ---
 
-Talk about the importance of communication between [makers and users](http://atomicdesign.bradfrost.com/chapter-5/#design-system-makers-and-users) of the design system.
+## Canais de contato
+Caso tenha alguma dúvida, sugestão ou queira reportar um problema, entre em
+contato conosco, time de UX Design, por algum dos e-mails abaixo. Ficaremos
+contentes em atendê-los.
 
-## Support channels
-Where can people go for help with the design system? Where do people talk about the design system? Where should bugs be filed? Cross-link to the <a href="{{ "/contribute.html" | prepend: site.baseurl }}">contributing page</a> as there's often overlap between this kind of information.
+- Johnny: [johnny.oliveira@benner.com.br](mailto:johnny.oliveira@benner.com.br)<br>
+- Carlos: [carlos.capel@benner.com.br](mailto:carlos.capel@benner.com.br)<br>
+- Luís Guilherme: [luis.silva@benner.com.br](mailto:luis.silva@benner.com.br)
 
-## Support opportunities
-Training and support can [take many forms](http://atomicdesign.bradfrost.com/chapter-5/#training-and-support), including:
-
-- Pair sessions
-- Workshops
-- Webinars
-- Consulting sessions
-- Tutorials
-- Employee onboarding
-- Office hours
-- Chat tools
-- Issue trackers
-- Forums
-
-Take the time to present all support and training information; it helps give users confidence you have their backs when they get stuck.
+## Recursos
+Para mais conteúdos sobre Design System e assuntos relacionados, acesse a página
+de [Recursos](/resources.html).

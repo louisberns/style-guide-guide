@@ -5,7 +5,7 @@ title: Cores
 group: styles
 permalink: /styles/color.html
 level: "2"
-description: Color styles define how color is used in the design system.
+description: Definição de paleta e utilização de cores
 
 colors-first:
 - blue-steel: 4B77BE
@@ -36,6 +36,6 @@ colors-neutral:
   dark: 2F353B
 ---
 
-O Elo utiliza cores fornecidas pelo Metronic 4.7.1. Para facilitar a identificação, filtramos e separamos algumas cores em quatro categorias: cores primárias, secundárias, cores de feedback e cores neutras, todas listadas abaixo com suas respectivas classes.
+O Elo possui sua paleta de cores. Para facilitar a identificação, filtramos e separamos algumas cores em quatro categorias: cores primárias, secundárias, cores de feedback e cores neutras, todas listadas abaixo com suas respectivas classes.
 
 {% include color-panel.html %}

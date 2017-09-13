@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Roadmap
-description: The roadmap shows the plan of attack for upcoming releases to the design system
+description: Confira o planejamento de desenvolvimento
 ---
 
-A clear roadmap instills confidence that the system is alive and is actively being worked on. Provide information about what's to come. This ties into the <a href="{{ "/release-history.html" | prepend: site.baseurl }}">release history</a> section.
+Em breve mais informações.
+
+Confira os primeiros releases do Design System na página [Releases](/release-history.html).
