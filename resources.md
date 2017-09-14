@@ -12,7 +12,7 @@ mais em algum dos assuntos.
 Em breve, treinamentos no Educa Benner sobre o **Elo Design System**.
 
 ### Design System
--
+- [Sistemas de Design para Interfaces](https://coletivoux.com/sistemas-de-design-para-interfaces-6f846e0067e)
 
 ### Design Atômico
 - [Documentação de sistemas através do Atomic Design](https://medium.com/skillsweb/documenta%C3%A7%C3%A3o-de-sistemas-atrav%C3%A9s-do-atomic-design-48c90af3e134)
@@ -24,3 +24,6 @@ Em breve, treinamentos no Educa Benner sobre o **Elo Design System**.
 ### Grid
 - [Compreendendo o sistema de grid do Bootstrap](https://edsonjunior.com/compreendendo-grid-do-bootstrap/)
 - [A Grid do Bootstrap: Tudo que você sempre quis saber mas não tinha a quem perguntar](http://rodrigomilano.com.br/a-grid-do-bootstrap-tudo-que-voce-sempre-quis-saber-mas-nao-tinha-a-quem-perguntar/)
+
+### Ferramentas
+- [StatCounter - GlobalStats](http://gs.statcounter.com/#desktop-resolution-BR-monthly-201506-201606)

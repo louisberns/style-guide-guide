@@ -11,7 +11,7 @@ description: Utilizando nas soluções
 
 {% include fontawesome.html %}
 
-Os ícones utilizados pelo Elo são baseados no FontAwesome, uma das mais completas bibliotecas de ícones disponíveis. Devido ao seu grande número de ícones e pela facilidade de identificação por parte da maioria dos usuários. Para verificar todas as opções, acesse: [http://fontawesome.io/cheatsheet/](http://fontawesome.io/cheatsheet/)
+Os ícones utilizados pelo Elo são baseados no FontAwesome, uma das mais completas bibliotecas de ícones disponíveis, com um grande número de ícones e facilidade de identificação por parte da maioria dos usuários. Para verificar todas as opções, acesse: [http://fontawesome.io/cheatsheet/](http://fontawesome.io/cheatsheet/)
 
 Alguns ícones são universais e conhecidos pela maioria das pessoas, como a lupa, casa e impressora. Entretanto, esses casos são raros, portanto verifique se os ícones realmente vão ajudar o usuário naquele contexto ou se vão apenas deixar algo “mais bonito”, pois o efeito pode ser o oposto.
 

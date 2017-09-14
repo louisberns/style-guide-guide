@@ -4,12 +4,12 @@ group: components
 permalink: /components/modals.html
 level: "2"
 
-title: Modals
+title: Modal
 description: Navegar rapidamente por informações diferentes que estejam dentro de um mesmo contexto
 
 variations:
-- title: Modals
-  styleModifier: c-modals
+- title: Modal
+  styleModifier: c-modal
   includeClassification: components
   includeCategory: 02-blocks
   includeName: card

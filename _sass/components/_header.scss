@@ -61,6 +61,7 @@
 	.c-header--vertical & {
 		@media all and (min-width: $bp-xl) {
 			margin-left: 0;
+			margin-bottom: 70px;
 		}
 	}
 }

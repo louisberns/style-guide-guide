@@ -4,12 +4,12 @@ group: components
 permalink: /components/pagination.html
 level: "2"
 
-title: Pagination
+title: Paginação
 description: Navegar entre diferentes páginas de um mesmo conteúdo
 
 variations:
-- title: Pagination
-  styleModifier: c-pagination
+- title: Paginação
+  styleModifier: c-paginação
   includeClassification: components
   includeCategory: 02-blocks
   includeName: card

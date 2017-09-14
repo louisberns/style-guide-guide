@@ -16,7 +16,7 @@ variations:
   includeEg: table
 ---
 
-Por serem elementos comuns nos sistemas Benner, inserimos nesta seção um tópico de Melhores Práticas que podem auxiliar designer e desenvolvedores a criarem tabelas mais simples para o usuário.
+Por serem elementos comuns nos sistemas Benner, inserimos nesta seção um tópico de Melhores Práticas que podem auxiliar designers e desenvolvedores a criarem tabelas mais simples para o usuário.
 
 ### Melhores Práticas
 - Em tabelas com muitos dados, ofereça opções de busca
