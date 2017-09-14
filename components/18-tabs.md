@@ -17,9 +17,9 @@ variations:
 
 
 ### Quando usar
-- Quando o usuário não precisa ver conteúdos diferentes ao mesmo tempo
-- Quando informações diferentes precisam ser fáceis de navegar
+- Quando o usuário não precisa ver conteúdos diferentes ao mesmo tempo.
+- Quando informações diferentes precisam ser fáceis de navegar.
 
 ### Quando não usar
-- Não use tabs para mostrar conteúdos que precisam ser comparados. Caso necessário, utilize uma tabela ou seções na mesma tela
-- Utilize uma linguagem clara e que demonstre ao usuário o que ele pode encontrar dentro de uma tab. Evite textos longos e ícones desconexos
+- Não use tabs para mostrar conteúdos que precisam ser comparados. Caso necessário, utilize uma tabela ou seções na mesma tela.
+- Utilize uma linguagem clara e que demonstre ao usuário o que ele pode encontrar dentro de uma tab. Evite textos longos e ícones desconexos.

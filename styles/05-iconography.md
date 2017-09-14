@@ -17,7 +17,7 @@ Alguns ícones são universais e conhecidos pela maioria das pessoas, como a lup
 
 ### Melhores Práticas
 
-- Não utilize ícones fora das cores apresentadas no Elo
-- Não utilize ícones diferentes para ações iguais. Exemplo: coração ou estrela para “favoritar” algo
-- Evite utilizar apenas ícones de forma isolada. Sempre que possível, combine ícones e textos (labels)
-- Na maioria das vezes, ícones não são boas escolhas quando representam conceitos abstratos ou extremamente específicos. Avalie se aquela opção realmente significa algo
+- Não utilize ícones fora das cores apresentadas no Elo.
+- Não utilize ícones diferentes para ações iguais. Exemplo: coração ou estrela para “favoritar” algo.
+- Evite utilizar apenas ícones de forma isolada. Sempre que possível, combine ícones e textos (labels).
+- Na maioria das vezes, ícones não são boas escolhas quando representam conceitos abstratos ou extremamente específicos. Avalie se aquela opção realmente significa algo.

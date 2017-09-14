@@ -17,9 +17,9 @@ variations:
 ---
 
 ### Quando usar
-- Quando é preciso selecionar ativar uma configuração sem que haja a necessidade de “salvar” ou “enviar” a configuração
-- Quando a mudança precisa ser imediata: ao mudar um estado do switcher, o usuário automaticamente altera a configuração em questão
+- Quando é preciso selecionar ativar uma configuração sem que haja a necessidade de “salvar” ou “enviar” a configuração.
+- Quando a mudança precisa ser imediata: ao mudar um estado do switcher, o usuário automaticamente altera a configuração em questão.
 
 
 ### Quando não usar
-- Quando for preciso confirmar a alteração realizada, recomenda-se a utilização de checkboxes combinadas com um botão “Enviar”, como em um formulário, por exemplo
+- Quando for preciso confirmar a alteração realizada, recomenda-se a utilização de checkboxes combinadas com um botão “Enviar”, como em um formulário, por exemplo.

@@ -17,10 +17,10 @@ variations:
 ---
 
 ### Quando usar
-- Quando é preciso selecionar apenas um único item em uma lista de opções
-- Quando ao marcar em uma opção, as outras opções são automaticamente desmarcadas
+- Quando é preciso selecionar apenas um único item em uma lista de opções.
+- Quando ao marcar em uma opção, as outras opções são automaticamente desmarcadas.
 
 ### Quando não usar
-- Quando houver um número grande de opções, recomenda-se a utilização de um Select
-- Quando for necessário selecionar mais de uma opção, recomenda-se o uso de Checkboxes
-- Evite utilizar radio buttons em formato “linha”. Dê preferência ao formato “coluna”
+- Quando houver um número grande de opções, recomenda-se a utilização de um Select.
+- Quando for necessário selecionar mais de uma opção, recomenda-se o uso de Checkboxes.
+- Evite utilizar radio buttons em formato “linha”. Dê preferência ao formato “coluna”.

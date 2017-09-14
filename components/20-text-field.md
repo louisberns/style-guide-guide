@@ -19,8 +19,8 @@ variations:
 
 ### Melhores práticas
 - Facilite a vida do usuário ao digitar informações como caracteres especiais e utilize máscaras em campos como datas, RGs, CPFs, entre outros.
-- Para informações curtas, utilize o campo menor
-- Quando for necessário digitar mensagens maiores que uma sentença, utilize o campo maior
-- Para campos onde serão inseridas informações complexas, considere utilizar uma tooltip ou popover para complementar a informação e ajudar o usuário
-- Placeholders são uma ótima forma de dar dicas ao usuário. Utilize-os para informações curtas
-- Não utilize placeholders como substitutos de Labels (Nomes dos Campos). Isso pode prejudicar o usuário quando o mesmo digitar em um campo
+- Para informações curtas, utilize o campo menor.
+- Quando for necessário digitar mensagens maiores que uma sentença, utilize o campo maior.
+- Para campos onde serão inseridas informações complexas, considere utilizar uma tooltip ou popover para complementar a informação e ajudar o usuário.
+- Placeholders são uma ótima forma de dar dicas ao usuário. Utilize-os para informações curtas.
+- Não utilize placeholders como substitutos de Labels (Nomes dos Campos). Isso pode prejudicar o usuário quando o mesmo digitar em um campo.

@@ -19,7 +19,7 @@ variations:
 Por serem elementos comuns nos sistemas Benner, inserimos nesta seção um tópico de Melhores Práticas que podem auxiliar designers e desenvolvedores a criarem tabelas mais simples para o usuário.
 
 ### Melhores Práticas
-- Em tabelas com muitos dados, ofereça opções de busca
-- Caso seja necessário, utilize filtros para ajudar o usuário a encontrar informações mais específicas
-- Utilize a opção de ordenar por colunas
-- Quando possível, utilize uma versão “listrada” da tabela, para facilitar a visualização dos dados em diversas linhas
+- Em tabelas com muitos dados, ofereça opções de busca.
+- Caso seja necessário, utilize filtros para ajudar o usuário a encontrar informações mais específicas.
+- Utilize a opção de ordenar por colunas.
+- Quando possível, utilize uma versão “listrada” da tabela, para facilitar a visualização dos dados em diversas linhas.

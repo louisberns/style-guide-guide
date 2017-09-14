@@ -17,12 +17,12 @@ variations:
 ---
 
 ### Quando usar
-- Quando há mais de dois níveis de páginas navegáveis
-- Quando é preciso mostrar as páginas anteriores para o usuário
+- Quando há mais de dois níveis de páginas navegáveis.
+- Quando é preciso mostrar as páginas anteriores para o usuário.
 
 
 ### Quando não usar
-- Quando há menos de três níveis de páginas navegáveis
-- Não deve linkar para a página atual, somente para as páginas anteriores
-- Breadcrumbs devem ser um suporte a navegação do usuário, mas nunca o principal meio de navegação
-- Quando for necessário navegar por um processo várias etapas (e não páginas), recomenda-se o uso da Barra de Progresso
+- Quando há menos de três níveis de páginas navegáveis.
+- Não deve linkar para a página atual, somente para as páginas anteriores.
+- Breadcrumbs devem ser um suporte a navegação do usuário, mas nunca o principal meio de navegação.
+- Quando for necessário navegar por um processo várias etapas (e não páginas), recomenda-se o uso da Barra de Progresso.

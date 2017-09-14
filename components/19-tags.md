@@ -21,6 +21,6 @@ variations:
 - Quando é preciso filtrar algum tipo de informação
 
 ### Quando não usar
-- Não utilize as tags como forma de destacar uma informação. Caso seja necessário, recomenda-se modificar a cor do texto
-- Evite utilizar tags em sequências muito longas, como em uma lista, por exemplo. O excesso de tags e cores pode dificultar a leitura e a comparação de várias informações
-- Evite utilizar tags de mesmas cores para conteúdos diferentes. Isso pode confundir o usuário
+- Não utilize as tags como forma de destacar uma informação. Caso seja necessário, recomenda-se modificar a cor do texto.
+- Evite utilizar tags em sequências muito longas, como em uma lista, por exemplo. O excesso de tags e cores pode dificultar a leitura e a comparação de várias informações.
+- Evite utilizar tags de mesmas cores para conteúdos diferentes. Isso pode confundir o usuário.

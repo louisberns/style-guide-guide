@@ -17,9 +17,9 @@ variations:
 ---
 
 ### Quando usar
-- Quando o usuário precisa acessar diferentes páginas de um grupo de informações. Exemplo: tabelas ou listas
-- Quando o usuário precisa acessar diretamente uma página específica dentro de uma tabela ou lista
-- Deve-se mostrar quantas páginas existem no total e em qual página o usuário se encontra
+- Quando o usuário precisa acessar diferentes páginas de um grupo de informações. Exemplo: tabelas ou listas.
+- Quando o usuário precisa acessar diretamente uma página específica dentro de uma tabela ou lista.
+- Deve-se mostrar quantas páginas existem no total e em qual página o usuário se encontra.
 
 ### Quando não usar
-- Quando existem poucos itens em uma lista (menos de 10)
+- Quando existem poucos itens em uma lista (menos de 10).

@@ -20,5 +20,5 @@ variations:
 São usadas quando existem várias opções e o usuário pode selecionar uma ou mais de uma delas. Cada checkbox é independente, podendo ser marcada ou desmarcada sem necessariamente afetar o restante das caixas. Normalmente vem acompanhado de um botão Salvar/Enviar para confirmar a mudança.
 
 ### Quando não utilizar
-- Quando é necessário escolher apenas uma entre várias opções, recomenda-se o uso do Radio Button
-- Quando a mudança deve ser imediata, recomenda-se o uso do Switcher
+- Quando é necessário escolher apenas uma entre várias opções, recomenda-se o uso do Radio Button.
+- Quando a mudança deve ser imediata, recomenda-se o uso do Switcher.

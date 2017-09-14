@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="199 187.2 1189.4 296.8" style="enable-background:new 199 187.2 1189.4 296.8;" xml:space="preserve">
+	 viewBox="199 158.2 1189.4 296.8" style="enable-background:new 199 158.2 1189.4 296.8;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.8;}
 	.st1{fill:#426599;}
@@ -14,7 +14,7 @@
 	.st8{fill:none;stroke:#909091;stroke-miterlimit:10;}
 	.st9{fill:#999999;}
 	.st10{fill:none;stroke:#8D8D8E;stroke-miterlimit:10;}
-	.st11{opacity:0.3;fill:none;stroke:#797A79;stroke-width:0.5;stroke-miterlimit:10;enable-background:new    ;}
+	.st11{opacity:0.9;fill:none;stroke:#797A79;stroke-width:0.5;stroke-miterlimit:10;enable-background:new    ;}
 	.st12{fill:#E3E3E4;}
 	.st13{fill:#C3C2C1;}
 	.st14{fill:#040206;}
@@ -29,848 +29,850 @@
 	<g id="XMLID_353_">
 		<g id="XMLID_163_">
 			<g id="XMLID_170_" class="st0">
-				<circle id="XMLID_171_" class="st1" cx="793.9" cy="287.9" r="68.7"/>
+				<circle id="XMLID_171_" class="st1" cx="793.2" cy="265.8" r="68.7"/>
 			</g>
 			<g id="XMLID_168_" class="st0">
-				<circle id="XMLID_169_" class="st1" cx="793.9" cy="346.9" r="68.7"/>
+				<circle id="XMLID_169_" class="st1" cx="793.2" cy="324.8" r="68.7"/>
 			</g>
 			<g id="XMLID_166_" class="st0">
-				<circle id="XMLID_167_" class="st1" cx="823.4" cy="317.3" r="68.7"/>
+				<circle id="XMLID_167_" class="st1" cx="822.7" cy="295.1" r="68.7"/>
 			</g>
 			<g id="XMLID_164_" class="st0">
-				<circle id="XMLID_165_" class="st1" cx="764.4" cy="317.3" r="68.7"/>
+				<circle id="XMLID_165_" class="st1" cx="763.7" cy="295.1" r="68.7"/>
 			</g>
 		</g>
 	</g>
 	<g id="XMLID_354_">
 		<g id="XMLID_569_">
-			<path id="XMLID_575_" class="st2" d="M780.9,330.6c0,8.2-4.9,12.2-15.2,12.2c-10.2,0-15.2-4.7-15.2-15.3v-8.9
-				c0-9.8,4.9-15.3,15.2-15.3s15.2,4.7,15.2,15.3v7.8h-21.2v1c0,6.3,2.5,7.5,6.2,7.5c4.3,0,6.1-1.5,6.1-4.3L780.9,330.6L780.9,330.6
-				z M759.6,318.8H772c0-4.9-1-7.6-6.1-7.6C760.6,311.3,759.6,314.1,759.6,318.8z"/>
-			<path id="XMLID_573_" class="st2" d="M788,291.5h9.1v36.6c0,4.3,0.7,5.7,4.6,5.7v8.7c-10.6,0-13.7-3.1-13.7-14.3V291.5z"/>
-			<path id="XMLID_570_" class="st2" d="M806.9,328v-9.4c0-10.2,4.9-15.3,15.2-15.3c10.2,0,15.2,4.7,15.2,15.3v9.4
-				c0,10.6-4.9,15.3-15.2,15.3C811.8,343.3,806.9,338.6,806.9,328z M828.1,327.6v-8.4c0-4.8-1.3-7.6-6-7.6c-4.7,0-6,2.8-6,7.6v8.4
-				c0,4.8,1.3,7.6,6,7.6C826.8,335.2,828.1,332.4,828.1,327.6z"/>
+			<path id="XMLID_575_" class="st2" d="M780.2,308.5c0,8.2-4.9,12.2-15.2,12.2c-10.2,0-15.2-4.7-15.2-15.3v-8.9
+				c0-9.8,4.9-15.3,15.2-15.3s15.2,4.7,15.2,15.3v7.8H759v1c0,6.3,2.5,7.5,6.2,7.5c4.3,0,6.1-1.5,6.1-4.3L780.2,308.5L780.2,308.5z
+				 M758.9,296.6h12.4c0-4.9-1-7.6-6.1-7.6C759.9,289.1,758.9,292,758.9,296.6z"/>
+			<path id="XMLID_573_" class="st2" d="M787.3,269.4h9.1V306c0,4.3,0.7,5.7,4.6,5.7v8.7c-10.6,0-13.7-3.1-13.7-14.3L787.3,269.4
+				L787.3,269.4z"/>
+			<path id="XMLID_570_" class="st2" d="M806.2,305.9v-9.4c0-10.2,4.9-15.3,15.2-15.3c10.2,0,15.2,4.7,15.2,15.3v9.4
+				c0,10.6-4.9,15.3-15.2,15.3C811.1,321.1,806.2,316.5,806.2,305.9z M827.4,305.5v-8.4c0-4.8-1.3-7.6-6-7.6s-6,2.8-6,7.6v8.4
+				c0,4.8,1.3,7.6,6,7.6S827.4,310.3,827.4,305.5z"/>
 		</g>
 	</g>
 </g>
 <g id="Camada_2">
-	<rect id="XMLID_709_" x="926.5" y="226.3" class="st2" width="24.8" height="19.8"/>
-	<rect id="XMLID_689_" x="928.1" y="229.6" class="st3" width="21.8" height="6.3"/>
-	<rect id="XMLID_688_" x="928.1" y="237.1" class="st4" width="6.5" height="3.5"/>
-	<line id="XMLID_687_" class="st5" x1="928.1" y1="242" x2="934.5" y2="242"/>
-	<rect id="XMLID_686_" x="928.1" y="241.5" class="st6" width="6.5" height="1"/>
-	<line id="XMLID_671_" class="st5" x1="934.5" y1="243.9" x2="928.1" y2="243.9"/>
-	<rect id="XMLID_670_" x="928.1" y="243.5" class="st6" width="6.5" height="1"/>
-	<line id="XMLID_668_" class="st5" x1="935.7" y1="242" x2="942.2" y2="242"/>
-	<rect id="XMLID_667_" x="935.7" y="241.5" class="st6" width="6.5" height="1"/>
-	<rect id="XMLID_664_" x="933.9" y="232.3" class="st2" width="10.1" height="1"/>
-	<line id="XMLID_662_" class="st5" x1="942.2" y1="243.9" x2="935.7" y2="243.9"/>
-	<rect id="XMLID_661_" x="935.7" y="243.5" class="st6" width="6.5" height="1"/>
-	<line id="XMLID_659_" class="st5" x1="943.4" y1="242" x2="949.8" y2="242"/>
-	<rect id="XMLID_657_" x="943.4" y="241.5" class="st6" width="6.5" height="1"/>
-	<line id="XMLID_655_" class="st5" x1="949.8" y1="243.9" x2="943.4" y2="243.9"/>
-	<rect id="XMLID_654_" x="943.4" y="243.5" class="st6" width="6.5" height="1"/>
-	<rect id="XMLID_652_" x="935.7" y="237.1" class="st4" width="6.5" height="3.5"/>
-	<rect id="XMLID_651_" x="943.4" y="237.1" class="st4" width="6.5" height="3.5"/>
-	<rect id="XMLID_650_" x="926.5" y="223.4" class="st2" width="24.8" height="2.9"/>
-	<line id="XMLID_641_" class="st5" x1="929.3" y1="224.8" x2="930.2" y2="224.8"/>
-	<rect id="XMLID_638_" x="929.3" y="224.3" class="st6" width="1" height="1"/>
-	<line id="XMLID_636_" class="st5" x1="930.9" y1="224.8" x2="931.8" y2="224.8"/>
-	<rect id="XMLID_635_" x="930.9" y="224.3" class="st6" width="1" height="1"/>
-	<path id="XMLID_691_" class="st7" d="M951.8,246.6H926v-20.8h25.8V246.6z M927,245.6h23.8v-18.9H927V245.6z"/>
-	<path id="XMLID_647_" class="st7" d="M951.8,226.7H926v-3.9h25.8V226.7z M927,225.8h23.8v-1.9H927V225.8z"/>
+	<rect id="XMLID_709_" x="925.8" y="204.2" class="st2" width="24.8" height="19.8"/>
+	<rect id="XMLID_689_" x="927.4" y="207.5" class="st3" width="21.8" height="6.3"/>
+	<rect id="XMLID_688_" x="927.4" y="215" class="st4" width="6.5" height="3.5"/>
+	<line id="XMLID_687_" class="st5" x1="927.4" y1="219.9" x2="933.8" y2="219.9"/>
+	<rect id="XMLID_686_" x="927.4" y="219.4" class="st6" width="6.5" height="1"/>
+	<line id="XMLID_671_" class="st5" x1="933.8" y1="221.8" x2="927.4" y2="221.8"/>
+	<rect id="XMLID_670_" x="927.4" y="221.4" class="st6" width="6.5" height="1"/>
+	<line id="XMLID_668_" class="st5" x1="935" y1="219.9" x2="941.5" y2="219.9"/>
+	<rect id="XMLID_667_" x="935" y="219.4" class="st6" width="6.5" height="1"/>
+	<rect id="XMLID_664_" x="933.2" y="210.2" class="st2" width="10.1" height="1"/>
+	<line id="XMLID_662_" class="st5" x1="941.5" y1="221.8" x2="935" y2="221.8"/>
+	<rect id="XMLID_661_" x="935" y="221.4" class="st6" width="6.5" height="1"/>
+	<line id="XMLID_659_" class="st5" x1="942.7" y1="219.9" x2="949.1" y2="219.9"/>
+	<rect id="XMLID_657_" x="942.7" y="219.4" class="st6" width="6.5" height="1"/>
+	<line id="XMLID_655_" class="st5" x1="949.1" y1="221.8" x2="942.7" y2="221.8"/>
+	<rect id="XMLID_654_" x="942.7" y="221.4" class="st6" width="6.5" height="1"/>
+	<rect id="XMLID_652_" x="935" y="215" class="st4" width="6.5" height="3.5"/>
+	<rect id="XMLID_651_" x="942.7" y="215" class="st4" width="6.5" height="3.5"/>
+	<rect id="XMLID_650_" x="925.8" y="201.3" class="st2" width="24.8" height="2.9"/>
+	<line id="XMLID_641_" class="st5" x1="928.6" y1="202.7" x2="929.5" y2="202.7"/>
+	<rect id="XMLID_638_" x="928.6" y="202.2" class="st6" width="1" height="1"/>
+	<line id="XMLID_636_" class="st5" x1="930.2" y1="202.7" x2="931.1" y2="202.7"/>
+	<rect id="XMLID_635_" x="930.2" y="202.2" class="st6" width="1" height="1"/>
+	<path id="XMLID_691_" class="st7" d="M951.1,224.5h-25.8v-20.8h25.8V224.5z M926.3,223.5h23.8v-18.9h-23.8V223.5z"/>
+	<path id="XMLID_647_" class="st7" d="M951.1,204.6h-25.8v-3.9h25.8V204.6z M926.3,203.7h23.8v-1.9h-23.8V203.7z"/>
 	<g id="XMLID_619_">
-		<rect id="XMLID_620_" x="930.2" y="227.8" class="st7" width="8.3" height="1"/>
+		<rect id="XMLID_620_" x="929.5" y="205.7" class="st7" width="8.3" height="1"/>
 	</g>
-	<circle id="XMLID_2183_" class="st8" cx="938.9" cy="234.1" r="20.7"/>
-	<polygon id="XMLID_3925_" class="st9" points="489.2,417.4 476,409.2 476,404.9 489.3,396.7 492.2,401.1 482.4,407.1 492.2,413.2 	
+	<circle id="XMLID_2183_" class="st8" cx="938.2" cy="212" r="20.7"/>
+	<polygon id="XMLID_3925_" class="st9" points="488.5,395.3 475.3,387.1 475.3,382.8 488.6,374.6 491.5,379 481.7,385 491.5,391.1 	
 		"/>
-	<polygon id="XMLID_3922_" class="st9" points="499.2,417.4 496.3,413.1 506.1,407.1 496.3,401 499.3,396.7 512.5,404.9 
-		512.5,409.2 	"/>
-	<circle id="XMLID_3919_" class="st10" cx="494.2" cy="405.8" r="29"/>
-	<line id="XMLID_3918_" class="st11" x1="275.6" y1="283.4" x2="328.1" y2="332.3"/>
-	<line id="XMLID_3917_" class="st11" x1="712" y1="383.9" x2="662" y2="405.8"/>
-	<line id="XMLID_3916_" class="st11" x1="632" y1="234.9" x2="565.8" y2="254.3"/>
-	<line id="XMLID_3915_" class="st11" x1="566.3" y1="254.5" x2="470.9" y2="245.2"/>
-	<line id="XMLID_3914_" class="st11" x1="565.8" y1="254.8" x2="573.2" y2="323.3"/>
-	<line id="XMLID_3913_" class="st11" x1="645.4" y1="233.9" x2="709.5" y2="251.4"/>
-	<line id="XMLID_3912_" class="st11" x1="515.5" y1="386.6" x2="568.5" y2="342.5"/>
-	<line id="XMLID_3911_" class="st11" x1="369.1" y1="330.8" x2="416.1" y2="283.4"/>
-	<line id="XMLID_3910_" class="st11" x1="304.2" y1="412.1" x2="332.3" y2="378.6"/>
-	<line id="XMLID_3909_" class="st11" x1="523.3" y1="406.6" x2="636.3" y2="411.5"/>
-	<line id="XMLID_3908_" class="st11" x1="376.4" y1="366.8" x2="465.8" y2="400.2"/>
-	<circle id="XMLID_3905_" class="st9" cx="268.2" cy="271.9" r="16.6"/>
-	<path id="XMLID_3904_" class="st2" d="M268.2,280.4c-1.6,0-3.1,0-4.7,0c-1,0-1.8-0.2-2.5-1.1c-0.4-0.5-0.5-1.1-0.5-1.6
+	<polygon id="XMLID_3922_" class="st9" points="498.5,395.3 495.6,391 505.4,385 495.6,378.9 498.6,374.6 511.8,382.8 511.8,387.1 	
+		"/>
+	<circle id="XMLID_3919_" class="st10" cx="493.5" cy="383.6" r="29"/>
+	<line id="XMLID_3918_" class="st11" x1="274.9" y1="261.3" x2="327.4" y2="310.1"/>
+	<line id="XMLID_3917_" class="st11" x1="711.3" y1="361.8" x2="661.3" y2="383.6"/>
+	<line id="XMLID_3916_" class="st11" x1="631.3" y1="212.8" x2="565.1" y2="232.2"/>
+	<line id="XMLID_3915_" class="st11" x1="565.6" y1="232.4" x2="470.2" y2="223.1"/>
+	<line id="XMLID_3914_" class="st11" x1="565.1" y1="232.7" x2="572.5" y2="301.1"/>
+	<line id="XMLID_3913_" class="st11" x1="644.7" y1="211.8" x2="708.8" y2="229.3"/>
+	<line id="XMLID_3912_" class="st11" x1="514.8" y1="364.5" x2="567.8" y2="320.4"/>
+	<line id="XMLID_3911_" class="st11" x1="368.4" y1="308.6" x2="415.4" y2="261.3"/>
+	<line id="XMLID_3910_" class="st11" x1="303.5" y1="390" x2="331.6" y2="356.5"/>
+	<line id="XMLID_3909_" class="st11" x1="522.6" y1="384.5" x2="635.6" y2="389.4"/>
+	<line id="XMLID_3908_" class="st11" x1="375.7" y1="344.6" x2="465.1" y2="378.1"/>
+	<circle id="XMLID_3905_" class="st9" cx="267.5" cy="249.8" r="16.6"/>
+	<path id="XMLID_3904_" class="st2" d="M267.5,258.3c-1.6,0-3.1,0-4.7,0c-1,0-1.8-0.2-2.5-1.1c-0.4-0.5-0.5-1.1-0.5-1.6
 		c0-1.6,0.1-3.2,0.9-4.6c0.5-1,1.3-1.6,2.5-1.8c0.3-0.1,0.6,0,1,0.2c0.7,0.5,1.5,1,2.3,1.2c1.4,0.3,2.7,0.1,3.8-0.6
 		c0.1-0.1,0.2-0.2,0.4-0.2c1-0.6,1.8-0.6,2.7,0.1c1,0.6,1.4,1.7,1.6,2.8c0.3,1.1,0.4,2.1,0.3,3.3c-0.1,1.4-1,2.3-2.3,2.6
-		c-0.2,0-0.5,0-0.7,0C271.3,280.4,269.8,280.4,268.2,280.4z"/>
-	<path id="XMLID_3903_" class="st2" d="M272.5,267.7c-0.1,2.3-2,4.3-4.4,4.2c-2.3-0.1-4.2-2-4.2-4.3c0.1-2.3,2-4.3,4.4-4.2
-		C270.7,263.5,272.6,265.4,272.5,267.7z"/>
-	<circle id="XMLID_3900_" class="st9" cx="297.3" cy="417.4" r="11.6"/>
-	<path id="XMLID_3899_" class="st2" d="M297.3,423.4c-1.1,0-2.1,0-3.3,0c-0.6,0-1.3-0.2-1.7-0.7c-0.2-0.3-0.3-0.7-0.4-1.2
+		c-0.2,0-0.5,0-0.7,0C270.6,258.3,269.1,258.3,267.5,258.3z"/>
+	<path id="XMLID_3903_" class="st2" d="M271.8,245.6c-0.1,2.3-2,4.3-4.4,4.2c-2.3-0.1-4.2-2-4.2-4.3c0.1-2.3,2-4.3,4.4-4.2
+		S271.9,243.3,271.8,245.6z"/>
+	<circle id="XMLID_3900_" class="st9" cx="296.6" cy="395.3" r="11.6"/>
+	<path id="XMLID_3899_" class="st2" d="M296.6,401.3c-1.1,0-2.1,0-3.3,0c-0.6,0-1.3-0.2-1.7-0.7c-0.2-0.3-0.3-0.7-0.4-1.2
 		c0-1.1,0.1-2.2,0.6-3.2c0.3-0.7,0.9-1.2,1.7-1.3c0.2,0,0.4,0,0.6,0.1c0.5,0.3,1,0.6,1.6,0.7c1,0.2,1.8,0,2.7-0.4
 		c0.1-0.1,0.2-0.1,0.3-0.2c0.6-0.4,1.3-0.4,1.9,0.1c0.6,0.4,1,1.2,1.2,1.9c0.2,0.7,0.2,1.5,0.2,2.2c-0.1,1-0.6,1.6-1.6,1.8
-		c-0.2,0-0.3,0-0.5,0C299.4,423.4,298.3,423.4,297.3,423.4z"/>
-	<path id="XMLID_3898_" class="st2" d="M300.3,414.5c0,1.7-1.4,3-3,2.9c-1.6,0-2.9-1.4-2.9-3c0-1.7,1.4-3,3-2.9
-		C299,411.6,300.3,412.9,300.3,414.5z"/>
-	<circle id="XMLID_3884_" class="st10" cx="429.2" cy="242.9" r="42.1"/>
+		c-0.2,0-0.3,0-0.5,0C298.7,401.3,297.6,401.3,296.6,401.3z"/>
+	<path id="XMLID_3898_" class="st2" d="M299.6,392.4c0,1.7-1.4,3-3,2.9c-1.6,0-2.9-1.4-2.9-3c0-1.7,1.4-3,3-2.9
+		C298.3,389.5,299.6,390.8,299.6,392.4z"/>
+	<circle id="XMLID_3884_" class="st10" cx="428.5" cy="220.8" r="42.1"/>
 	<g id="XMLID_3882_">
-		<rect id="XMLID_3883_" x="405" y="214.8" class="st12" width="31.8" height="23.9"/>
+		<rect id="XMLID_3883_" x="404.3" y="192.7" class="st12" width="31.8" height="23.9"/>
 	</g>
 	<g id="XMLID_3880_">
-		<rect id="XMLID_3881_" x="405" y="250.6" class="st13" width="15.9" height="15.9"/>
+		<rect id="XMLID_3881_" x="404.3" y="228.5" class="st13" width="15.9" height="15.9"/>
 	</g>
 	<g id="XMLID_3878_">
-		<rect id="XMLID_3879_" x="407.1" y="252.7" class="st2" width="12" height="12"/>
+		<rect id="XMLID_3879_" x="406.4" y="230.6" class="st2" width="12" height="12"/>
 	</g>
 	<g id="XMLID_3841_">
 		<g id="XMLID_3876_">
-			<rect id="XMLID_3877_" x="436.8" y="218.4" class="st14" width="0.6" height="0.7"/>
+			<rect id="XMLID_3877_" x="436.1" y="196.3" class="st14" width="0.6" height="0.7"/>
 		</g>
 		<g id="XMLID_3874_">
-			<rect id="XMLID_3875_" x="438.4" y="218.4" class="st14" width="0.7" height="0.7"/>
+			<rect id="XMLID_3875_" x="437.7" y="196.3" class="st14" width="0.7" height="0.7"/>
 		</g>
 		<g id="XMLID_3872_">
-			<polygon id="XMLID_3873_" class="st14" points="441.2,219.4 440.5,219.4 440.5,219.2 440.3,219.2 440.3,218.4 441.2,218.4 			"/>
+			<polygon id="XMLID_3873_" class="st14" points="440.5,197.3 439.8,197.3 439.8,197.1 439.6,197.1 439.6,196.3 440.5,196.3 			"/>
 		</g>
 		<g id="XMLID_3862_">
-			<path id="XMLID_3863_" class="st14" d="M441.2,240.6h-0.7v-1.2h0.7V240.6z M441.2,237.9h-0.7v-1.2h0.7V237.9z M441.2,235.3h-0.7
-				v-1.2h0.7V235.3z M441.2,232.6h-0.7v-1.2h0.7V232.6z M441.2,229.9h-0.7v-1.2h0.7V229.9z M441.2,227.4h-0.7v-1.2h0.7V227.4z
-				 M441.2,224.7h-0.7v-1.2h0.7V224.7z M441.2,222h-0.7v-1.2h0.7V222z"/>
+			<path id="XMLID_3863_" class="st14" d="M440.5,218.5h-0.7v-1.2h0.7V218.5z M440.5,215.8h-0.7v-1.2h0.7V215.8z M440.5,213.2h-0.7
+				V212h0.7V213.2z M440.5,210.5h-0.7v-1.2h0.7V210.5z M440.5,207.8h-0.7v-1.2h0.7V207.8z M440.5,205.3h-0.7v-1.2h0.7V205.3z
+				 M440.5,202.6h-0.7v-1.2h0.7V202.6z M440.5,199.9h-0.7v-1.2h0.7V199.9z"/>
 		</g>
 		<g id="XMLID_3860_">
-			<polygon id="XMLID_3861_" class="st14" points="441.2,243.1 440.3,243.1 440.3,242.3 440.5,242.3 440.5,242.1 441.2,242.1 			"/>
+			<polygon id="XMLID_3861_" class="st14" points="440.5,221 439.6,221 439.6,220.2 439.8,220.2 439.8,220 440.5,220 			"/>
 		</g>
 		<g id="XMLID_3848_">
-			<path id="XMLID_3849_" class="st14" d="M438.5,243.1h-1.3v-0.7h1.3V243.1z M435.7,243.1h-1.3v-0.7h1.3V243.1z M432.8,243.1h-1.3
-				v-0.7h1.3V243.1z M429.9,243.1h-1.3v-0.7h1.3V243.1z M427,243.1h-1.3v-0.7h1.3V243.1z M424.1,243.1h-1.3v-0.7h1.3V243.1z
-				 M421.2,243.1h-1.3v-0.7h1.3V243.1z M418.3,243.1H417v-0.7h1.3V243.1z M415.4,243.1h-1.3v-0.7h1.3V243.1z M412.5,243.1h-1.3v-0.7
-				h1.3V243.1z"/>
+			<path id="XMLID_3849_" class="st14" d="M437.8,221h-1.3v-0.7h1.3V221z M435,221h-1.3v-0.7h1.3V221z M432.1,221h-1.3v-0.7h1.3V221
+				z M429.2,221h-1.3v-0.7h1.3V221z M426.3,221H425v-0.7h1.3V221z M423.4,221h-1.3v-0.7h1.3V221z M420.5,221h-1.3v-0.7h1.3V221z
+				 M417.6,221h-1.3v-0.7h1.3V221z M414.7,221h-1.3v-0.7h1.3V221z M411.8,221h-1.3v-0.7h1.3V221z"/>
 		</g>
 		<g id="XMLID_3846_">
-			<polygon id="XMLID_3847_" class="st14" points="409.6,243.1 408.6,243.1 408.6,242.1 409.4,242.1 409.4,242.3 409.6,242.3 			"/>
+			<polygon id="XMLID_3847_" class="st14" points="408.9,221 407.9,221 407.9,220 408.7,220 408.7,220.2 408.9,220.2 			"/>
 		</g>
 		<g id="XMLID_3844_">
-			<rect id="XMLID_3845_" x="408.6" y="240.3" class="st14" width="0.7" height="0.7"/>
+			<rect id="XMLID_3845_" x="407.9" y="218.2" class="st14" width="0.7" height="0.7"/>
 		</g>
 		<g id="XMLID_3842_">
-			<rect id="XMLID_3843_" x="408.6" y="238.7" class="st14" width="0.7" height="0.6"/>
+			<rect id="XMLID_3843_" x="407.9" y="216.6" class="st14" width="0.7" height="0.6"/>
 		</g>
 	</g>
 	<g id="XMLID_3812_">
 		<g id="XMLID_3839_">
-			<rect id="XMLID_3840_" x="420.9" y="252.2" class="st14" width="0.6" height="0.7"/>
+			<rect id="XMLID_3840_" x="420.2" y="230.1" class="st14" width="0.6" height="0.7"/>
 		</g>
 		<g id="XMLID_3837_">
-			<rect id="XMLID_3838_" x="422.5" y="252.2" class="st14" width="0.7" height="0.7"/>
+			<rect id="XMLID_3838_" x="421.8" y="230.1" class="st14" width="0.7" height="0.7"/>
 		</g>
 		<g id="XMLID_3835_">
-			<polygon id="XMLID_3836_" class="st14" points="425.3,253.2 424.6,253.2 424.6,253 424.4,253 424.4,252.2 425.3,252.2 			"/>
+			<polygon id="XMLID_3836_" class="st14" points="424.6,231.1 423.9,231.1 423.9,230.9 423.7,230.9 423.7,230.1 424.6,230.1 			"/>
 		</g>
 		<g id="XMLID_3828_">
-			<path id="XMLID_3829_" class="st14" d="M425.3,268.3h-0.7V267h0.7V268.3z M425.3,265.3h-0.7V264h0.7V265.3z M425.3,262.3h-0.7
-				V261h0.7V262.3z M425.3,259.3h-0.7V258h0.7V259.3z M425.3,256.2h-0.7v-1.3h0.7V256.2z"/>
+			<path id="XMLID_3829_" class="st14" d="M424.6,246.1h-0.7v-1.3h0.7V246.1z M424.6,243.1h-0.7v-1.3h0.7V243.1z M424.6,240.1h-0.7
+				v-1.3h0.7V240.1z M424.6,237.1h-0.7v-1.3h0.7V237.1z M424.6,234.1h-0.7v-1.3h0.7V234.1z"/>
 		</g>
 		<g id="XMLID_3826_">
-			<polygon id="XMLID_3827_" class="st14" points="425.3,270.9 424.4,270.9 424.4,270.2 424.6,270.2 424.6,270 425.3,270 			"/>
+			<polygon id="XMLID_3827_" class="st14" points="424.6,248.8 423.7,248.8 423.7,248.1 423.9,248.1 423.9,247.9 424.6,247.9 			"/>
 		</g>
 		<g id="XMLID_3819_">
-			<path id="XMLID_3820_" class="st14" d="M422.6,270.9h-1.3v-0.7h1.3V270.9z M419.7,270.9h-1.3v-0.7h1.3V270.9z M416.6,270.9h-1.3
-				v-0.7h1.3V270.9z M413.6,270.9h-1.3v-0.7h1.3V270.9z M410.6,270.9h-1.3v-0.7h1.3V270.9z"/>
+			<path id="XMLID_3820_" class="st14" d="M421.9,248.8h-1.3V248h1.3V248.8z M419,248.8h-1.3V248h1.3V248.8z M415.9,248.8h-1.3V248
+				h1.3V248.8z M412.9,248.8h-1.3V248h1.3V248.8z M409.9,248.8h-1.3V248h1.3V248.8z"/>
 		</g>
 		<g id="XMLID_3817_">
-			<polygon id="XMLID_3818_" class="st14" points="407.6,270.9 406.6,270.9 406.6,270 407.4,270 407.4,270.2 407.6,270.2 			"/>
+			<polygon id="XMLID_3818_" class="st14" points="406.9,248.8 405.9,248.8 405.9,247.9 406.7,247.9 406.7,248.1 406.9,248.1 			"/>
 		</g>
 		<g id="XMLID_3815_">
-			<rect id="XMLID_3816_" x="406.6" y="268.1" class="st14" width="0.7" height="0.7"/>
+			<rect id="XMLID_3816_" x="405.9" y="246" class="st14" width="0.7" height="0.7"/>
 		</g>
 		<g id="XMLID_3813_">
-			<rect id="XMLID_3814_" x="406.6" y="266.5" class="st14" width="0.7" height="0.6"/>
+			<rect id="XMLID_3814_" x="405.9" y="244.4" class="st14" width="0.7" height="0.6"/>
 		</g>
 	</g>
 	<g id="XMLID_3810_">
-		<rect id="XMLID_3811_" x="428.9" y="246.7" class="st12" width="20" height="20"/>
+		<rect id="XMLID_3811_" x="428.2" y="224.6" class="st12" width="20" height="20"/>
 	</g>
 	<g id="XMLID_3808_">
-		<rect id="XMLID_3809_" x="430.9" y="248.6" class="st2" width="15.9" height="15.9"/>
+		<rect id="XMLID_3809_" x="430.2" y="226.5" class="st2" width="15.9" height="15.9"/>
 	</g>
 	<g id="XMLID_3775_">
 		<g id="XMLID_3806_">
-			<rect id="XMLID_3807_" x="448.8" y="248.3" class="st14" width="0.6" height="0.7"/>
+			<rect id="XMLID_3807_" x="448.1" y="226.2" class="st14" width="0.6" height="0.7"/>
 		</g>
 		<g id="XMLID_3804_">
-			<rect id="XMLID_3805_" x="450.4" y="248.3" class="st14" width="0.7" height="0.7"/>
+			<rect id="XMLID_3805_" x="449.7" y="226.2" class="st14" width="0.7" height="0.7"/>
 		</g>
 		<g id="XMLID_3802_">
-			<polygon id="XMLID_3803_" class="st14" points="453.2,249.3 452.4,249.3 452.4,249 452.2,249 452.2,248.3 453.2,248.3 			"/>
+			<polygon id="XMLID_3803_" class="st14" points="452.5,227.2 451.7,227.2 451.7,226.9 451.5,226.9 451.5,226.2 452.5,226.2 			"/>
 		</g>
 		<g id="XMLID_3793_">
-			<path id="XMLID_3794_" class="st14" d="M453.2,268.4h-0.7v-1.2h0.7V268.4z M453.2,265.7h-0.7v-1.2h0.7V265.7z M453.2,262.9h-0.7
-				v-1.2h0.7V262.9z M453.2,260.1h-0.7V259h0.7V260.1z M453.2,257.5h-0.7v-1.2h0.7V257.5z M453.2,254.7h-0.7v-1.2h0.7V254.7z
-				 M453.2,252h-0.7v-1.2h0.7V252z"/>
+			<path id="XMLID_3794_" class="st14" d="M452.5,246.3h-0.7V245h0.7V246.3z M452.5,243.6h-0.7v-1.2h0.7V243.6z M452.5,240.8h-0.7
+				v-1.2h0.7V240.8z M452.5,238h-0.7v-1.1h0.7V238z M452.5,235.4h-0.7v-1.2h0.7V235.4z M452.5,232.6h-0.7v-1.2h0.7V232.6z
+				 M452.5,229.9h-0.7v-1.2h0.7V229.9z"/>
 		</g>
 		<g id="XMLID_3791_">
-			<polygon id="XMLID_3792_" class="st14" points="453.2,270.9 452.2,270.9 452.2,270.2 452.4,270.2 452.4,270 453.2,270 			"/>
+			<polygon id="XMLID_3792_" class="st14" points="452.5,248.8 451.5,248.8 451.5,248.1 451.7,248.1 451.7,247.9 452.5,247.9 			"/>
 		</g>
 		<g id="XMLID_3782_">
-			<path id="XMLID_3783_" class="st14" d="M450.6,270.9h-1.2v-0.7h1.2V270.9z M447.9,270.9h-1.2v-0.7h1.2V270.9z M445.2,270.9H444
-				v-0.7h1.2V270.9z M442.4,270.9h-1.2v-0.7h1.2V270.9z M439.7,270.9h-1.2v-0.7h1.2V270.9z M436.9,270.9h-1.2v-0.7h1.2V270.9z
-				 M434.3,270.9h-1.2v-0.7h1.2V270.9z"/>
+			<path id="XMLID_3783_" class="st14" d="M449.9,248.8h-1.2V248h1.2V248.8z M447.2,248.8H446V248h1.2V248.8z M444.5,248.8h-1.2V248
+				h1.2V248.8z M441.7,248.8h-1.2V248h1.2V248.8z M439,248.8h-1.2V248h1.2V248.8z M436.2,248.8H435V248h1.2V248.8z M433.6,248.8
+				h-1.2V248h1.2V248.8z"/>
 		</g>
 		<g id="XMLID_3780_">
-			<polygon id="XMLID_3781_" class="st14" points="431.5,270.9 430.5,270.9 430.5,270 431.3,270 431.3,270.2 431.5,270.2 			"/>
+			<polygon id="XMLID_3781_" class="st14" points="430.8,248.8 429.8,248.8 429.8,247.9 430.6,247.9 430.6,248.1 430.8,248.1 			"/>
 		</g>
 		<g id="XMLID_3778_">
-			<rect id="XMLID_3779_" x="430.5" y="268.1" class="st14" width="0.7" height="0.7"/>
+			<rect id="XMLID_3779_" x="429.8" y="246" class="st14" width="0.7" height="0.7"/>
 		</g>
 		<g id="XMLID_3776_">
-			<rect id="XMLID_3777_" x="430.5" y="266.5" class="st14" width="0.7" height="0.6"/>
+			<rect id="XMLID_3777_" x="429.8" y="244.4" class="st14" width="0.7" height="0.6"/>
 		</g>
 	</g>
 	<g id="XMLID_3773_">
-		<rect id="XMLID_3774_" x="407.1" y="216.8" class="st2" width="27.8" height="20"/>
+		<rect id="XMLID_3774_" x="406.4" y="194.7" class="st2" width="27.8" height="20"/>
 	</g>
-	<polygon id="XMLID_3770_" class="st9" points="407.1,230.8 415,220.8 423,230.8 423,236.7 407.1,236.7 	"/>
-	<polygon id="XMLID_3767_" class="st9" points="432.9,236.7 424.9,226.7 417,236.7 	"/>
+	<polygon id="XMLID_3770_" class="st9" points="406.4,208.7 414.3,198.7 422.3,208.7 422.3,214.6 406.4,214.6 	"/>
+	<polygon id="XMLID_3767_" class="st9" points="432.2,214.6 424.2,204.6 416.3,214.6 	"/>
 	<g id="XMLID_3765_">
-		<circle id="XMLID_3766_" class="st13" cx="428.9" cy="222.8" r="2"/>
+		<circle id="XMLID_3766_" class="st13" cx="428.2" cy="200.7" r="2"/>
 	</g>
 	<g id="XMLID_3760_">
 		<g id="XMLID_110_">
-			<circle id="XMLID_111_" class="st15" cx="438.9" cy="256.6" r="3.9"/>
+			<circle id="XMLID_111_" class="st15" cx="438.2" cy="234.5" r="3.9"/>
 		</g>
 	</g>
 	<g id="XMLID_3758_">
-		<polygon id="XMLID_3759_" class="st2" points="438.1,255.3 438.1,257.9 440,256.6 		"/>
+		<polygon id="XMLID_3759_" class="st2" points="437.4,233.2 437.4,235.8 439.3,234.5 		"/>
 	</g>
 	<g id="XMLID_3756_">
-		<rect id="XMLID_3757_" x="444.8" y="218.4" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3757_" x="444.1" y="196.3" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3754_">
-		<rect id="XMLID_3755_" x="444.8" y="220.4" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3755_" x="444.1" y="198.3" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3752_">
-		<rect id="XMLID_3753_" x="444.8" y="222.4" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3753_" x="444.1" y="200.3" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3750_">
-		<rect id="XMLID_3751_" x="444.8" y="224.4" class="st13" width="3.9" height="0.7"/>
+		<rect id="XMLID_3751_" x="444.1" y="202.3" class="st13" width="3.9" height="0.7"/>
 	</g>
 	<g id="XMLID_3748_">
-		<rect id="XMLID_3749_" x="444.8" y="228.3" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3749_" x="444.1" y="206.2" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3746_">
-		<rect id="XMLID_3747_" x="444.8" y="230.4" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3747_" x="444.1" y="208.3" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3744_">
-		<rect id="XMLID_3745_" x="444.8" y="232.3" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3745_" x="444.1" y="210.2" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3742_">
-		<rect id="XMLID_3743_" x="444.8" y="234.3" class="st13" width="3.9" height="0.7"/>
+		<rect id="XMLID_3743_" x="444.1" y="212.2" class="st13" width="3.9" height="0.7"/>
 	</g>
 	<g id="XMLID_3740_">
-		<rect id="XMLID_3741_" x="444.8" y="238.3" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3741_" x="444.1" y="216.2" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3738_">
-		<rect id="XMLID_3739_" x="444.8" y="240.3" class="st13" width="8" height="0.7"/>
+		<rect id="XMLID_3739_" x="444.1" y="218.2" class="st13" width="8" height="0.7"/>
 	</g>
 	<g id="XMLID_3736_">
-		<rect id="XMLID_3737_" x="444.8" y="242.3" class="st13" width="4.4" height="0.7"/>
+		<rect id="XMLID_3737_" x="444.1" y="220.2" class="st13" width="4.4" height="0.7"/>
 	</g>
 	<g id="XMLID_3729_">
 		<g id="XMLID_3734_">
-			<polygon id="XMLID_3735_" class="st14" points="414.9,263.9 412.9,262.8 414.9,261.9 415.1,262.3 413.8,262.8 415.1,263.5 			"/>
+			<polygon id="XMLID_3735_" class="st14" points="414.2,241.8 412.2,240.6 414.2,239.8 414.4,240.1 413.1,240.6 414.4,241.4 			"/>
 		</g>
 		<g id="XMLID_3732_">
-			<polygon id="XMLID_3733_" class="st14" points="416.6,263.9 416.5,263.5 417.6,262.8 416.5,262.3 416.6,261.9 418.6,262.8 			"/>
+			<polygon id="XMLID_3733_" class="st14" points="415.9,241.8 415.8,241.4 416.9,240.6 415.8,240.1 415.9,239.8 417.9,240.6 			"/>
 		</g>
 		<g id="XMLID_3730_">
 			
-				<rect id="XMLID_3731_" x="415.5" y="261.6" transform="matrix(-0.9771 -0.2129 0.2129 -0.9771 765.9463 608.2015)" class="st14" width="0.4" height="2.5"/>
+				<rect id="XMLID_3731_" x="414.8" y="239.5" transform="matrix(0.9771 0.2129 -0.2129 0.9771 60.762 -82.8385)" class="st14" width="0.4" height="2.5"/>
 		</g>
 	</g>
 	<g id="XMLID_3727_">
-		<rect id="XMLID_3728_" x="407.8" y="253.5" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3728_" x="407.1" y="231.4" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3725_">
-		<rect id="XMLID_3726_" x="407.8" y="254.7" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3726_" x="407.1" y="232.6" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3723_">
-		<rect id="XMLID_3724_" x="407.8" y="255.9" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3724_" x="407.1" y="233.8" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3721_">
-		<rect id="XMLID_3722_" x="407.8" y="257" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3722_" x="407.1" y="234.9" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3719_">
-		<rect id="XMLID_3720_" x="407.8" y="258.1" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3720_" x="407.1" y="236" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3717_">
-		<rect id="XMLID_3718_" x="410.1" y="253.5" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3718_" x="409.4" y="231.4" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3715_">
-		<rect id="XMLID_3716_" x="410.1" y="254.7" class="st14" width="8" height="0.4"/>
+		<rect id="XMLID_3716_" x="409.4" y="232.6" class="st14" width="8" height="0.4"/>
 	</g>
 	<g id="XMLID_3713_">
-		<rect id="XMLID_3714_" x="410.1" y="255.9" class="st14" width="8" height="0.4"/>
+		<rect id="XMLID_3714_" x="409.4" y="233.8" class="st14" width="8" height="0.4"/>
 	</g>
 	<g id="XMLID_3711_">
-		<rect id="XMLID_3712_" x="410.1" y="257" class="st14" width="8" height="0.4"/>
+		<rect id="XMLID_3712_" x="409.4" y="234.9" class="st14" width="8" height="0.4"/>
 	</g>
 	<g id="XMLID_3709_">
-		<rect id="XMLID_3710_" x="410.1" y="258.1" class="st14" width="7.4" height="0.4"/>
+		<rect id="XMLID_3710_" x="409.4" y="236" class="st14" width="7.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3707_">
-		<rect id="XMLID_3708_" x="407.8" y="259.1" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3708_" x="407.1" y="237" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3705_">
-		<rect id="XMLID_3706_" x="407.8" y="260.2" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3706_" x="407.1" y="238.1" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3703_">
-		<rect id="XMLID_3704_" x="407.8" y="261.3" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3704_" x="407.1" y="239.1" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3701_">
-		<rect id="XMLID_3702_" x="407.8" y="262.5" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3702_" x="407.1" y="240.4" class="st14" width="1.4" height="0.4"/>
 	</g>
 	<g id="XMLID_3699_">
-		<rect id="XMLID_3700_" x="410.1" y="259.1" class="st14" width="1.4" height="0.4"/>
+		<rect id="XMLID_3700_" x="409.4" y="237" class="st14" width="1.4" height="0.4"/>
 	</g>
-	<circle id="XMLID_3691_" class="st16" cx="349.3" cy="353.6" r="30.3"/>
-	<rect id="XMLID_1196_" x="1084.1" y="400.8" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1195_" x="1084.1" y="402.2" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1194_" x="1084.1" y="403.4" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1193_" x="1084.1" y="404.8" class="st13" width="3.3" height="0.5"/>
-	<rect id="XMLID_1192_" x="1092.9" y="400.8" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1191_" x="1092.9" y="402.2" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1190_" x="1092.9" y="403.4" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1189_" x="1092.9" y="404.8" class="st13" width="3.3" height="0.5"/>
-	<rect id="XMLID_1188_" x="1084.1" y="394.4" class="st17" width="6.7" height="5.3"/>
-	<rect id="XMLID_1187_" x="1092.9" y="394.4" class="st17" width="6.7" height="5.3"/>
-	<rect id="XMLID_1186_" x="1092.9" y="411.8" class="st17" width="2.7" height="12.1"/>
-	<rect id="XMLID_1185_" x="1071.6" y="418.3" class="st14" width="20" height="0.5"/>
-	<rect id="XMLID_1184_" x="1096.9" y="418.3" class="st14" width="6.7" height="0.5"/>
-	<polygon id="XMLID_1183_" class="st14" points="1104.1,421.5 1096.9,421.5 1096.9,420.9 1103.5,420.9 1103.5,386.6 1071.8,386.6 
-		1071.8,420.9 1091.5,420.9 1091.5,421.5 1071.3,421.5 1071.3,386.1 1104.1,386.1 	"/>
-	<rect id="XMLID_1182_" x="1075.5" y="400.8" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1179_" x="1075.5" y="402.2" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1178_" x="1075.5" y="403.4" class="st13" width="6.7" height="0.5"/>
-	<rect id="XMLID_1176_" x="1081.3" y="402.8" class="st13" width="4.3" height="0.6"/>
-	<rect id="XMLID_1175_" x="1075.5" y="410.2" class="st13" width="14.7" height="0.5"/>
-	<rect id="XMLID_1173_" x="1075.5" y="411.6" class="st13" width="14.7" height="0.5"/>
-	<rect id="XMLID_1171_" x="1075.5" y="412.8" class="st13" width="14.7" height="0.5"/>
-	<rect id="XMLID_1170_" x="1075.5" y="414.2" class="st13" width="7.4" height="0.5"/>
-	<rect id="XMLID_1165_" x="1071.8" y="386.5" class="st17" width="31.8" height="3.9"/>
-	<rect id="XMLID_1147_" x="1073.4" y="388.2" class="st14" width="0.9" height="0.5"/>
-	<rect id="XMLID_1146_" x="1075.1" y="388.2" class="st14" width="0.9" height="0.5"/>
-	<rect id="XMLID_1145_" x="1076.7" y="388.2" class="st14" width="0.9" height="0.5"/>
-	<rect id="XMLID_1144_" x="1080.5" y="388.2" class="st14" width="5.8" height="0.5"/>
-	<rect id="XMLID_1143_" x="1086.2" y="388.2" class="st2" width="14.3" height="0.5"/>
-	<rect id="XMLID_1142_" x="1071.8" y="390.2" class="st14" width="31.8" height="0.5"/>
-	<rect id="XMLID_1141_" x="1079" y="386.5" class="st14" width="0.5" height="3.9"/>
-	<path id="XMLID_1114_" class="st14" d="M1094.2,410.7c-3.8,0-6.9-3.1-6.9-6.9c0-3.8,3.1-6.9,6.9-6.9c3.8,0,6.9,3.1,6.9,6.9
-		C1101.2,407.6,1098.1,410.7,1094.2,410.7z M1094.2,397.3c-3.5,0-6.4,2.9-6.4,6.4s2.9,6.4,6.4,6.4s6.4-2.9,6.4-6.4
-		S1097.8,397.3,1094.2,397.3z"/>
-	<circle id="XMLID_1113_" class="st13" cx="1094.2" cy="403.8" r="5.3"/>
-	<path id="XMLID_1109_" class="st12" d="M1090.4,407.5c-2.1-2.1-2.1-5.5,0-7.6c2.1-2.1,5.5-2.1,7.6,0L1090.4,407.5z"/>
-	<rect id="XMLID_1108_" x="1093.9" y="410.5" class="st14" width="0.5" height="1.4"/>
-	<path id="XMLID_908_" class="st14" d="M1095.8,424.1h-3.2v-12.6h3.2V424.1z M1093.2,423.6h2.1v-11.5h-2.1V423.6z"/>
-	<polygon id="XMLID_907_" class="st13" points="1102.6,417.4 1096.9,417.4 1096.9,416.9 1102,416.9 1102,391.9 1073.2,391.9 
-		1073.2,416.9 1091.5,416.9 1091.5,417.4 1072.7,417.4 1072.7,391.4 1102.6,391.4 	"/>
-	<rect id="XMLID_906_" x="1075.4" y="394.4" class="st17" width="6.7" height="5.3"/>
-	<rect id="XMLID_905_" x="1075.4" y="407.5" class="st14" width="5.4" height="0.5"/>
-	<rect id="XMLID_904_" x="1081.2" y="408" class="st14" width="1.8" height="0.6"/>
-	<rect id="XMLID_23_" x="1078" y="408.9" class="st14" width="1.4" height="0.5"/>
-	<rect id="XMLID_3112_" x="1315.8" y="262" class="st16" width="13.1" height="1.2"/>
-	<rect id="XMLID_3110_" x="1315.8" y="264.8" class="st16" width="9.4" height="1.2"/>
-	<rect id="XMLID_3108_" x="1315.8" y="269.1" class="st16" width="13.1" height="1.2"/>
-	<rect id="XMLID_3106_" x="1315.8" y="271.9" class="st16" width="9.4" height="1.2"/>
-	<polygon id="XMLID_3104_" class="st16" points="1312.1,265.3 1310.8,263.9 1311.5,263 1312,263.6 1313.8,261.3 1314.8,262 	"/>
-	<polygon id="XMLID_3102_" class="st16" points="1312.1,272.5 1310.8,271.1 1311.5,270.3 1312,270.8 1313.8,268.6 1314.8,269.2 	"/>
-	<rect id="XMLID_3100_" x="1315.8" y="276" class="st16" width="13.1" height="1.2"/>
-	<rect id="XMLID_3098_" x="1315.8" y="278.8" class="st16" width="9.4" height="1.2"/>
-	<polygon id="XMLID_3096_" class="st16" points="1312.1,279.4 1310.8,278.1 1311.5,277.2 1312,277.7 1313.8,275.4 1314.8,276.1 	"/>
+	<circle id="XMLID_3691_" class="st16" cx="348.6" cy="331.5" r="30.3"/>
+	<rect id="XMLID_1196_" x="1083.4" y="378.6" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1195_" x="1083.4" y="380.1" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1194_" x="1083.4" y="381.3" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1193_" x="1083.4" y="382.6" class="st13" width="3.3" height="0.5"/>
+	<rect id="XMLID_1192_" x="1092.2" y="378.6" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1191_" x="1092.2" y="380.1" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1190_" x="1092.2" y="381.3" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1189_" x="1092.2" y="382.6" class="st13" width="3.3" height="0.5"/>
+	<rect id="XMLID_1188_" x="1083.4" y="372.3" class="st17" width="6.7" height="5.3"/>
+	<rect id="XMLID_1187_" x="1092.2" y="372.3" class="st17" width="6.7" height="5.3"/>
+	<rect id="XMLID_1186_" x="1092.2" y="389.6" class="st17" width="2.7" height="12.1"/>
+	<rect id="XMLID_1185_" x="1070.9" y="396.1" class="st14" width="20" height="0.5"/>
+	<rect id="XMLID_1184_" x="1096.2" y="396.1" class="st14" width="6.7" height="0.5"/>
+	<polygon id="XMLID_1183_" class="st14" points="1103.4,399.4 1096.2,399.4 1096.2,398.8 1102.8,398.8 1102.8,364.5 1071.1,364.5 
+		1071.1,398.8 1090.8,398.8 1090.8,399.4 1070.6,399.4 1070.6,364 1103.4,364 	"/>
+	<rect id="XMLID_1182_" x="1074.8" y="378.6" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1179_" x="1074.8" y="380.1" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1178_" x="1074.8" y="381.3" class="st13" width="6.7" height="0.5"/>
+	<rect id="XMLID_1176_" x="1080.6" y="380.6" class="st13" width="4.3" height="0.6"/>
+	<rect id="XMLID_1175_" x="1074.8" y="388.1" class="st13" width="14.7" height="0.5"/>
+	<rect id="XMLID_1173_" x="1074.8" y="389.5" class="st13" width="14.7" height="0.5"/>
+	<rect id="XMLID_1171_" x="1074.8" y="390.6" class="st13" width="14.7" height="0.5"/>
+	<rect id="XMLID_1170_" x="1074.8" y="392.1" class="st13" width="7.4" height="0.5"/>
+	<rect id="XMLID_1165_" x="1071.1" y="364.4" class="st17" width="31.8" height="3.9"/>
+	<rect id="XMLID_1147_" x="1072.7" y="366.1" class="st14" width="0.9" height="0.5"/>
+	<rect id="XMLID_1146_" x="1074.4" y="366.1" class="st14" width="0.9" height="0.5"/>
+	<rect id="XMLID_1145_" x="1076" y="366.1" class="st14" width="0.9" height="0.5"/>
+	<rect id="XMLID_1144_" x="1079.8" y="366.1" class="st14" width="5.8" height="0.5"/>
+	<rect id="XMLID_1143_" x="1085.5" y="366.1" class="st2" width="14.3" height="0.5"/>
+	<rect id="XMLID_1142_" x="1071.1" y="368.1" class="st14" width="31.8" height="0.5"/>
+	<rect id="XMLID_1141_" x="1078.3" y="364.4" class="st14" width="0.5" height="3.9"/>
+	<path id="XMLID_1114_" class="st14" d="M1093.5,388.6c-3.8,0-6.9-3.1-6.9-6.9s3.1-6.9,6.9-6.9s6.9,3.1,6.9,6.9
+		C1100.5,385.5,1097.4,388.6,1093.5,388.6z M1093.5,375.1c-3.5,0-6.4,2.9-6.4,6.4s2.9,6.4,6.4,6.4s6.4-2.9,6.4-6.4
+		S1097.1,375.1,1093.5,375.1z"/>
+	<circle id="XMLID_1113_" class="st13" cx="1093.5" cy="381.6" r="5.3"/>
+	<path id="XMLID_1109_" class="st12" d="M1089.7,385.4c-2.1-2.1-2.1-5.5,0-7.6s5.5-2.1,7.6,0L1089.7,385.4z"/>
+	<rect id="XMLID_1108_" x="1093.2" y="388.4" class="st14" width="0.5" height="1.4"/>
+	<path id="XMLID_908_" class="st14" d="M1095.1,402h-3.2v-12.6h3.2V402z M1092.5,401.5h2.1V390h-2.1V401.5z"/>
+	<polygon id="XMLID_907_" class="st13" points="1101.9,395.3 1096.2,395.3 1096.2,394.8 1101.3,394.8 1101.3,369.8 1072.5,369.8 
+		1072.5,394.8 1090.8,394.8 1090.8,395.3 1072,395.3 1072,369.3 1101.9,369.3 	"/>
+	<rect id="XMLID_906_" x="1074.7" y="372.3" class="st17" width="6.7" height="5.3"/>
+	<rect id="XMLID_905_" x="1074.7" y="385.4" class="st14" width="5.4" height="0.5"/>
+	<rect id="XMLID_904_" x="1080.5" y="385.9" class="st14" width="1.8" height="0.6"/>
+	<rect id="XMLID_23_" x="1077.3" y="386.8" class="st14" width="1.4" height="0.5"/>
+	<rect id="XMLID_3112_" x="1328.2" y="246.3" class="st16" width="13.1" height="1.2"/>
+	<rect id="XMLID_3110_" x="1328.2" y="249" class="st16" width="9.4" height="1.2"/>
+	<rect id="XMLID_3108_" x="1328.2" y="253.4" class="st16" width="13.1" height="1.2"/>
+	<rect id="XMLID_3106_" x="1328.2" y="256.1" class="st16" width="9.4" height="1.2"/>
+	<polygon id="XMLID_3104_" class="st16" points="1324.5,249.5 1323.2,248.1 1323.9,247.3 1324.4,247.9 1326.2,245.5 1327.2,246.3 	
+		"/>
+	<polygon id="XMLID_3102_" class="st16" points="1324.5,256.8 1323.2,255.4 1323.9,254.5 1324.4,255 1326.2,252.9 1327.2,253.5 	"/>
+	<rect id="XMLID_3100_" x="1328.2" y="260.3" class="st16" width="13.1" height="1.2"/>
+	<rect id="XMLID_3098_" x="1328.2" y="263" class="st16" width="9.4" height="1.2"/>
+	<polygon id="XMLID_3096_" class="st16" points="1324.5,263.6 1323.2,262.4 1323.9,261.5 1324.4,262 1326.2,259.6 1327.2,260.4 	"/>
 	<g id="XMLID_3040_">
 		<g id="XMLID_3092_">
-			<rect id="XMLID_3093_" x="1167.8" y="217.4" class="st12" width="6.9" height="48.2"/>
+			<rect id="XMLID_3093_" x="1167.1" y="195.3" class="st12" width="6.9" height="48.2"/>
 		</g>
 		<g id="XMLID_3090_">
-			<rect id="XMLID_3091_" x="1167.8" y="220.4" class="st14" width="3.5" height="0.6"/>
+			<rect id="XMLID_3091_" x="1167.1" y="198.3" class="st14" width="3.5" height="0.6"/>
 		</g>
 		<g id="XMLID_3088_">
-			<rect id="XMLID_3089_" x="1167.8" y="229.1" class="st14" width="3.5" height="0.6"/>
+			<rect id="XMLID_3089_" x="1167.1" y="207" class="st14" width="3.5" height="0.6"/>
 		</g>
 		<g id="XMLID_3086_">
-			<rect id="XMLID_3087_" x="1167.8" y="222.2" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3087_" x="1167.1" y="200.1" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3084_">
-			<rect id="XMLID_3085_" x="1167.8" y="225.6" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3085_" x="1167.1" y="203.5" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3082_">
-			<rect id="XMLID_3083_" x="1167.8" y="223.9" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3083_" x="1167.1" y="201.8" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3080_">
-			<rect id="XMLID_3081_" x="1167.8" y="227.3" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3081_" x="1167.1" y="205.2" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3078_">
-			<rect id="XMLID_3079_" x="1167.8" y="230.8" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3079_" x="1167.1" y="208.7" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3076_">
-			<rect id="XMLID_3077_" x="1167.8" y="234.2" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3077_" x="1167.1" y="212.1" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3074_">
-			<rect id="XMLID_3075_" x="1167.8" y="232.5" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3075_" x="1167.1" y="210.4" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3072_">
-			<rect id="XMLID_3073_" x="1167.8" y="235.9" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3073_" x="1167.1" y="213.8" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3070_">
-			<rect id="XMLID_3071_" x="1167.8" y="237.6" class="st14" width="3.5" height="0.6"/>
+			<rect id="XMLID_3071_" x="1167.1" y="215.5" class="st14" width="3.5" height="0.6"/>
 		</g>
 		<g id="XMLID_3068_">
-			<rect id="XMLID_3069_" x="1167.8" y="246.3" class="st14" width="3.5" height="0.6"/>
+			<rect id="XMLID_3069_" x="1167.1" y="224.2" class="st14" width="3.5" height="0.6"/>
 		</g>
 		<g id="XMLID_3066_">
-			<rect id="XMLID_3067_" x="1167.8" y="239.4" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3067_" x="1167.1" y="217.3" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3064_">
-			<rect id="XMLID_3065_" x="1167.8" y="242.9" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3065_" x="1167.1" y="220.8" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3062_">
-			<rect id="XMLID_3063_" x="1167.8" y="241.1" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3063_" x="1167.1" y="219" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3060_">
-			<rect id="XMLID_3061_" x="1167.8" y="244.6" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3061_" x="1167.1" y="222.5" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3058_">
-			<rect id="XMLID_3059_" x="1167.8" y="254.9" class="st14" width="3.5" height="0.6"/>
+			<rect id="XMLID_3059_" x="1167.1" y="232.8" class="st14" width="3.5" height="0.6"/>
 		</g>
 		<g id="XMLID_3053_">
-			<rect id="XMLID_3054_" x="1167.8" y="256.6" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3054_" x="1167.1" y="234.5" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3051_">
-			<rect id="XMLID_3052_" x="1167.8" y="258.3" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3052_" x="1167.1" y="236.1" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3049_">
-			<rect id="XMLID_3050_" x="1167.8" y="248" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3050_" x="1167.1" y="225.9" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3047_">
-			<rect id="XMLID_3048_" x="1167.8" y="251.5" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3048_" x="1167.1" y="229.4" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3045_">
-			<rect id="XMLID_3046_" x="1167.8" y="249.7" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3046_" x="1167.1" y="227.6" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3043_">
-			<rect id="XMLID_3044_" x="1167.8" y="253.2" class="st14" width="1.7" height="0.6"/>
+			<rect id="XMLID_3044_" x="1167.1" y="231.1" class="st14" width="1.7" height="0.6"/>
 		</g>
 		<g id="XMLID_3041_">
-			<circle id="XMLID_3042_" class="st2" cx="1171.2" cy="262.2" r="0.9"/>
+			<circle id="XMLID_3042_" class="st2" cx="1170.5" cy="240.1" r="0.9"/>
 		</g>
 	</g>
 	<g id="XMLID_3037_">
 		<g id="XMLID_3038_">
-			<path id="XMLID_3039_" class="st13" d="M1169.5,262.2h-1.7v3C1168.8,264.5,1169.5,263.5,1169.5,262.2z"/>
+			<path id="XMLID_3039_" class="st13" d="M1168.8,240.1h-1.7v3C1168.1,242.4,1168.8,241.4,1168.8,240.1z"/>
 		</g>
 	</g>
-	<path id="XMLID_3036_" class="st3" d="M1140.2,262.2h24.9v-44.8h-31.8v44.8c0,1.9,1.5,3.4,3.4,3.4S1140.2,264.1,1140.2,262.2z"/>
+	<path id="XMLID_3036_" class="st3" d="M1139.5,240.1h24.9v-44.8h-31.8v44.8c0,1.9,1.5,3.4,3.4,3.4S1139.5,242,1139.5,240.1z"/>
 	<g id="XMLID_2775_">
-		<path id="XMLID_3034_" class="st18" d="M1165,262.2h-24.9c0,1.9-1.5,3.4-3.4,3.4h28.3c1.9,0,3.4-1.5,3.4-3.4H1165z"/>
+		<path id="XMLID_3034_" class="st18" d="M1164.3,240.1h-24.9c0,1.9-1.5,3.4-3.4,3.4h28.3c1.9,0,3.4-1.5,3.4-3.4H1164.3z"/>
 	</g>
 	<g id="XMLID_2771_">
-		<path id="XMLID_2772_" class="st2" d="M1161.9,235h-25.5v-11.1h25.5V235z M1137,234.2h24.1v-9.6H1137V234.2z"/>
+		<path id="XMLID_2772_" class="st2" d="M1161.2,212.9h-25.5v-11.1h25.5V212.9z M1136.3,212.1h24.1v-9.6h-24.1V212.1z"/>
 	</g>
 	<g id="XMLID_2769_">
-		<rect id="XMLID_2770_" x="1136.4" y="257.5" class="st2" width="25.5" height="0.6"/>
+		<rect id="XMLID_2770_" x="1135.7" y="235.4" class="st2" width="25.5" height="0.6"/>
 	</g>
 	<g id="XMLID_2765_">
-		<path id="XMLID_2766_" class="st2" d="M1152.9,255.6h-16.5v-5.9h16.5V255.6z M1137,254.9h15.2v-4.5H1137V254.9z"/>
+		<path id="XMLID_2766_" class="st2" d="M1152.2,233.5h-16.5v-5.9h16.5V233.5z M1136.3,232.8h15.2v-4.5h-15.2V232.8z"/>
 	</g>
 	<g id="XMLID_2761_">
-		<rect id="XMLID_2762_" x="1136.4" y="259.5" class="st2" width="3.8" height="0.6"/>
+		<rect id="XMLID_2762_" x="1135.7" y="237.4" class="st2" width="3.8" height="0.6"/>
 	</g>
 	<g id="XMLID_2759_">
-		<rect id="XMLID_2760_" x="1158.2" y="259.5" class="st2" width="3.8" height="0.6"/>
+		<rect id="XMLID_2760_" x="1157.5" y="237.4" class="st2" width="3.8" height="0.6"/>
 	</g>
 	<g id="XMLID_2726_">
-		<path id="XMLID_2727_" class="st2" d="M1144,241.8h-7.6v-4.2h7.6V241.8z M1137,241.1h6.2v-2.8h-6.2V241.1z"/>
+		<path id="XMLID_2727_" class="st2" d="M1143.3,219.7h-7.6v-4.2h7.6V219.7z M1136.3,219h6.2v-2.8h-6.2V219z"/>
 	</g>
 	<g id="XMLID_2722_">
-		<path id="XMLID_2723_" class="st2" d="M1161.9,241.8h-7.6v-4.2h7.6V241.8z M1155.1,241.1h6.2v-2.8h-6.2V241.1z"/>
+		<path id="XMLID_2723_" class="st2" d="M1161.2,219.7h-7.6v-4.2h7.6V219.7z M1154.4,219h6.2v-2.8h-6.2V219z"/>
 	</g>
 	<g id="XMLID_2718_">
-		<path id="XMLID_2719_" class="st2" d="M1152.9,241.8h-7.6v-4.2h7.6V241.8z M1146,241.1h6.2v-2.8h-6.2V241.1z"/>
+		<path id="XMLID_2719_" class="st2" d="M1152.2,219.7h-7.6v-4.2h7.6V219.7z M1145.3,219h6.2v-2.8h-6.2V219z"/>
 	</g>
 	<g id="XMLID_2716_">
-		<rect id="XMLID_2717_" x="1136.4" y="242.9" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2717_" x="1135.7" y="220.8" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2714_">
-		<rect id="XMLID_2715_" x="1154.3" y="242.9" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2715_" x="1153.6" y="220.8" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2712_">
-		<rect id="XMLID_2713_" x="1145.4" y="242.9" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2713_" x="1144.7" y="220.8" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2710_">
-		<rect id="XMLID_2711_" x="1136.4" y="244.2" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2711_" x="1135.7" y="222.1" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2708_">
-		<rect id="XMLID_2709_" x="1154.3" y="244.2" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2709_" x="1153.6" y="222.1" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2706_">
-		<rect id="XMLID_2707_" x="1145.4" y="244.2" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2707_" x="1144.7" y="222.1" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2704_">
-		<rect id="XMLID_2705_" x="1136.4" y="245.6" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2705_" x="1135.7" y="223.5" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2702_">
-		<rect id="XMLID_2703_" x="1154.3" y="245.6" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2703_" x="1153.6" y="223.5" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2700_">
-		<rect id="XMLID_2701_" x="1154.3" y="249.7" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2701_" x="1153.6" y="227.6" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2663_">
-		<rect id="XMLID_2699_" x="1154.3" y="251.1" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2699_" x="1153.6" y="229" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2659_">
-		<rect id="XMLID_2660_" x="1154.3" y="252.5" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2660_" x="1153.6" y="230.4" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2656_">
-		<rect id="XMLID_2657_" x="1154.3" y="253.8" class="st2" width="4.8" height="0.6"/>
+		<rect id="XMLID_2657_" x="1153.6" y="231.7" class="st2" width="4.8" height="0.6"/>
 	</g>
 	<g id="XMLID_2654_">
-		<rect id="XMLID_2655_" x="1145.4" y="245.6" class="st2" width="7.6" height="0.6"/>
+		<rect id="XMLID_2655_" x="1144.7" y="223.5" class="st2" width="7.6" height="0.6"/>
 	</g>
 	<g id="XMLID_2652_">
-		<rect id="XMLID_2653_" x="1136.4" y="247" class="st2" width="3.8" height="0.6"/>
+		<rect id="XMLID_2653_" x="1135.7" y="224.9" class="st2" width="3.8" height="0.6"/>
 	</g>
 	<g id="XMLID_2650_">
-		<rect id="XMLID_2651_" x="1154.3" y="247" class="st2" width="3.8" height="0.6"/>
+		<rect id="XMLID_2651_" x="1153.6" y="224.9" class="st2" width="3.8" height="0.6"/>
 	</g>
 	<g id="XMLID_2648_">
-		<rect id="XMLID_2649_" x="1145.4" y="247" class="st2" width="3.8" height="0.6"/>
+		<rect id="XMLID_2649_" x="1144.7" y="224.9" class="st2" width="3.8" height="0.6"/>
 	</g>
-	<circle id="XMLID_2159_" class="st8" cx="1319.8" cy="270.6" r="17.2"/>
-	<circle id="XMLID_1136_" class="st8" cx="1087.7" cy="403.8" r="29"/>
-	<line id="XMLID_1135_" class="st11" x1="1306.4" y1="281.4" x2="1243.1" y2="327.3"/>
-	<line id="XMLID_1134_" class="st11" x1="870.1" y1="381.9" x2="926.1" y2="404.6"/>
-	<line id="XMLID_1133_" class="st11" x1="959.5" y1="236.2" x2="1016.1" y2="252.2"/>
-	<line id="XMLID_1132_" class="st11" x1="1015.7" y1="252.5" x2="1111.1" y2="243.2"/>
-	<line id="XMLID_1131_" class="st11" x1="1016.1" y1="252.7" x2="1008.8" y2="321.3"/>
-	<line id="XMLID_1130_" class="st11" x1="918.8" y1="238.8" x2="872.5" y2="249.3"/>
-	<line id="XMLID_1129_" class="st11" x1="1066.5" y1="384.6" x2="1013.5" y2="340.4"/>
-	<line id="XMLID_1128_" class="st11" x1="1218.3" y1="334.2" x2="1165.8" y2="281.4"/>
-	<line id="XMLID_1127_" class="st11" x1="1277.8" y1="410.1" x2="1245.4" y2="373.8"/>
-	<line id="XMLID_1126_" class="st11" x1="1058.8" y1="404.6" x2="942.5" y2="407"/>
-	<line id="XMLID_1125_" class="st11" x1="1225.1" y1="359.3" x2="1116.2" y2="398.2"/>
-	<circle id="XMLID_1117_" class="st16" cx="1284.7" cy="415.4" r="11.6"/>
-	<path id="XMLID_1116_" class="st2" d="M1284.7,421.3c1.1,0,2.1,0,3.3,0c0.6,0,1.3-0.2,1.7-0.7c0.2-0.3,0.3-0.7,0.4-1.2
+	<circle id="XMLID_2159_" class="st8" cx="1332.2" cy="254.9" r="17.2"/>
+	<circle id="XMLID_1136_" class="st8" cx="1087" cy="381.6" r="29"/>
+	<line id="XMLID_1135_" class="st11" x1="1318.8" y1="265.6" x2="1255.5" y2="311.5"/>
+	<line id="XMLID_1134_" class="st11" x1="869.4" y1="359.8" x2="925.4" y2="382.5"/>
+	<line id="XMLID_1133_" class="st11" x1="958.8" y1="214.1" x2="1015.4" y2="230.1"/>
+	<line id="XMLID_1132_" class="st11" x1="1015" y1="230.4" x2="1110.4" y2="221.1"/>
+	<line id="XMLID_1131_" class="st11" x1="1015.4" y1="230.6" x2="1008.1" y2="299.1"/>
+	<line id="XMLID_1130_" class="st11" x1="918.1" y1="216.7" x2="871.8" y2="227.2"/>
+	<line id="XMLID_1129_" class="st11" x1="1065.8" y1="362.5" x2="1012.8" y2="318.3"/>
+	<line id="XMLID_1128_" class="st11" x1="1212.7" y1="311.6" x2="1165.1" y2="259.3"/>
+	<line id="XMLID_1127_" class="st11" x1="1280.1" y1="388" x2="1247.7" y2="351.6"/>
+	<line id="XMLID_1126_" class="st11" x1="1058.1" y1="382.5" x2="941.8" y2="384.9"/>
+	<line id="XMLID_1125_" class="st11" x1="1224.4" y1="337.1" x2="1115.5" y2="376.1"/>
+	<circle id="XMLID_1117_" class="st16" cx="1287" cy="393.3" r="11.6"/>
+	<path id="XMLID_1116_" class="st2" d="M1287,399.1c1.1,0,2.1,0,3.3,0c0.6,0,1.3-0.2,1.7-0.7c0.2-0.3,0.3-0.7,0.4-1.2
 		c0-1.1-0.1-2.2-0.6-3.2c-0.3-0.7-0.9-1.2-1.7-1.3c-0.2,0-0.4,0-0.6,0.1c-0.5,0.3-1,0.6-1.6,0.7c-1,0.2-1.8,0-2.7-0.4
 		c-0.1-0.1-0.2-0.1-0.3-0.2c-0.6-0.4-1.3-0.4-1.9,0.1c-0.6,0.4-1,1.2-1.2,1.9c-0.2,0.7-0.2,1.5-0.2,2.2c0.1,1,0.6,1.6,1.6,1.8
-		c0.2,0,0.3,0,0.5,0C1282.6,421.3,1283.6,421.3,1284.7,421.3z"/>
-	<path id="XMLID_1115_" class="st2" d="M1281.7,412.5c0,1.7,1.4,3,3,2.9c1.6,0,2.9-1.4,2.9-3c0-1.7-1.4-3-3-2.9
-		C1283,409.5,1281.7,410.9,1281.7,412.5z"/>
-	<circle id="XMLID_1112_" class="st16" cx="933.5" cy="407" r="10.8"/>
-	<path id="XMLID_1111_" class="st2" d="M933.7,413.1c1.1,0,2.2,0,3.3,0c0.6,0,1.3-0.2,1.8-0.7c0.3-0.3,0.4-0.7,0.4-1.2
+		c0.2,0,0.3,0,0.5,0C1284.9,399.1,1285.9,399.1,1287,399.1z"/>
+	<path id="XMLID_1115_" class="st2" d="M1284,390.4c0,1.7,1.4,3,3,2.9c1.6,0,2.9-1.4,2.9-3c0-1.7-1.4-3-3-2.9
+		C1285.3,387.4,1284,388.8,1284,390.4z"/>
+	<circle id="XMLID_1112_" class="st16" cx="932.8" cy="384.9" r="10.8"/>
+	<path id="XMLID_1111_" class="st2" d="M933,391c1.1,0,2.2,0,3.3,0c0.6,0,1.3-0.2,1.8-0.7c0.3-0.3,0.4-0.7,0.4-1.2
 		c0-1.2-0.1-2.2-0.6-3.3c-0.3-0.7-1-1.2-1.7-1.3c-0.2,0-0.4,0-0.6,0.1c-0.5,0.3-1.1,0.6-1.7,0.9c-1,0.2-1.9,0-2.8-0.4
 		c-0.1-0.1-0.2-0.1-0.3-0.2c-0.6-0.4-1.3-0.4-1.9,0.1c-0.6,0.5-1,1.2-1.2,1.9c-0.2,0.7-0.3,1.6-0.2,2.3c0.1,1,0.7,1.7,1.7,1.8
-		c0.2,0,0.3,0,0.5,0C931.4,413.1,932.5,413.1,933.7,413.1z"/>
-	<path id="XMLID_1110_" class="st2" d="M930.6,404c0,1.7,1.4,3,3.1,3s3-1.4,3-3.1s-1.4-3-3.1-3C931.8,401,930.6,402.4,930.6,404z"/>
-	<circle id="XMLID_1101_" class="st8" cx="1152.9" cy="240.8" r="42.1"/>
-	<circle id="XMLID_901_" class="st16" cx="1232.7" cy="351.5" r="30.3"/>
+		c0.2,0,0.3,0,0.5,0C930.7,391,931.8,391,933,391z"/>
+	<path id="XMLID_1110_" class="st2" d="M929.9,381.9c0,1.7,1.4,3,3.1,3s3-1.4,3-3.1s-1.4-3-3.1-3
+		C931.1,378.9,929.9,380.3,929.9,381.9z"/>
+	<circle id="XMLID_1101_" class="st8" cx="1152.2" cy="218.7" r="42.1"/>
+	<circle id="XMLID_901_" class="st16" cx="1232" cy="329.4" r="30.3"/>
 	<g id="XMLID_3_">
 		<g id="XMLID_2002_">
-			<path id="XMLID_2004_" class="st2" d="M1252.2,369.3h-30.8c-0.3,0-0.6-0.3-0.6-0.6v-26.9c0-0.3,0.3-0.6,0.6-0.6h30.8
-				c0.3,0,0.6,0.3,0.6,0.6v26.8C1252.8,369,1252.5,369.3,1252.2,369.3z M1222,367.9h29.5v-25.4H1222V367.9z"/>
+			<path id="XMLID_2004_" class="st2" d="M1251.5,347.1h-30.8c-0.3,0-0.6-0.3-0.6-0.6v-26.9c0-0.3,0.3-0.6,0.6-0.6h30.8
+				c0.3,0,0.6,0.3,0.6,0.6v26.8C1252.1,346.9,1251.8,347.1,1251.5,347.1z M1221.3,345.8h29.5v-25.4h-29.5V345.8z"/>
 		</g>
 		<g id="XMLID_1996_">
-			<path id="XMLID_1997_" class="st2" d="M1252.2,339.1h-38.8c-0.3,0-0.6-0.3-0.6-0.6v-4.1c0-0.3,0.3-0.6,0.6-0.6h38.8
-				c0.3,0,0.6,0.3,0.6,0.6v4.1C1252.8,338.8,1252.5,339.1,1252.2,339.1z M1214,337.8h37.5v-2.7H1214V337.8z"/>
+			<path id="XMLID_1997_" class="st2" d="M1251.5,317h-38.8c-0.3,0-0.6-0.3-0.6-0.6v-4.1c0-0.3,0.3-0.6,0.6-0.6h38.8
+				c0.3,0,0.6,0.3,0.6,0.6v4.1C1252.1,316.6,1251.8,317,1251.5,317z M1213.3,315.6h37.5v-2.7h-37.5V315.6z"/>
 		</g>
 		<g id="XMLID_1969_">
-			<path id="XMLID_1975_" class="st2" d="M1218.7,369.3h-5.3c-0.3,0-0.6-0.3-0.6-0.6v-26.9c0-0.3,0.3-0.6,0.6-0.6h5.3
-				c0.3,0,0.6,0.3,0.6,0.6v26.8C1219.3,369,1219,369.3,1218.7,369.3z M1214,367.9h4.1v-25.4h-4.1V367.9z"/>
+			<path id="XMLID_1975_" class="st2" d="M1218,347.1h-5.3c-0.3,0-0.6-0.3-0.6-0.6v-26.9c0-0.3,0.3-0.6,0.6-0.6h5.3
+				c0.3,0,0.6,0.3,0.6,0.6v26.8C1218.6,346.9,1218.3,347.1,1218,347.1z M1213.3,345.8h4.1v-25.4h-4.1V345.8z"/>
 		</g>
 		<g id="XMLID_1789_">
-			<rect id="XMLID_1790_" x="1213.3" y="344.4" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1790_" x="1212.6" y="322.3" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1787_">
-			<rect id="XMLID_1788_" x="1213.3" y="347.9" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1788_" x="1212.6" y="325.8" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1784_">
-			<rect id="XMLID_1786_" x="1213.3" y="351.2" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1786_" x="1212.6" y="329.1" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1778_">
-			<rect id="XMLID_1780_" x="1213.3" y="354.6" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1780_" x="1212.6" y="332.5" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1764_">
-			<rect id="XMLID_1765_" x="1213.3" y="357.9" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1765_" x="1212.6" y="335.8" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1762_">
-			<rect id="XMLID_1763_" x="1213.3" y="361.2" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1763_" x="1212.6" y="339.1" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1760_">
-			<rect id="XMLID_1761_" x="1213.3" y="364.6" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1761_" x="1212.6" y="342.5" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1758_">
-			<rect id="XMLID_1759_" x="1215.4" y="345.2" class="st2" width="1.4" height="24.1"/>
+			<rect id="XMLID_1759_" x="1214.7" y="323.1" class="st2" width="1.4" height="24.1"/>
 		</g>
 		<g id="XMLID_1756_">
-			<rect id="XMLID_1757_" x="1221.3" y="343.8" class="st2" width="30.8" height="1.4"/>
+			<rect id="XMLID_1757_" x="1220.6" y="321.6" class="st2" width="30.8" height="1.4"/>
 		</g>
 		<g id="XMLID_1747_">
-			<path id="XMLID_1748_" class="st2" d="M1249.5,366.6H1224c-0.3,0-0.6-0.3-0.6-0.6v-18.8c0-0.3,0.3-0.6,0.6-0.6h25.4
-				c0.3,0,0.6,0.3,0.6,0.6V366C1250.1,366.3,1249.8,366.6,1249.5,366.6z M1224.6,365.2h24.1v-17.4h-24.1V365.2z"/>
+			<path id="XMLID_1748_" class="st2" d="M1248.8,344.5h-25.5c-0.3,0-0.6-0.3-0.6-0.6v-18.8c0-0.3,0.3-0.6,0.6-0.6h25.4
+				c0.3,0,0.6,0.3,0.6,0.6v18.8C1249.4,344.1,1249.1,344.5,1248.8,344.5z M1223.9,343.1h24.1v-17.4h-24.1V343.1z"/>
 		</g>
 		<g id="XMLID_1745_">
-			<rect id="XMLID_1746_" x="1236.1" y="353.8" class="st2" width="1.4" height="5.3"/>
+			<rect id="XMLID_1746_" x="1235.4" y="331.6" class="st2" width="1.4" height="5.3"/>
 		</g>
 		<g id="XMLID_1743_">
-			<rect id="XMLID_1744_" x="1234" y="355.9" class="st2" width="5.3" height="1.4"/>
+			<rect id="XMLID_1744_" x="1233.3" y="333.8" class="st2" width="5.3" height="1.4"/>
 		</g>
 		<g id="XMLID_1739_">
-			<rect id="XMLID_1740_" x="1215.4" y="335.8" class="st2" width="1.4" height="1.4"/>
+			<rect id="XMLID_1740_" x="1214.7" y="313.6" class="st2" width="1.4" height="1.4"/>
 		</g>
 		<g id="XMLID_1735_">
-			<rect id="XMLID_1738_" x="1218" y="335.8" class="st2" width="1.4" height="1.4"/>
+			<rect id="XMLID_1738_" x="1217.3" y="313.6" class="st2" width="1.4" height="1.4"/>
 		</g>
 		<g id="XMLID_882_">
-			<rect id="XMLID_883_" x="1242.8" y="335.8" class="st2" width="7.4" height="1.4"/>
+			<rect id="XMLID_883_" x="1242.1" y="313.6" class="st2" width="7.4" height="1.4"/>
 		</g>
 	</g>
-	<polygon id="XMLID_3694_" class="st2" points="582,332.3 578.3,332.3 578.3,328.5 579.6,328.5 579.6,331 582,331 	"/>
-	<circle id="XMLID_3928_" class="st9" cx="648" cy="410.8" r="17.5"/>
-	<path id="XMLID_3892_" class="st2" d="M648,420.5c-1.6,0-3.1,0-4.7,0c-1,0-1.8-0.2-2.5-1.1c-0.3-0.4-0.5-1.1-0.5-1.6
+	<polygon id="XMLID_3694_" class="st2" points="581.3,310.1 577.6,310.1 577.6,306.4 578.9,306.4 578.9,308.9 581.3,308.9 	"/>
+	<circle id="XMLID_3928_" class="st9" cx="647.3" cy="388.6" r="17.5"/>
+	<path id="XMLID_3892_" class="st2" d="M647.3,398.4c-1.6,0-3.1,0-4.7,0c-1,0-1.8-0.2-2.5-1.1c-0.3-0.4-0.5-1.1-0.5-1.6
 		c0-1.6,0.1-3.1,0.9-4.6c0.5-1,1.3-1.6,2.5-1.8c0.3-0.1,0.6,0,1,0.2c0.7,0.5,1.4,1,2.3,1.2c1.4,0.3,2.7,0.1,3.8-0.6
 		c0.1-0.1,0.2-0.2,0.4-0.2c1-0.6,1.8-0.6,2.7,0.1c1,0.6,1.4,1.6,1.6,2.7c0.3,1.1,0.4,2.1,0.3,3.2c-0.1,1.4-1,2.3-2.3,2.5
-		c-0.2,0-0.5,0-0.7,0C651.1,420.5,649.5,420.5,648,420.5z"/>
-	<path id="XMLID_3891_" class="st2" d="M652.2,408c-0.1,2.3-1.9,4.2-4.3,4.2c-2.3-0.1-4.2-1.9-4.1-4.3c0.1-2.3,1.9-4.2,4.3-4.2
-		C650.5,403.9,652.3,405.8,652.2,408z"/>
-	<path id="XMLID_3890_" class="st2" d="M643.2,407.3c-0.1,1.3,0.1,2.3,0.9,3.4c-0.3,0-0.5,0.1-0.7,0.1c-0.7,0.2-1.4,0.5-1.9,1.1
+		c-0.2,0-0.5,0-0.7,0C650.4,398.4,648.8,398.4,647.3,398.4z"/>
+	<path id="XMLID_3891_" class="st2" d="M651.5,385.9c-0.1,2.3-1.9,4.2-4.3,4.2c-2.3-0.1-4.2-1.9-4.1-4.3c0.1-2.3,1.9-4.2,4.3-4.2
+		C649.8,381.8,651.6,383.6,651.5,385.9z"/>
+	<path id="XMLID_3890_" class="st2" d="M642.5,385.1c-0.1,1.3,0.1,2.3,0.9,3.4c-0.3,0-0.5,0.1-0.7,0.1c-0.7,0.2-1.4,0.5-1.9,1.1
 		c-0.1,0.1-0.3,0.2-0.4,0.2c-0.6,0-1.2,0-1.8-0.1c-1.1-0.1-1.6-0.7-1.5-1.8c0-0.9,0.2-1.7,0.3-2.7c0-0.2,0.2-0.4,0.3-0.6
-		c0.3-0.4,0.6-0.4,1.1-0.2c1,0.5,1.9,0.9,3,0.7C642.5,407.4,642.8,407.4,643.2,407.3z"/>
-	<path id="XMLID_3889_" class="st2" d="M652.1,410.7c0.7-1.1,1-2.2,0.9-3.4c0.3,0.1,0.6,0.1,1,0.2c1.1,0.1,2-0.2,2.9-0.7
+		c0.3-0.4,0.6-0.4,1.1-0.2c1,0.5,1.9,0.9,3,0.7C641.8,385.3,642.1,385.3,642.5,385.1z"/>
+	<path id="XMLID_3889_" class="st2" d="M651.4,388.6c0.7-1.1,1-2.2,0.9-3.4c0.3,0.1,0.6,0.1,1,0.2c1.1,0.1,2-0.2,2.9-0.7
 		c0.5-0.3,0.9-0.2,1.2,0.3c0.3,0.6,0.4,1.3,0.5,2c0,0.4,0,0.9,0,1.3c0,1-0.5,1.6-1.4,1.7c-0.6,0.1-1.4,0.1-2,0.1
-		c-0.1,0-0.2-0.1-0.2-0.1C653.9,411.1,653.4,410.9,652.1,410.7z"/>
-	<path id="XMLID_3888_" class="st2" d="M644.5,403.7c0.1,1.5-1.1,2.8-2.7,2.9c-1.5,0.1-2.8-1.1-2.9-2.7c-0.1-1.5,1.1-2.9,2.7-3
-		C643.2,400.9,644.5,402.3,644.5,403.7z"/>
-	<path id="XMLID_3887_" class="st2" d="M651.5,403.7c0-1.5,1.4-2.8,2.9-2.7c1.6,0.1,2.8,1.4,2.7,3c-0.1,1.5-1.4,2.7-2.9,2.6
-		C652.6,406.4,651.4,405.2,651.5,403.7z"/>
-	<circle id="XMLID_3935_" class="st9" cx="565.8" cy="254.8" r="4.6"/>
-	<circle id="XMLID_3895_" class="st9" cx="636.5" cy="232.6" r="10.8"/>
-	<path id="XMLID_3894_" class="st2" d="M636.5,238.6c-1.1,0-2.2,0-3.3,0c-0.6,0-1.3-0.2-1.8-0.7c-0.3-0.3-0.4-0.7-0.4-1.2
+		c-0.1,0-0.2-0.1-0.2-0.1C653.2,389,652.7,388.8,651.4,388.6z"/>
+	<path id="XMLID_3888_" class="st2" d="M643.8,381.6c0.1,1.5-1.1,2.8-2.7,2.9c-1.5,0.1-2.8-1.1-2.9-2.7c-0.1-1.5,1.1-2.9,2.7-3
+		C642.5,378.8,643.8,380.1,643.8,381.6z"/>
+	<path id="XMLID_3887_" class="st2" d="M650.8,381.6c0-1.5,1.4-2.8,2.9-2.7c1.6,0.1,2.8,1.4,2.7,3c-0.1,1.5-1.4,2.7-2.9,2.6
+		C651.9,384.3,650.7,383.1,650.8,381.6z"/>
+	<circle id="XMLID_3935_" class="st9" cx="565.1" cy="232.6" r="4.6"/>
+	<circle id="XMLID_3895_" class="st9" cx="635.8" cy="210.5" r="10.8"/>
+	<path id="XMLID_3894_" class="st2" d="M635.8,216.5c-1.1,0-2.2,0-3.3,0c-0.6,0-1.3-0.2-1.8-0.7c-0.3-0.3-0.4-0.7-0.4-1.2
 		c0-1.2,0.1-2.2,0.6-3.3c0.3-0.7,1-1.2,1.7-1.3c0.2,0,0.4,0,0.6,0.1c0.5,0.3,1.1,0.6,1.7,0.9c1,0.2,1.9,0,2.8-0.4
-		c0.1-0.1,0.2-0.1,0.3-0.2c0.6-0.4,1.3-0.4,1.9,0.1s1,1.2,1.2,1.9c0.2,0.7,0.3,1.6,0.2,2.3c-0.1,1-0.7,1.7-1.7,1.8
-		c-0.2,0-0.3,0-0.5,0C638.7,238.6,637.6,238.6,636.5,238.6z"/>
-	<path id="XMLID_3893_" class="st2" d="M639.6,229.6c0,1.7-1.4,3-3.1,3s-3-1.4-3-3.1c0-1.7,1.4-3,3.1-3
-		C638.3,226.5,639.6,227.9,639.6,229.6z"/>
-	<circle id="XMLID_1151_" class="st16" cx="1016.1" cy="252.7" r="4.6"/>
-	<circle id="XMLID_1148_" class="st16" cx="1005.9" cy="332.9" r="13.4"/>
+		c0.1-0.1,0.2-0.1,0.3-0.2c0.6-0.4,1.3-0.4,1.9,0.1s1,1.2,1.2,1.9s0.3,1.6,0.2,2.3c-0.1,1-0.7,1.7-1.7,1.8c-0.2,0-0.3,0-0.5,0
+		C638,216.5,636.9,216.5,635.8,216.5z"/>
+	<path id="XMLID_3893_" class="st2" d="M638.9,207.5c0,1.7-1.4,3-3.1,3s-3-1.4-3-3.1c0-1.7,1.4-3,3.1-3
+		C637.6,204.4,638.9,205.8,638.9,207.5z"/>
+	<circle id="XMLID_1151_" class="st16" cx="1015.4" cy="230.5" r="4.6"/>
+	<circle id="XMLID_1148_" class="st16" cx="1005.2" cy="310.8" r="13.4"/>
 	<g id="XMLID_13_">
-		<path id="XMLID_21_" class="st2" d="M1013.3,340.8c-0.1,0.1-0.2,0.2-0.3,0.2c-1.1,0-2.1,0-3.1,0c-0.3,0-0.3-0.1-0.3-0.3
+		<path id="XMLID_21_" class="st2" d="M1012.6,318.6c-0.1,0.1-0.2,0.2-0.3,0.2c-1.1,0-2.1,0-3.1,0c-0.3,0-0.3-0.1-0.3-0.3
 			c0-2.9,0-5.8,0-8.7c0-0.1,0-0.1,0.1-0.2c0.6-0.7,1.4-1.5,2-2.2c0.1-0.1,0.1-0.1,0.2,0c0.1,0.1,0.3,0.2,0.4,0.4
-			c0.3,0.2,0.6,0.3,1,0.1h0.1C1013.3,333.6,1013.3,337.2,1013.3,340.8z"/>
-		<path id="XMLID_19_" class="st2" d="M996.4,333.7c0.3-0.3,0.6-0.6,1-1.1c0.6-0.6,1.3-1.3,1.9-2c0.2-0.2,0.4-0.5,0.7-0.7
+			c0.3,0.2,0.6,0.3,1,0.1h0.1C1012.6,311.5,1012.6,315.1,1012.6,318.6z"/>
+		<path id="XMLID_19_" class="st2" d="M995.7,311.6c0.3-0.3,0.6-0.6,1-1.1c0.6-0.6,1.3-1.3,1.9-2c0.2-0.2,0.4-0.5,0.7-0.7
 			c0.2-0.2,0.3-0.2,0.5-0.1c0.3,0.1,0.6,0.2,1.1,0.4c0.7,0.3,1.6,0.5,2.3,0.9c0.6,0.2,1.4,0.5,2,0.7c0.1,0,0.1,0,0.2,0
-			c0.4-0.5,1-1.1,1.4-1.6c0.4-0.5,1-1,1.4-1.5c0.5-0.6,1.2-1.3,1.7-1.9c0.1-0.1,0.1-0.1,0.2-0.2c-0.1-0.1-0.3-0.2-0.4-0.3
+			c0.4-0.5,1-1.1,1.4-1.6s1-1,1.4-1.5c0.5-0.6,1.2-1.3,1.7-1.9c0.1-0.1,0.1-0.1,0.2-0.2c-0.1-0.1-0.3-0.2-0.4-0.3
 			c-0.2-0.2-0.5-0.4-0.7-0.6c-0.1-0.1-0.1-0.1-0.1-0.2s0.1-0.1,0.2-0.1c0.6-0.1,1.3-0.1,2-0.2c0.2,0,0.5,0,0.7-0.1
-			c0.2,0,0.3,0,0.3,0.2c0.1,0.7,0.1,1.6,0.2,2.3c0,0.1,0,0.3,0,0.4c0,0.1,0,0.2-0.1,0.2c-0.1,0-0.2,0-0.2-0.1
-			c-0.3-0.3-0.7-0.5-1.1-0.9c0,0-0.1,0-0.1-0.1c-0.1,0.1-0.2,0.2-0.3,0.3c-0.3,0.4-0.6,0.7-1.1,1.2c-0.4,0.4-0.9,1-1.3,1.4
-			c-0.6,0.7-1.4,1.5-2,2.2c-0.1,0.2-0.3,0.3-0.4,0.5c-0.1,0.1-0.3,0.2-0.5,0.1c-0.3-0.1-0.7-0.2-1.1-0.4c-0.9-0.3-1.7-0.6-2.6-1
-			c-0.6-0.2-1.2-0.4-1.8-0.6c-0.1,0-0.2,0-0.3,0.1c-0.9,0.9-1.7,1.7-2.6,2.7c-0.1,0.1-0.3,0.3-0.4,0.4c-0.3,0.3-0.7,0.3-1-0.1
-			C996.4,333.9,996.4,333.8,996.4,333.7z"/>
-		<path id="XMLID_17_" class="st2" d="M1001.6,337c0,1.2,0,2.3,0,3.6c0,0.3-0.1,0.3-0.3,0.3c-1.1,0-2.1,0-3.2,0
+			c0.2,0,0.3,0,0.3,0.2c0.1,0.7,0.1,1.6,0.2,2.3c0,0.1,0,0.3,0,0.4s0,0.2-0.1,0.2s-0.2,0-0.2-0.1c-0.3-0.3-0.7-0.5-1.1-0.9
+			c0,0-0.1,0-0.1-0.1c-0.1,0.1-0.2,0.2-0.3,0.3c-0.3,0.4-0.6,0.7-1.1,1.2c-0.4,0.4-0.9,1-1.3,1.4c-0.6,0.7-1.4,1.5-2,2.2
+			c-0.1,0.2-0.3,0.3-0.4,0.5c-0.1,0.1-0.3,0.2-0.5,0.1c-0.3-0.1-0.7-0.2-1.1-0.4c-0.9-0.3-1.7-0.6-2.6-1c-0.6-0.2-1.2-0.4-1.8-0.6
+			c-0.1,0-0.2,0-0.3,0.1c-0.9,0.9-1.7,1.7-2.6,2.7c-0.1,0.1-0.3,0.3-0.4,0.4c-0.3,0.3-0.7,0.3-1-0.1
+			C995.7,311.8,995.7,311.6,995.7,311.6z"/>
+		<path id="XMLID_17_" class="st2" d="M1000.9,314.9c0,1.2,0,2.3,0,3.6c0,0.3-0.1,0.3-0.3,0.3c-1.1,0-2.1,0-3.2,0
 			c-0.3,0-0.3-0.1-0.3-0.3c0-1.5,0-3.1,0-4.6c0-0.1,0-0.2,0.1-0.2c0.7-0.7,1.5-1.6,2.2-2.3c0.1-0.1,0.2-0.2,0.3-0.3
-			c0.1-0.1,0.3-0.1,0.4,0c0.2,0.1,0.4,0.1,0.6,0.2c0.1,0,0.1,0.1,0.1,0.2C1001.6,334.6,1001.6,335.8,1001.6,337z"/>
-		<path id="XMLID_15_" class="st2" d="M1007.6,338c0,0.9,0,1.7,0,2.6c0,0.3-0.1,0.3-0.3,0.3c-1.1,0-2.1,0-3.2,0
+			c0.1-0.1,0.3-0.1,0.4,0c0.2,0.1,0.4,0.1,0.6,0.2c0.1,0,0.1,0.1,0.1,0.2C1000.9,312.5,1000.9,313.6,1000.9,314.9z"/>
+		<path id="XMLID_15_" class="st2" d="M1006.9,315.9c0,0.9,0,1.7,0,2.6c0,0.3-0.1,0.3-0.3,0.3c-1.1,0-2.1,0-3.2,0
 			c-0.3,0-0.3-0.1-0.3-0.3c0-1.7,0-3.3,0-5c0-0.3,0.1-0.3,0.3-0.3c1.1,0,2.1,0,3.1,0c0.3,0,0.3,0.1,0.3,0.3
-			C1007.6,336.4,1007.6,337.2,1007.6,338z"/>
+			C1006.9,314.3,1006.9,315.1,1006.9,315.9z"/>
 	</g>
-	<circle id="XMLID_3932_" class="st9" cx="576.2" cy="335" r="13.4"/>
-	<path id="XMLID_3696_" class="st2" d="M582.6,339.6h-10.4V328h7l3.3,3.4V339.6z M573.4,338.4h8v-6.5l-2.7-2.7h-5.3V338.4z"/>
-	<polygon id="XMLID_3695_" class="st2" points="580.1,342.1 569.7,342.1 569.7,330.5 572.8,330.5 572.8,331.6 571,331.6 571,340.8 
-		578.9,340.8 578.9,339 580.1,339 	"/>
+	<circle id="XMLID_3932_" class="st9" cx="575.5" cy="312.9" r="13.4"/>
+	<path id="XMLID_3696_" class="st2" d="M581.9,317.5h-10.4v-11.6h7l3.3,3.4v8.2H581.9z M572.7,316.3h8v-6.5L578,307h-5.3V316.3z"/>
+	<polygon id="XMLID_3695_" class="st2" points="579.4,320 569,320 569,308.4 572.1,308.4 572.1,309.5 570.3,309.5 570.3,318.6 
+		578.2,318.6 578.2,316.9 579.4,316.9 	"/>
 	<g id="XMLID_1_">
 		<g id="XMLID_6_">
-			<circle id="XMLID_642_" class="st2" cx="342.8" cy="369.1" r="1.9"/>
+			<circle id="XMLID_642_" class="st2" cx="342.1" cy="347" r="1.9"/>
 		</g>
 		<g id="XMLID_639_">
-			<polygon id="XMLID_640_" class="st2" points="357,364 345.4,364 345.4,363.4 356.5,363.4 356.5,360.2 357,360.2 			"/>
+			<polygon id="XMLID_640_" class="st2" points="356.3,341.9 344.7,341.9 344.7,341.3 355.8,341.3 355.8,338.1 356.3,338.1 			"/>
 		</g>
 		<g id="XMLID_637_">
-			<polygon id="XMLID_5_" class="st2" points="352.8,369.3 338,369.3 338,367.6 338.7,367.6 338.7,368.8 352.2,368.8 352.2,367.6 
-				352.8,367.6 			"/>
+			<polygon id="XMLID_5_" class="st2" points="352.1,347.1 337.3,347.1 337.3,345.5 338,345.5 338,346.6 351.5,346.6 351.5,345.5 
+				352.1,345.5 			"/>
 		</g>
 		<g id="XMLID_490_" class="st19">
-			<path id="XMLID_491_" class="st2" d="M359.1,344c-0.2-5.8-5-10.4-10.8-10.4c-6,0-10.9,4.8-10.9,10.9c0,0.3,0,0.7,0,1.1
-				c-2.6,0.2-4.5,2.3-4.5,4.9c0,2.5,1.8,4.5,4.3,4.8l0,0h21.2c3.1,0,5.7-2.6,5.7-5.7C364.1,346.7,361.9,344.3,359.1,344z"/>
+			<path id="XMLID_491_" class="st2" d="M358.4,321.9c-0.2-5.8-5-10.4-10.8-10.4c-6,0-10.9,4.8-10.9,10.9c0,0.3,0,0.7,0,1.1
+				c-2.6,0.2-4.5,2.3-4.5,4.9c0,2.5,1.8,4.5,4.3,4.8l0,0h21.2c3.1,0,5.7-2.6,5.7-5.7C363.4,324.6,361.2,322.1,358.4,321.9z"/>
 		</g>
 		<g id="XMLID_480_">
-			<path id="XMLID_481_" class="st2" d="M343.6,350.9c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1c0.5,0,1,0.4,1,1S344.1,350.9,343.6,350.9z
-				 M343.6,349.6c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4s0.4-0.2,0.4-0.4C344,349.8,343.8,349.6,343.6,349.6z"/>
+			<path id="XMLID_481_" class="st2" d="M342.9,328.8c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1c0.5,0,1,0.4,1,1S343.4,328.8,342.9,328.8z
+				 M342.9,327.5c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4c0.2,0,0.4-0.2,0.4-0.4C343.3,327.6,343.1,327.5,342.9,327.5z"/>
 		</g>
 		<g id="XMLID_414_">
-			<polygon id="XMLID_415_" class="st2" points="351.3,359.5 343.3,359.5 343.3,350.6 343.9,350.6 343.9,358.8 351.3,358.8 			"/>
+			<polygon id="XMLID_415_" class="st2" points="350.6,337.4 342.6,337.4 342.6,328.5 343.2,328.5 343.2,336.6 350.6,336.6 			"/>
 		</g>
 		<g id="XMLID_7_">
 			<g id="XMLID_496_">
 				<g id="XMLID_125_">
-					<circle id="XMLID_126_" class="st20" cx="364.1" cy="342.2" r="1.4"/>
+					<circle id="XMLID_126_" class="st20" cx="363.4" cy="320.1" r="1.4"/>
 				</g>
 			</g>
 			<g id="XMLID_484_">
 				<g id="XMLID_201_">
-					<path id="XMLID_202_" class="st20" d="M348.5,348.2c-1,0-1.7-0.7-1.7-1.7c0-1,0.7-1.7,1.7-1.7c1,0,1.7,0.7,1.7,1.7
-						C350.2,347.3,349.4,348.2,348.5,348.2z M348.5,345.3c-0.6,0-1.2,0.5-1.2,1.2c0,0.6,0.5,1.2,1.2,1.2c0.6,0,1.2-0.5,1.2-1.2
-						C349.7,345.8,349.1,345.3,348.5,345.3z"/>
+					<path id="XMLID_202_" class="st20" d="M347.8,326.1c-1,0-1.7-0.7-1.7-1.7s0.7-1.7,1.7-1.7s1.7,0.7,1.7,1.7
+						C349.5,325.1,348.7,326.1,347.8,326.1z M347.8,323.1c-0.6,0-1.2,0.5-1.2,1.2c0,0.6,0.5,1.2,1.2,1.2c0.6,0,1.2-0.5,1.2-1.2
+						S348.4,323.1,347.8,323.1z"/>
 				</g>
 			</g>
 			<g id="XMLID_476_">
 				<g id="XMLID_194_">
-					<path id="XMLID_195_" class="st20" d="M352.4,350.9c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1c0.5,0,1,0.4,1,1
-						C353.5,350.5,353.1,350.9,352.4,350.9z M352.4,349.6c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4s0.4-0.2,0.4-0.4
-						S352.8,349.6,352.4,349.6z"/>
+					<path id="XMLID_195_" class="st20" d="M351.7,328.8c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1c0.5,0,1,0.4,1,1
+						C352.8,328.4,352.4,328.8,351.7,328.8z M351.7,327.5c-0.2,0-0.4,0.2-0.4,0.4s0.2,0.4,0.4,0.4c0.2,0,0.4-0.2,0.4-0.4
+						S352.1,327.5,351.7,327.5z"/>
 				</g>
 			</g>
 			<g id="XMLID_472_">
 				<g id="XMLID_189_">
-					<path id="XMLID_190_" class="st20" d="M338.4,353.2c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4
-						S339.1,353.2,338.4,353.2z M338.4,350.9c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9
-						C339.2,351.4,338.8,350.9,338.4,350.9z"/>
+					<path id="XMLID_190_" class="st20" d="M337.7,331.1c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4
+						S338.4,331.1,337.7,331.1z M337.7,328.8c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9
+						C338.5,329.3,338.1,328.8,337.7,328.8z"/>
 				</g>
 			</g>
 			<g id="XMLID_464_">
 				<g id="XMLID_184_">
-					<path id="XMLID_185_" class="st20" d="M338.4,367.9c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4
-						S339.1,367.9,338.4,367.9z M338.4,365.7c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S338.8,365.7,338.4,365.7z"/>
+					<path id="XMLID_185_" class="st20" d="M337.7,345.8c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4
+						S338.4,345.8,337.7,345.8z M337.7,343.6c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S338.1,343.6,337.7,343.6z"/>
 				</g>
 			</g>
 			<g id="XMLID_460_">
 				<g id="XMLID_179_">
-					<path id="XMLID_180_" class="st20" d="M344.3,365c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-						C345.7,364.4,345.1,365,344.3,365z M344.3,362.8c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9
-						C345.2,363.2,344.8,362.8,344.3,362.8z"/>
+					<path id="XMLID_180_" class="st20" d="M343.6,342.9c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+						C345,342.3,344.4,342.9,343.6,342.9z M343.6,340.6c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9
+						C344.5,341.1,344.1,340.6,343.6,340.6z"/>
 				</g>
 			</g>
 			<g id="XMLID_456_">
 				<g id="XMLID_174_">
-					<path id="XMLID_175_" class="st20" d="M352.4,367.9c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-						S353.3,367.9,352.4,367.9z M352.4,365.7c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S353,365.7,352.4,365.7z"/>
+					<path id="XMLID_175_" class="st20" d="M351.7,345.8c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+						S352.6,345.8,351.7,345.8z M351.7,343.6c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S352.3,343.6,351.7,343.6z"/>
 				</g>
 			</g>
 			<g id="XMLID_452_">
 				<g id="XMLID_160_">
-					<path id="XMLID_161_" class="st20" d="M355.6,373.6c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-						C357,372.9,356.4,373.6,355.6,373.6z M355.6,371.3c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
-						C356.5,371.8,356.1,371.3,355.6,371.3z"/>
+					<path id="XMLID_161_" class="st20" d="M354.9,351.5c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+						C356.3,350.8,355.7,351.5,354.9,351.5z M354.9,349.1c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
+						C355.8,349.6,355.4,349.1,354.9,349.1z"/>
 				</g>
 			</g>
 			<g id="XMLID_448_">
 				<g id="XMLID_155_">
-					<path id="XMLID_156_" class="st20" d="M361,373.6c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-						C362.4,372.9,361.7,373.6,361,373.6z M361,371.3c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
-						C361.8,371.8,361.4,371.3,361,371.3z"/>
+					<path id="XMLID_156_" class="st20" d="M360.3,351.5c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+						C361.7,350.8,361,351.5,360.3,351.5z M360.3,349.1c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
+						C361.1,349.6,360.7,349.1,360.3,349.1z"/>
 				</g>
 			</g>
 			<g id="XMLID_444_">
 				<g id="XMLID_152_">
-					<path id="XMLID_154_" class="st20" d="M358.1,367.9c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-						S358.9,367.9,358.1,367.9z M358.1,365.7c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S358.6,365.7,358.1,365.7z"/>
+					<path id="XMLID_154_" class="st20" d="M357.4,345.8c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+						S358.2,345.8,357.4,345.8z M357.4,343.6c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S357.9,343.6,357.4,343.6z"/>
 				</g>
 			</g>
 			<g id="XMLID_440_">
 				<g id="XMLID_178_">
-					<path id="XMLID_183_" class="st20" d="M363.7,367.9c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4
-						S364.6,367.9,363.7,367.9z M363.7,365.7c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S364.3,365.7,363.7,365.7z"/>
+					<path id="XMLID_183_" class="st20" d="M363,345.8c-0.7,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4
+						S363.9,345.8,363,345.8z M363,343.6c-0.4,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9S363.6,343.6,363,343.6z"/>
 				</g>
 			</g>
 			<g id="XMLID_436_">
 				<g id="XMLID_196_">
-					<path id="XMLID_200_" class="st20" d="M358.9,352.7c-0.6,0-1.2-0.5-1.2-1.2c0-0.6,0.5-1.2,1.2-1.2c0.6,0,1.2,0.5,1.2,1.2
-						C360.1,352.1,359.6,352.7,358.9,352.7z M358.9,350.9c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5
-						S359.3,350.9,358.9,350.9z"/>
+					<path id="XMLID_200_" class="st20" d="M358.2,330.6c-0.6,0-1.2-0.5-1.2-1.2c0-0.6,0.5-1.2,1.2-1.2c0.6,0,1.2,0.5,1.2,1.2
+						C359.4,330,358.9,330.6,358.2,330.6z M358.2,328.8c-0.3,0-0.5,0.2-0.5,0.5s0.2,0.5,0.5,0.5s0.5-0.2,0.5-0.5
+						S358.6,328.8,358.2,328.8z"/>
 				</g>
 			</g>
 			<g id="XMLID_434_">
 				<g id="XMLID_122_">
-					<polygon id="XMLID_123_" class="st20" points="338.7,361.1 333.9,361.1 333.9,360.6 338,360.6 338,353 338.7,353 					"/>
+					<polygon id="XMLID_123_" class="st20" points="338,339 333.2,339 333.2,338.5 337.3,338.5 337.3,330.9 338,330.9 					"/>
 				</g>
 			</g>
 			<g id="XMLID_432_">
 				<g id="XMLID_119_">
-					<polygon id="XMLID_120_" class="st20" points="343.2,364 338,364 338,360.9 338.7,360.9 338.7,363.4 343.2,363.4 					"/>
+					<polygon id="XMLID_120_" class="st20" points="342.5,341.9 337.3,341.9 337.3,338.8 338,338.8 338,341.3 342.5,341.3 					"/>
 				</g>
 			</g>
 			<g id="XMLID_430_">
 				<g id="XMLID_116_">
-					<rect id="XMLID_117_" x="338" y="363.6" class="st20" width="0.5" height="1.7"/>
+					<rect id="XMLID_117_" x="337.3" y="341.5" class="st20" width="0.5" height="1.7"/>
 				</g>
 			</g>
 			<g id="XMLID_428_">
 				<g id="XMLID_113_">
-					<polygon id="XMLID_114_" class="st20" points="351.4,366.7 348.3,366.7 348.3,347.9 348.8,347.9 348.8,366.2 351.4,366.2 					
+					<polygon id="XMLID_114_" class="st20" points="350.7,344.6 347.6,344.6 347.6,325.8 348.1,325.8 348.1,344.1 350.7,344.1 					
 						"/>
 				</g>
 			</g>
 			<g id="XMLID_426_">
 				<g id="XMLID_104_">
-					<rect id="XMLID_107_" x="353.6" y="366.2" class="st20" width="3.4" height="0.5"/>
+					<rect id="XMLID_107_" x="352.9" y="344.1" class="st20" width="3.4" height="0.5"/>
 				</g>
 			</g>
 			<g id="XMLID_424_">
 				<g id="XMLID_98_">
-					<rect id="XMLID_100_" x="359.3" y="366.2" class="st20" width="3.4" height="0.5"/>
+					<rect id="XMLID_100_" x="358.6" y="344.1" class="st20" width="3.4" height="0.5"/>
 				</g>
 			</g>
 			<g id="XMLID_422_">
 				<g id="XMLID_91_">
-					<rect id="XMLID_92_" x="355.3" y="366.5" class="st20" width="0.5" height="4.5"/>
+					<rect id="XMLID_92_" x="354.6" y="344.4" class="st20" width="0.5" height="4.5"/>
 				</g>
 			</g>
 			<g id="XMLID_420_">
 				<g id="XMLID_90_">
-					<rect id="XMLID_93_" x="360.7" y="366.5" class="st20" width="0.5" height="4.5"/>
+					<rect id="XMLID_93_" x="360" y="344.4" class="st20" width="0.5" height="4.5"/>
 				</g>
 			</g>
 			<g id="XMLID_418_">
 				<g id="XMLID_102_">
-					<rect id="XMLID_109_" x="352.2" y="350.6" class="st20" width="0.5" height="7.4"/>
+					<rect id="XMLID_109_" x="351.5" y="328.5" class="st20" width="0.5" height="7.4"/>
 				</g>
 			</g>
 			<g id="XMLID_416_">
 				<g id="XMLID_115_">
-					<rect id="XMLID_118_" x="358.7" y="352.3" class="st20" width="0.5" height="6.8"/>
+					<rect id="XMLID_118_" x="358" y="330.1" class="st20" width="0.5" height="6.8"/>
 				</g>
 			</g>
 			<g id="XMLID_397_">
 				<g id="XMLID_300_">
 					<g id="XMLID_313_">
-						<path id="XMLID_314_" class="st20" d="M352.4,360.6c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-							C353.9,359.9,353.3,360.6,352.4,360.6z M352.4,358.3c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9
-							C353.3,358.6,353,358.3,352.4,358.3z"/>
+						<path id="XMLID_314_" class="st20" d="M351.7,338.5c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+							C353.2,337.8,352.6,338.5,351.7,338.5z M351.7,336.1c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9
+							C352.6,336.5,352.3,336.1,351.7,336.1z"/>
 					</g>
 					<g id="XMLID_309_">
-						<path id="XMLID_310_" class="st20" d="M356.7,360.6c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-							C358.1,359.9,357.6,360.6,356.7,360.6z M356.7,358.3c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
-							C357.6,358.6,357.2,358.3,356.7,358.3z"/>
+						<path id="XMLID_310_" class="st20" d="M356,338.5c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+							C357.4,337.8,356.9,338.5,356,338.5z M356,336.1c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
+							C356.9,336.5,356.5,336.1,356,336.1z"/>
 					</g>
 					<g id="XMLID_305_">
-						<path id="XMLID_306_" class="st20" d="M361,360.6c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
-							C362.4,359.9,361.7,360.6,361,360.6z M361,358.3c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
-							C361.8,358.6,361.4,358.3,361,358.3z"/>
+						<path id="XMLID_306_" class="st20" d="M360.3,338.5c-0.7,0-1.4-0.6-1.4-1.4c0-0.7,0.6-1.4,1.4-1.4c0.7,0,1.4,0.6,1.4,1.4
+							C361.7,337.8,361,338.5,360.3,338.5z M360.3,336.1c-0.4,0-0.9,0.4-0.9,0.9c0,0.4,0.4,0.9,0.9,0.9c0.4,0,0.9-0.4,0.9-0.9
+							C361.1,336.5,360.7,336.1,360.3,336.1z"/>
 					</g>
 					<g id="XMLID_303_">
-						<rect id="XMLID_304_" x="353.7" y="358.8" class="st20" width="1.8" height="0.5"/>
+						<rect id="XMLID_304_" x="353" y="336.6" class="st20" width="1.8" height="0.5"/>
 					</g>
 					<g id="XMLID_301_">
-						<rect id="XMLID_302_" x="357.9" y="358.8" class="st20" width="2" height="0.5"/>
+						<rect id="XMLID_302_" x="357.2" y="336.6" class="st20" width="2" height="0.5"/>
 					</g>
 				</g>
 			</g>
 			<g id="XMLID_385_">
 				<g id="XMLID_121_">
-					<circle id="XMLID_124_" class="st20" cx="361.9" cy="337.3" r="0.7"/>
+					<circle id="XMLID_124_" class="st20" cx="361.2" cy="315.1" r="0.7"/>
 				</g>
 			</g>
 		</g>
 		<g id="XMLID_383_">
-			<circle id="XMLID_384_" class="st2" cx="335.1" cy="372.6" r="0.7"/>
+			<circle id="XMLID_384_" class="st2" cx="334.4" cy="350.5" r="0.7"/>
 		</g>
 	</g>
 </g>
