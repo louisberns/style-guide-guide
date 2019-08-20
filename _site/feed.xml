@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elo Design System</title>
+    <description>Um sistema de design para projetar melhores soluções. Com o objetivo de comunicar a mesma mensagem por meio de diversas soluções, com várias tecnologias, de forma clara e consistente, nasce o Elo Design System...
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Aug 2019 08:36:55 -0300</pubDate>
+    <lastBuildDate>Tue, 20 Aug 2019 08:36:55 -0300</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Elo Design System Versão 1.0</title>
+        <description>&lt;p&gt;Primeiro release do Elo Design System, conteúdos iniciais desenvolvidos para
+referência de desenvolvimento podendo ser utilizado com o WES v.15+.&lt;/p&gt;
+
+&lt;p&gt;Listagem de conteúdos:&lt;/p&gt;
+&lt;h4 id=&quot;guidelines&quot;&gt;Guidelines&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/guidelines/principles.html&quot;&gt;Princípios&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/guidelines/accessibility.html&quot;&gt;Acessibilidade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/guidelines/voice.html&quot;&gt;Tom de voz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;styles&quot;&gt;Styles&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/styles/color.html&quot;&gt;Cores&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/styles/typography.html&quot;&gt;Tipografia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/styles/iconography.html&quot;&gt;Ícones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/styles/grid.html&quot;&gt;Grid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;componentes&quot;&gt;Componentes&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/components/&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 09:00:00 -0300</pubDate>
+        <link>http://yourdomain.com/update/2017/09/10/initial-release.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/update/2017/09/10/initial-release.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

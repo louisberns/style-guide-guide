@@ -1,0 +1,1864 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11">
+
+	<title>Botões | Elo Design System</title>
+	<meta name="description" content="Um sistema de design para projetar melhores soluções. Com o objetivo de comunicar a mesma mensagem por meio de diversas soluções, com várias tecnologias, de forma clara e consistente, nasce o Elo Design System...
+">
+
+	<link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="/css/style-guide.css">
+	<link rel="icon" href="/favicon.ico">
+
+	<link rel="canonical" href="http://yourdomain.com/components/button.html">
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WGXW2ZF');</script>
+	<!-- End Google Tag Manager -->
+</head>
+
+
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGXW2ZF"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+        <div class="l-page-layout l-page-layout--two-column-fixed">
+
+            <div class="l-page-layout__secondary">
+
+                <header class="c-header c-header--vertical" role="banner">
+
+    <div class="c-header__inner">
+
+        <h3 class="c-logo">
+
+	<a href="/" class="c-logo__link" rel="home">
+
+		
+
+		<img src="../logo.svg" class="c-logo__img" alt="Logo Elo Design System">
+
+		
+		<!--<svg class="c-logo__img" width="644px" height="53px" viewBox="0 0 644 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<title>Elo Design System</title>
+			<path d="M20.86,52.36 C18.8533233,52.36 16.8816764,52.1850017 14.945,51.835 C13.0083236,51.4849983 11.1416756,50.97167 9.345,50.295 C7.54832435,49.6183299 5.8566746,48.8250046 4.27,47.915 C2.6833254,47.0049955 1.2600063,45.9900056 0,44.87 L10.15,33.81 C11.3166725,35.0700063 12.8683236,36.1899951 14.805,37.17 C16.7416763,38.1500049 18.7366564,38.64 20.79,38.64 C21.723338,38.64 22.5749962,38.4766683 23.345,38.15 C24.1150039,37.8233317 24.5,37.2166711 24.5,36.33 C24.5,35.863331 24.3716679,35.4666683 24.115,35.14 C23.858332,34.8133317 23.4033366,34.4750018 22.75,34.125 C22.0966634,33.7749983 21.198339,33.3900021 20.055,32.97 C18.911661,32.5499979 17.4766753,32.0600028 15.75,31.5 C14.0699916,30.9399972 12.4600077,30.2750039 10.92,29.505 C9.3799923,28.7349962 8.01500595,27.7900056 6.825,26.67 C5.63499405,25.5499944 4.6900035,24.2083412 3.99,22.645 C3.2899965,21.0816589 2.94,19.2033443 2.94,17.01 C2.94,13.9299846 3.5699937,11.3166774 4.83,9.17 C6.0900063,7.0233226 7.71165675,5.26167355 9.695,3.885 C11.6783432,2.50832645 13.9066543,1.5166697 16.38,0.91 C18.8533457,0.3033303 21.3033212,0 23.73,0 C26.996683,0 30.3216498,0.6299937 33.705,1.89 C37.0883502,3.1500063 40.0633205,4.9699881 42.63,7.35 L32.27,17.92 C31.1499944,16.519993 29.7733415,15.4583369 28.14,14.735 C26.5066585,14.0116631 25.0366732,13.65 23.73,13.65 C22.5166606,13.65 21.5366704,13.8249983 20.79,14.175 C20.0433296,14.5250017 19.67,15.0966627 19.67,15.89 C19.67,16.6366704 20.0549961,17.1966648 20.825,17.57 C21.5950038,17.9433352 22.8433247,18.4099972 24.57,18.97 C26.3433422,19.5300028 28.2099902,20.1833296 30.17,20.93 C32.1300098,21.6766704 33.938325,22.644994 35.595,23.835 C37.251675,25.025006 38.6166613,26.4833247 39.69,28.21 C40.7633387,29.9366753 41.3,32.0833205 41.3,34.65 C41.3,37.6366816 40.7050059,40.2383223 39.515,42.455 C38.324994,44.6716778 36.7616763,46.5149927 34.825,47.985 C32.8883236,49.4550074 30.7066788,50.551663 28.28,51.275 C25.8533212,51.998337 23.3800126,52.36 20.86,52.36 Z M69.38,50.96 L52.72,50.96 L52.72,15.47 L40.54,15.47 L40.54,1.4 L81.56,1.4 L81.56,15.47 L69.38,15.47 L69.38,50.96 Z M112.58,50.96 L95.9200001,50.96 L95.9200001,30.66 L77.2300001,1.4 L97.3200001,1.4 L105.16,15.96 L112.65,1.4 L132.25,1.4 L112.58,30.66 L112.58,50.96 Z M132.89,1.4 L149.69,1.4 L149.69,36.68 L166.14,36.68 L166.14,50.96 L132.89,50.96 L132.89,1.4 Z M169.02,1.4 L203.11,1.4 L203.11,15.26 L184.7,15.26 L184.7,19.53 L201.99,19.53 L201.99,32.48 L184.7,32.48 L184.7,37.1 L204.3,37.1 L204.3,50.96 L169.02,50.96 L169.02,1.4 Z M234.13,52.22 C230.209981,52.22 226.581684,51.6133394 223.245,50.4 C219.908317,49.1866606 217.015012,47.4483447 214.565,45.185 C212.114988,42.9216554 210.190007,40.1800161 208.79,36.96 C207.389993,33.7399839 206.69,30.1466865 206.69,26.18 C206.69,22.2133135 207.389993,18.6200161 208.79,15.4 C210.190007,12.1799839 212.103321,9.4266781 214.53,7.14 C216.956679,4.8533219 219.803317,3.09167285 223.07,1.855 C226.336683,0.61832715 229.836648,0 233.57,0 C237.443353,0 241.118316,0.6299937 244.595,1.89 C248.071684,3.1500063 250.906656,4.8766557 253.1,7.07 L243.37,18.76 C242.343328,17.5466606 241.130007,16.578337 239.73,15.855 C238.329993,15.1316631 236.603344,14.77 234.55,14.77 C233.19666,14.77 231.87834,15.0383307 230.595,15.575 C229.31166,16.1116694 228.180005,16.8816617 227.2,17.885 C226.219995,18.8883384 225.42667,20.089993 224.82,21.49 C224.213331,22.890007 223.91,24.4533247 223.91,26.18 C223.91,29.6333506 224.808325,32.4449892 226.605,34.615 C228.401676,36.7850109 231.283314,37.87 235.25,37.87 C235.950004,37.87 236.67333,37.8116673 237.42,37.695 C238.166671,37.5783328 238.749998,37.4033345 239.17,37.17 L239.17,33.39 L231.19,33.39 L231.19,20.3 L253.94,20.3 L253.94,47.39 C252.773328,48.0900035 251.431674,48.7316638 249.915,49.315 C248.398326,49.8983363 246.788342,50.3999979 245.085,50.82 C243.381658,51.2400021 241.596676,51.5783321 239.73,51.835 C237.863324,52.091668 235.996676,52.22 234.13,52.22 Z M282.23,52.36 C278.356648,52.36 274.985015,51.8233387 272.115,50.75 C269.244986,49.6766613 266.853343,48.206676 264.94,46.34 C263.026657,44.473324 261.603338,42.2683461 260.67,39.725 C259.736662,37.181654 259.27,34.4400147 259.27,31.5 L259.27,1.4 L275.93,1.4 L275.93,29.68 C275.93,32.0600119 276.501661,33.9149934 277.645,35.245 C278.788339,36.5750067 280.40999,37.24 282.51,37.24 C284.610011,37.24 286.231661,36.5750067 287.375,35.245 C288.518339,33.9149934 289.09,32.0600119 289.09,29.68 L289.09,1.4 L305.68,1.4 L305.68,31.5 C305.68,34.4400147 305.178339,37.181654 304.175,39.725 C303.171662,42.2683461 301.69001,44.473324 299.73,46.34 C297.76999,48.206676 295.331682,49.6766613 292.415,50.75 C289.498319,51.8233387 286.103353,52.36 282.23,52.36 Z M311.92,1.4 L328.72,1.4 L328.72,50.96 L311.92,50.96 L311.92,1.4 Z M335.66,50.96 L335.66,1.4 L354.14,1.4 C358.06002,1.4 361.804983,1.78499615 365.375,2.555 C368.945018,3.32500385 372.094987,4.65499055 374.825,6.545 C377.555014,8.43500945 379.736659,10.9433177 381.37,14.07 C383.003342,17.1966823 383.82,21.1399762 383.82,25.9 C383.82,30.2400217 383.038342,33.9966508 381.475,37.17 C379.911659,40.3433492 377.823347,42.9449899 375.21,44.975 C372.596654,47.0050102 369.586684,48.5099951 366.18,49.49 C362.773317,50.4700049 359.226685,50.96 355.54,50.96 L335.66,50.96 Z M351.69,15.54 L351.69,36.68 L354.77,36.68 C358.69002,36.68 361.69999,35.8283419 363.8,34.125 C365.900011,32.4216582 366.95,29.6333527 366.95,25.76 C366.95,22.5399839 365.900011,20.0316757 363.8,18.235 C361.69999,16.4383244 358.900018,15.54 355.4,15.54 L351.69,15.54 Z M388.52,1.4 L422.61,1.4 L422.61,15.26 L404.2,15.26 L404.2,19.53 L421.49,19.53 L421.49,32.48 L404.2,32.48 L404.2,37.1 L423.8,37.1 L423.8,50.96 L388.52,50.96 L388.52,1.4 Z M453.63,52.22 C449.709981,52.22 446.081684,51.6133394 442.745,50.4 C439.408317,49.1866606 436.515013,47.4483447 434.065,45.185 C431.614988,42.9216554 429.690007,40.1800161 428.29,36.96 C426.889993,33.7399839 426.19,30.1466865 426.19,26.18 C426.19,22.2133135 426.889993,18.6200161 428.29,15.4 C429.690007,12.1799839 431.603322,9.4266781 434.03,7.14 C436.456679,4.8533219 439.303317,3.09167285 442.57,1.855 C445.836683,0.61832715 449.336648,0 453.07,0 C456.943353,0 460.618316,0.6299937 464.095,1.89 C467.571685,3.1500063 470.406656,4.8766557 472.6,7.07 L462.87,18.76 C461.843329,17.5466606 460.630007,16.578337 459.23,15.855 C457.829993,15.1316631 456.103344,14.77 454.05,14.77 C452.69666,14.77 451.37834,15.0383307 450.095,15.575 C448.811661,16.1116694 447.680005,16.8816617 446.7,17.885 C445.719996,18.8883384 444.92667,20.089993 444.32,21.49 C443.713331,22.890007 443.41,24.4533247 443.41,26.18 C443.41,29.6333506 444.308325,32.4449892 446.105,34.615 C447.901676,36.7850109 450.783314,37.87 454.75,37.87 C455.450004,37.87 456.17333,37.8116673 456.92,37.695 C457.666671,37.5783328 458.249998,37.4033345 458.67,37.17 L458.67,33.39 L450.69,33.39 L450.69,20.3 L473.44,20.3 L473.44,47.39 C472.273328,48.0900035 470.931675,48.7316638 469.415,49.315 C467.898326,49.8983363 466.288342,50.3999979 464.585,50.82 C462.881659,51.2400021 461.096676,51.5783321 459.23,51.835 C457.363324,52.091668 455.496676,52.22 453.63,52.22 Z M501.730001,52.36 C497.856648,52.36 494.485015,51.8233387 491.615001,50.75 C488.744986,49.6766613 486.353343,48.206676 484.440001,46.34 C482.526658,44.473324 481.103339,42.2683461 480.170001,39.725 C479.236663,37.181654 478.770001,34.4400147 478.770001,31.5 L478.770001,1.4 L495.430001,1.4 L495.430001,29.68 C495.430001,32.0600119 496.001661,33.9149934 497.145001,35.245 C498.28834,36.5750067 499.90999,37.24 502.010001,37.24 C504.110011,37.24 505.731661,36.5750067 506.875001,35.245 C508.01834,33.9149934 508.590001,32.0600119 508.590001,29.68 L508.590001,1.4 L525.180001,1.4 L525.180001,31.5 C525.180001,34.4400147 524.678339,37.181654 523.675001,39.725 C522.671662,42.2683461 521.19001,44.473324 519.230001,46.34 C517.269991,48.206676 514.831682,49.6766613 511.915001,50.75 C508.998319,51.8233387 505.603353,52.36 501.730001,52.36 Z M531.420001,1.4 L548.220001,1.4 L548.220001,50.96 L531.420001,50.96 L531.420001,1.4 Z M555.160001,50.96 L555.160001,1.4 L573.640001,1.4 C577.56002,1.4 581.304983,1.78499615 584.875001,2.555 C588.445018,3.32500385 591.594987,4.65499055 594.325001,6.545 C597.055014,8.43500945 599.236659,10.9433177 600.870001,14.07 C602.503342,17.1966823 603.320001,21.1399762 603.320001,25.9 C603.320001,30.2400217 602.538342,33.9966508 600.975001,37.17 C599.411659,40.3433492 597.323347,42.9449899 594.710001,44.975 C592.096654,47.0050102 589.086684,48.5099951 585.680001,49.49 C582.273317,50.4700049 578.726686,50.96 575.040001,50.96 L555.160001,50.96 Z M571.190001,15.54 L571.190001,36.68 L574.270001,36.68 C578.19002,36.68 581.19999,35.8283419 583.300001,34.125 C585.400011,32.4216582 586.450001,29.6333527 586.450001,25.76 C586.450001,22.5399839 585.400011,20.0316757 583.300001,18.235 C581.19999,16.4383244 578.400018,15.54 574.900001,15.54 L571.190001,15.54 Z M608.020001,1.4 L642.110001,1.4 L642.110001,15.26 L623.700001,15.26 L623.700001,19.53 L640.990001,19.53 L640.990001,32.48 L623.700001,32.48 L623.700001,37.1 L643.300001,37.1 L643.300001,50.96 L608.020001,50.96 L608.020001,1.4 Z" id="STYLEGUIDEGUIDE" fill="#565656"></path>
+		</svg>--><!--end .c-header__logo-->
+
+	</a><!--end c-logo__link-->
+
+</h3><!--end c-logo-->
+
+
+    	<button class="c-btn c-btn--small c-header__nav-btn js-nav-trigger">Menu</button>
+
+    	<div class="c-header__nav-container js-nav-panel">
+
+        
+
+<form action="../search-result.html" method="get" class="search-form">
+  <!--<label for="search-box">Search</label>-->
+  <input type="text" id="search-box" name="query" placeholder="Pesquisar">
+  <input type="submit" value="search">
+</form>
+
+
+
+<!--<ul id="search-results"></ul>-->
+
+<script>
+  window.store = {
+    
+      "components": {
+        "title": "Componentes",
+        "author": "",
+        "category": "",
+        "content": "Descrição sobre os componentes",
+        "url": "/components/"
+      }
+      ,
+    
+      "components-alert-html": {
+        "title": "Alerta",
+        "author": "",
+        "category": "",
+        "content": "Quando usar  Para feedbacks corriqueiros como dicas ou informações, utiliza-se o alerta na cor azul.  Para feedbacks de confirmação de uma ação, utiliza-se o alerta na cor verde.  Para feedbacks de aviso/atenção, utiliza-se o alerta na cor amarela.  Para feedbacks de “perigo”, quando o sistema não pode realizar uma tarefa ou o usuário cometeu um erro, utiliza-se o alerta na cor vermelha.Quando não usar  Não utilizar feedbacks de confirmação até que a ação esteja realmente confirmada pelo sistema. Exemplo: envio de informações em um formulário.  Não é recomendável apresentar mensagens de erros sem orientações de como resolver ou responsável pela resolução do problema.",
+        "url": "/components/alert.html"
+      }
+      ,
+    
+      "guidelines-principles-html": {
+        "title": "Princípios",
+        "author": "",
+        "category": "",
+        "content": "Na Benner acredita-se que a inovação é a chave para simplificar negócios. Por isso, o objetivo é oferecer soluções que sejam relevantes para o mercado, otimizando resultados e aproximando pessoas e empresas. É nesse cenário que nascem os nossos princípios, um guia para que o desenvolvimento das soluções esteja cada dia mais alinhado à missão da Benner.      Contextual: utilizar de uma linguagem que se adapte aos diversos cenários em que será aplicada, buscando sempre a melhor forma de auxiliar na resolução de problemas específicos de cada usuário.        Confiável: passar confiança ao usuário, garantindo uma experiência relevante e consistente.        Eficiente: transformar cenários complexos em soluções simples e amigáveis, facilitando a vida do usuário com informações claras e funcionalidades relevantes.        Unificado: gerar sinergia entre as pessoas e organizações, estimulando a colaboração e conexão para uma constante evolução.  ",
+        "url": "/guidelines/principles.html"
+      }
+      ,
+    
+      "components-badges-html": {
+        "title": "Badges",
+        "author": "",
+        "category": "",
+        "content": "Quando usar  Quando é necessário mostrar informações numéricas importantes sobre um item.  Quando é necessário chamar a atenção do usuário para um item específico.  Para informações comuns, utiliza-se o alerta na cor padrão (#36C6D3).  Para informações de confirmação, aviso e perigo, utiliza-se badges nas cores verde, amarela e vermelha, respectivamente.Quando não usar  Badges não devem substituir números em uma lista. Caso seja necessário destacar um número, recomenda-se modificar a cor do texto. Por exemplo: vermelho para representar valores negativos.",
+        "url": "/components/badges.html"
+      }
+      ,
+    
+      "styles-color-html": {
+        "title": "Cores",
+        "author": "",
+        "category": "",
+        "content": "O Elo possui sua paleta de cores. Para facilitar a identificação, filtramos e separamos algumas cores em quatro categorias: cores primárias, secundárias, cores de feedback e cores neutras, todas listadas abaixo com suas respectivas classes.Cores primáriasCores primárias são as cores principais do Elo. Elas são usadas na maioria dos elementos, como botões, títulos, abas, etc.                        blue-steel#4b77be                                  blue-sharp#5c9bd1                                  green-seagreen#1ba39c                                  green-turquoise#36d7b7            Cores secundáriasCores secundárias devem ser usadas para destacar outros elementos que não são tão comuns nas interfaces, como gráficos, dados, etc.                        purple#8e44ad                                  purple-medium#bf55ec                                  red#e7505a                                  red-sunglo#e26a6a                                  red-pink#e08283                                  yellow-casablanca#f2784b            Cores de feedbackCores de feedback tem como objetivo informar o usuário sobre alguma resposta do sistema, como erros, confirmações, avisos, etc.                        red-thunderbird#d91e18                                  yellow-crusta#f3c200                                  green-jungle#26c281                                  blue-steel#4b77be            Cores neutrasCores neutras são as cores fornecidas pela variação preto/branco/cinza e servem para balancear a utilização na interface.                        gray-carrara#fafafa                                  gray#e5e5e5                                  gray-silver#bfbfbf                                  gray-cascade#95a5a6                                  gray-gallery#555555                                  dark#2f353b            ",
+        "url": "/styles/color.html"
+      }
+      ,
+    
+      "components-progress-bar-html": {
+        "title": "Barra de Progresso",
+        "author": "",
+        "category": "",
+        "content": "Quando usar  Quando uma ação exige que haja diferentes passos para completá-la totalmente.  Quando uma ação depende de uma ação anterior para ser realizada.Quando não usar  Não devem ser usados como elementos de navegação entre páginas diferentes. Recomenda-se o uso de breadcrumbs.  Evite utilizar quando há poucas ações a serem realizadas, pois dividir em mais etapas pode tornar o processo mais trabalhoso em vez de rápido. Exemplo: preencher poucos campos em um formulário pequeno.",
+        "url": "/components/progress-bar.html"
+      }
+      ,
+    
+      "guidelines-accessibility-html": {
+        "title": "Acessibilidade",
+        "author": "",
+        "category": "",
+        "content": "Há um grande número de tipos e graus de deficiências. No Brasil, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), 45.606.048 brasileiros, 23,9% da população total, têm algum tipo de deficiência – visual, auditiva, motora e mental ou intelectual*. A acessibilidade permite que pessoas com algum dos tipos de deficiência visualizem, entendam, naveguem, interajam e contribuam com os sistemas Benner.Diante desse cenário, a missão de todos é garantir que o maior número de pessoas consigam se beneficiar ao utilizarem nossas soluções. Por isso, listamos algumas práticas que ajudam a criar sistemas cada vez mais acessíveis.*http://www.brasil.gov.br/saude/2012/04/tipos-de-deficienciaMelhores Práticas  Ofereça alternativas em texto para elementos não-textuais (exemplo: imagens).  Não utilize apenas cores para identificar um item, isso pode.  Ofereça navegação via comandos no teclado.  Estruture o código front end para facilitar a identificação de texto em softwares de leitura de tela. Utilize o http://validator.w3.org para identificar melhorias.Faça parteEncontrou possíveis melhorias de acessibilidade nos sistemas Benner? Entre em contato com a gente, clique aqui.",
+        "url": "/guidelines/accessibility.html"
+      }
+      ,
+    
+      "components-button-html": {
+        "title": "Botões",
+        "author": "",
+        "category": "",
+        "content": "Quando usar  Quando é preciso executar uma ação, por exemplo, Incluir, Excluir, Editar, Atualizar, Cancelar, etc.  Para as ações mais importantes ou corriqueiras, utiliza-se os botões primários.  Para ações secundárias, utiliza-se os botões secundários.  Para ações de cancelamento ou ações menos importantes, utiliza-se os botões terciários (cinza).  Para ações extremas com efeitos colaterais, como exclusão, por exemplo, utiliza-se os botões vermelhos.  Para ações de confirmação, utiliza-se os botões verdes.Quando não usar  Botões não devem ser usados como elementos de navegação. Recomenda-se o uso de links para deixar claro a ideia de uma nova página.  Para ações com o mesmo objetivo, evite utilizar palavras diferentes para descrever a mesma ação. Exemplo: Inserir e Adicionar.",
+        "url": "/components/button.html"
+      }
+      ,
+    
+      "styles-typography-html": {
+        "title": "Tipografia",
+        "author": "",
+        "category": "",
+        "content": "{% include typography-guide.html %}",
+        "url": "/styles/typography.html"
+      }
+      ,
+    
+      "components-breadcrumbs-html": {
+        "title": "Breadcrumbs",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando há mais de dois níveis de páginas navegáveis.- Quando é preciso mostrar as páginas anteriores para o usuário.### Quando não usar- Quando há menos de três níveis de páginas navegáveis.- Não deve linkar para a página atual, somente para as páginas anteriores.- Breadcrumbs devem ser um suporte a navegação do usuário, mas nunca o principal meio de navegação.- Quando for necessário navegar por um processo várias etapas (e não páginas), recomenda-se o uso da Barra de Progresso.",
+        "url": "/components/breadcrumbs.html"
+      }
+      ,
+    
+      "styles-iconography-html": {
+        "title": "Ícones",
+        "author": "",
+        "category": "",
+        "content": "{% include fontawesome.html %}Os ícones utilizados pelo Elo são baseados no FontAwesome, uma das mais completas bibliotecas de ícones disponíveis, com um grande número de ícones e facilidade de identificação por parte da maioria dos usuários. Para verificar todas as opções, acesse: [http://fontawesome.io/cheatsheet/](http://fontawesome.io/cheatsheet/)Alguns ícones são universais e conhecidos pela maioria das pessoas, como a lupa, casa e impressora. Entretanto, esses casos são raros, portanto verifique se os ícones realmente vão ajudar o usuário naquele contexto ou se vão apenas deixar algo “mais bonito”, pois o efeito pode ser o oposto.### Melhores Práticas- Não utilize ícones fora das cores apresentadas no Elo.- Não utilize ícones diferentes para ações iguais. Exemplo: coração ou estrela para “favoritar” algo.- Evite utilizar apenas ícones de forma isolada. Sempre que possível, combine ícones e textos (labels).- Na maioria das vezes, ícones não são boas escolhas quando representam conceitos abstratos ou extremamente específicos. Avalie se aquela opção realmente significa algo.",
+        "url": "/styles/iconography.html"
+      }
+      ,
+    
+      "components-checkboxes-html": {
+        "title": "Checkboxes",
+        "author": "",
+        "category": "",
+        "content": "### Quando utilizarSão usadas quando existem várias opções e o usuário pode selecionar uma ou mais de uma delas. Cada checkbox é independente, podendo ser marcada ou desmarcada sem necessariamente afetar o restante das caixas. Normalmente vem acompanhado de um botão Salvar/Enviar para confirmar a mudança.### Quando não utilizar- Quando é necessário escolher apenas uma entre várias opções, recomenda-se o uso do Radio Button.- Quando a mudança deve ser imediata, recomenda-se o uso do Switcher.",
+        "url": "/components/checkboxes.html"
+      }
+      ,
+    
+      "components-forms-html": {
+        "title": "Formulário",
+        "author": "",
+        "category": "",
+        "content": "Por serem elementos comuns nos sistemas Benner, inserimos nesta seção um tópico de Melhores Práticas que podem auxiliar designer e desenvolvedores a criarem formulários mais simples para o usuário.### Melhores Práticas- Evite usar mais de uma coluna para os campos, isso pode confundir o usuário na hora de navegar.- Quando o formulário possuir muitos campos, veja se há a possibilidade de dividir em etapas.- Labels acima dos campos facilita o entendimento e a leitura do usuário.- Utilize placeholders e tootlips para contextualizar qual informação deve ser preenchida pelo usuário e como ela deve ser inserida máscaras.",
+        "url": "/components/forms.html"
+      }
+      ,
+    
+      "styles-grid-html": {
+        "title": "Grid",
+        "author": "",
+        "category": "",
+        "content": "{% include grid.html %}### BootstrapUm produto com grids bem aplicadas traz uma maior consistência, além de melhorar a usabilidade do sistema. O Elo utiliza como base o grid padrão do framework Bootstrap, composto por 12 colunas que podem ser combinadas para projetar páginas de forma mais simples. As recomendações de como usar podem se encontradas em: [Referência em inglês](https://getbootstrap.com/docs/4.0/layout/grid/){:target=\"_blank\"} e [Referência em português](http://getbootstrap.com.br/css/#grid){:target=\"_blank\"}.### Integração com WESO WES já possui esse grid em sua composição, facilitando o processo de desenvolvimento e gerando páginas responsivas. Caso seja necessário alterar algum tipo de configuração, siga o padrão do Bootstrap.### ReferênciasSaiba mais sobre Grid e outros tópicos na seção de [Recursos](/resources.html){:target=\"_blank\"}.",
+        "url": "/styles/grid.html"
+      }
+      ,
+    
+      "components-menus-html": {
+        "title": "Menus",
+        "author": "",
+        "category": "",
+        "content": "Normalmente se apresentam em duas visualizações: no topo e na lateral esquerda.Por serem elementos comuns nos sistemas Benner, inserimos nesta seção um tópico de Melhores Práticas que podem auxiliar designer e desenvolvedores a criarem menus mais simples para o usuário.### Melhores práticas- Em visualizações Web Desktop, procure apresentar o menu sempre em seu estado “aberto”, nunca ocultando os itens.- Evite utilizar nomenclaturas longas ou abreviações para seções e itens de um menu. Isso dificulta o “escaneamento” das opções por parte do usuário.- Utilize ícones apenas para as primeiras camadas de menu. Muitos ícones diferentes em um mesmo grupo de informações acabam tendo o efeito oposto ao desejado.- Evite utilizar muitos subitens para um item de um menu. Tantas opções podem confundir o usuário.",
+        "url": "/components/menus.html"
+      }
+      ,
+    
+      "components-modals-html": {
+        "title": "Modal",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando o usuário precisa ver um conteúdo sem perder o contexto da página em que se encontra.- Quando o usuário precisa executar uma ação importante antes de voltar à navegação anterior.- O usuário precisa ser informado sobre as consequências de uma determinada ação e se deve confirmá-la ou não. Exemplo: excluir um registro, etc.### Quando não usar- Não use modais para mostrar informações que deveriam ser mostradas em novas páginas. Isso pode confundir o fluxo de utilização para o usuário.- Evite utilizar conteúdos muito extensos em um modal. Navegar dentro de um modal pode ser difícil para usuários mais leigos.- Avalie a necessidade e a frequência de uso de modais. Apesar de úteis, eles podem se tornar irritantes quando mostrados o tempo todo.",
+        "url": "/components/modals.html"
+      }
+      ,
+    
+      "components-pagination-html": {
+        "title": "Paginação",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando o usuário precisa acessar diferentes páginas de um grupo de informações. Exemplo: tabelas ou listas.- Quando o usuário precisa acessar diretamente uma página específica dentro de uma tabela ou lista.- Deve-se mostrar quantas páginas existem no total e em qual página o usuário se encontra.### Quando não usar- Quando existem poucos itens em uma lista (menos de 10).",
+        "url": "/components/pagination.html"
+      }
+      ,
+    
+      "components-search-html": {
+        "title": "Pesquisa",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando há um número grande de itens e o usuário precisa encontrar itens específicos.- Uma boa prática para a utilização da busca é localizá-la no canto direito superior ou áreas próximas, dependendo do contexto. Isso facilita a vida do usuário por ser um padrão bastante utilizado.### Quando não usar- Em listas e tabelas com no máximo 10 itens, usar a funcionalidade de busca pode confundir o usuário ao sugerir que existem mais itens.- Em alguns casos recomenda-se o uso de filtros, já que trazem resultados a partir de parâmetros.- Evite usar uma busca sem um botão de ação (pesquisar, por exemplo). Isso pode dificultar a vida de usuários mais leigos.",
+        "url": "/components/search.html"
+      }
+      ,
+    
+      "components-pickers-html": {
+        "title": "Pickers",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando é necessário agendar/reservar algo.- Quando é preciso estabelecer uma data ou horário limite.- Quando é preciso estabelecer um intervalo de datas ou horários.### Quando não usar- Não é recomendado utilizar quando o usuário já conhece a data ou horário em questão (data de nascimento, por exemplo). Nesse caso, recomenda-se utilizar um campo simples com máscara.",
+        "url": "/components/pickers.html"
+      }
+      ,
+    
+      "components-radio-buttons-html": {
+        "title": "Radio Buttons",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando é preciso selecionar apenas um único item em uma lista de opções.- Quando ao marcar em uma opção, as outras opções são automaticamente desmarcadas.### Quando não usar- Quando houver um número grande de opções, recomenda-se a utilização de um Select.- Quando for necessário selecionar mais de uma opção, recomenda-se o uso de Checkboxes.- Evite utilizar radio buttons em formato “linha”. Dê preferência ao formato “coluna”.",
+        "url": "/components/radio-buttons.html"
+      }
+      ,
+    
+      "guidelines-voice-html": {
+        "title": "Tom de voz",
+        "author": "",
+        "category": "",
+        "content": "Se as soluções Benner fossem pessoas, como elas se comunicariam com o seu usuário? É para responder a essa pergunta que devemos pensar no tom de voz.O tom de voz é uma parte extremamente importante nos sistemas Benner. É mediante ele que conversamos com nossos usuários em nossas soluções. Lidar com pessoas de diversas áreas de trabalho em diferentes contextos é um grande desafio, por isso acreditamos que a linguagem não é só uma maneira de informar, mas de facilitar a vida do usuário.Para facilitar o entendimento de quem ajuda a projetar os Sistemas Benner, criamos 3 recomendações de como devem ser as conversas com nossos usuários:- **Simples**: na medida do possível, procure utilizar uma linguagem simples, sem termos técnicos que não sejam de domínio do usuário ou não relevantes para aquela mensagem.- **Objetiva**: forneça a informação ao usuário de forma direta e rápida. Evite se alongar em detalhes que não agregam valor para a mensagem.- **Prestativa**: devemos ajudar o usuário oferecendo as informações necessárias sobre como resolver erros ou realizar ações e procedimentos.",
+        "url": "/guidelines/voice.html"
+      }
+      ,
+    
+      "guidelines-ux-html": {
+        "title": "Experiência do usuário",
+        "author": "",
+        "category": "",
+        "content": "{% include ux-guideline.html %}",
+        "url": "/guidelines/ux.html"
+      }
+      ,
+    
+      "components-selects-html": {
+        "title": "Selects",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando é preciso selecionar apenas um único item em uma lista de opções.### Quando não usar- Quando houver um número pequeno de opções (menos de 5), recomenda-se a utilização de Radio Buttons.- Quando for necessário selecionar mais de uma opção, recomenda-se o uso de Checkboxes.- Quando houver um número grande de opções (mais de 15), procure utilizar a versão com autocomplete, facilitando para o usuário. Ex.: seleção de Cidades ou UFs.- Evite utilizar uma opção “padrão” já selecionada. Isso pode acarretar erros como enviar uma informação errada, por exemplo.",
+        "url": "/components/selects.html"
+      }
+      ,
+    
+      "components-switcher-html": {
+        "title": "Switcher",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando é preciso selecionar ativar uma configuração sem que haja a necessidade de “salvar” ou “enviar” a configuração.- Quando a mudança precisa ser imediata: ao mudar um estado do switcher, o usuário automaticamente altera a configuração em questão.### Quando não usar- Quando for preciso confirmar a alteração realizada, recomenda-se a utilização de checkboxes combinadas com um botão “Enviar”, como em um formulário, por exemplo.",
+        "url": "/components/switcher.html"
+      }
+      ,
+    
+      "components-table-html": {
+        "title": "Tabela",
+        "author": "",
+        "category": "",
+        "content": "Por serem elementos comuns nos sistemas Benner, inserimos nesta seção um tópico de Melhores Práticas que podem auxiliar designers e desenvolvedores a criarem tabelas mais simples para o usuário.### Melhores Práticas- Em tabelas com muitos dados, ofereça opções de busca.- Caso seja necessário, utilize filtros para ajudar o usuário a encontrar informações mais específicas.- Utilize a opção de ordenar por colunas.- Quando possível, utilize uma versão “listrada” da tabela, para facilitar a visualização dos dados em diversas linhas.",
+        "url": "/components/table.html"
+      }
+      ,
+    
+      "components-tabs-html": {
+        "title": "Tabs",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando o usuário não precisa ver conteúdos diferentes ao mesmo tempo.- Quando informações diferentes precisam ser fáceis de navegar.### Quando não usar- Não use tabs para mostrar conteúdos que precisam ser comparados. Caso necessário, utilize uma tabela ou seções na mesma tela.- Utilize uma linguagem clara e que demonstre ao usuário o que ele pode encontrar dentro de uma tab. Evite textos longos e ícones desconexos.",
+        "url": "/components/tabs.html"
+      }
+      ,
+    
+      "components-tags-html": {
+        "title": "Tags",
+        "author": "",
+        "category": "",
+        "content": "### Quando usar- Quando informações precisam ser diferenciadas de forma fácil e rápida- Quando é preciso filtrar algum tipo de informação### Quando não usar- Não utilize as tags como forma de destacar uma informação. Caso seja necessário, recomenda-se modificar a cor do texto.- Evite utilizar tags em sequências muito longas, como em uma lista, por exemplo. O excesso de tags e cores pode dificultar a leitura e a comparação de várias informações.- Evite utilizar tags de mesmas cores para conteúdos diferentes. Isso pode confundir o usuário.",
+        "url": "/components/tags.html"
+      }
+      ,
+    
+      "components-text-field-html": {
+        "title": "Text field",
+        "author": "",
+        "category": "",
+        "content": "### Melhores práticas- Facilite a vida do usuário ao digitar informações como caracteres especiais e utilize máscaras em campos como datas, RGs, CPFs, entre outros.- Para informações curtas, utilize o campo menor.- Quando for necessário digitar mensagens maiores que uma sentença, utilize o campo maior.- Para campos onde serão inseridas informações complexas, considere utilizar uma tooltip ou popover para complementar a informação e ajudar o usuário.- Placeholders são uma ótima forma de dar dicas ao usuário. Utilize-os para informações curtas.- Não utilize placeholders como substitutos de Labels (Nomes dos Campos). Isso pode prejudicar o usuário quando o mesmo digitar em um campo.",
+        "url": "/components/text-field.html"
+      }
+      ,
+    
+      "components-tooltips-html": {
+        "title": "Tooltips/Popover",
+        "author": "",
+        "category": "",
+        "content": "O usuário precisa saber mais informações sobre um item ou campo específico. Normalmente utilizado em formulários, quando é necessário inserir informações complexas.### Melhores práticas- Quando o usuário precisa informações ou dicas complementares sobre um item, utilize um tooltip.- Caso seja necessário incluir informações maiores, com títulos e descrições, utilize o popover.- Não utilize tooltips ou popovers caso as informações sejam essenciais para a visualização do usuário. Isso pode confundir o usuário durante a navegação.",
+        "url": "/components/tooltips.html"
+      }
+      ,
+    
+      "about-html": {
+        "title": "About the design system",
+        "author": "",
+        "category": "",
+        "content": "Check out [MailChimp's pattern library about page](http://ux.mailchimp.com/patterns/about) for inspiration.",
+        "url": "/about.html"
+      }
+      ,
+    
+      "feed-xml": {
+        "title": "",
+        "author": "",
+        "category": "",
+        "content": "      {{ site.title | xml_escape }}    {{ site.description | xml_escape }}    {{ site.url }}{{ site.baseurl }}/        {{ site.time | date_to_rfc822 }}    {{ site.time | date_to_rfc822 }}    Jekyll v{{ jekyll.version }}    {% for post in site.posts limit:10 %}              {{ post.title | xml_escape }}        {{ post.content | xml_escape }}        {{ post.date | date_to_rfc822 }}        {{ post.url | prepend: site.baseurl | prepend: site.url }}        {{ post.url | prepend: site.baseurl | prepend: site.url }}        {% for tag in post.tags %}        {{ tag | xml_escape }}        {% endfor %}        {% for cat in post.categories %}        {{ cat | xml_escape }}        {% endfor %}          {% endfor %}  ",
+        "url": "/feed.xml"
+      }
+      ,
+    
+      "gallery-html": {
+        "title": "App Gallery",
+        "author": "",
+        "category": "",
+        "content": "Check out a [gallery of apps created with Material Design](https://material.uplabs.com/) for inspiration.",
+        "url": "/gallery.html"
+      }
+      ,
+    
+      "getting-started-html": {
+        "title": "Introdução",
+        "author": "",
+        "category": "",
+        "content": "## Utilizando o Elo Design SystemDeve-se utilizar como referência os conteúdos disponibilizados aqui, no momentodo desenvolvimento e adequações de soluções.Para acessar, selecione o que deseja no menu ao lado ou utilize a ferramenta depesquisa.O **Elo Design System** tem total compatibilidade com o **WES** a partir da versão 15.## Design AtômicoA base por trás do **Elo Design System** é o Design Atômico, um modo de pensar quenos ajuda a entender o que o *Design System* pode fazer e como ele pode impactarem todos os sistemas Benner.Entender um pouco sobre esse tema ajuda bastante quando projetamos um sistema,pois deixamos de pensar apenas no resultado final e começamos a pensar nas partes.Ter peças prontas em vez de criar peças novas facilita o processo de desenvolvimento.### O que é Design AtômicoCriado por Brad Frost, o Design Atômico é uma analogia para explicar como componentesse comportam e interagem entre si em um sistema. Ele empresta alguns conceitos daQuímica e divide os componentes visuais em cinco partes (do menor para o maior): **átomos**, **moléculas**, **organismos**, **templates** e **páginas**.Átomos quando agrupados formam Moléculas, que quando agrupadas formam Organismos,assim por diante. Pense em peças de Lego: uma simples peça de Lego não representamuita coisa, mas quando agrupadas formam partes maiores, que quando agrupadasformam grandes obras.O conceito foi adaptado para o contexto de desenvolvimento da Benner.{% include image-tabs.html %}",
+        "url": "/getting-started.html"
+      }
+      ,
+    
+      "history-html": {
+        "title": "Release history",
+        "author": "",
+        "category": "",
+        "content": "Release notes go here",
+        "url": "/history.html"
+      }
+      ,
+    
+      "": {
+        "title": "Elo Design System",
+        "author": "",
+        "category": "",
+        "content": "  Com o objetivo de comunicar a mesma mensagem por meio de diversas soluções, comvárias tecnologias, de forma clara e consistente, nasce o **Elo Design System**, umpadrão de comunicação para ajudar os desenvolvedores Benner nas soluções elaboradas.## O que é Design SystemUma série de referências de estilos, componentes e padrões de aplicação, para quedesenvolvedores possam focar mais nas **tecnologias** aplicadas em nossas soluções.O **Elo Design System** funcionará como um portal de referências para os padrões dedesign e melhores práticas, garantindo a comunicação da identidade Benner pormeio das interfaces disponíveis para os usuários. Algumas vantagens de utilizaro *Design System*:- Agilizar o processo de desenvolvimento mediante referência concreta.- Padronizar interfaces nas soluções Benner.- Aumentar a consistência de interações dentre as soluções.- Diminuir a probabilidade de erros ou problemas de usabilidade.- Aumentar a integração entre as equipes de desenvolvimento, design e envolvidos no projeto.- Permitir a escalabilidade de interfaces desenvolvidas.- Garantir constante atualização e evolução dos conteúdos disponíveis.## Comece a usar agoraVeja como você pode aplicar o *Design System* com o seu time.  Introdução",
+        "url": "/"
+      }
+      ,
+    
+      "css-main-css": {
+        "title": "",
+        "author": "",
+        "category": "",
+        "content": "/*------------------------------------*\\   #TABLE OF CONTENTS\\*------------------------------------*//*** ABSTRACTS..............................Declarations of Sass variables & mixins* BASE...................................Default element styles* .....Body* .....Links* .....Headings* .....Forms* .....Defaults* LAYOUT.................................Layout-specific styles* COMPONENTS.............................Component styles* UTILITIES..............................Utility classes*/@charset \"utf-8\";/*------------------------------------*\\   #ABSTRACTS\\*------------------------------------*/@import \"abstracts/variables\";@import \"abstracts/mixins\";/*------------------------------------*\\   #BASE\\*------------------------------------*/@import \"base/body\";@import \"base/buttons\";@import \"base/forms\";@import \"base/headings\";@import \"base/links\";@import \"base/lists\";@import \"base/main\";@import \"base/media\";@import \"base/reset\";@import \"base/tables\";@import \"base/text\";/*------------------------------------*\\   #LAYOUT\\*------------------------------------*/@import \"layout/layout\";/*------------------------------------*\\   #COMPONENTS\\*------------------------------------*/@import \"components/breadcrumbs\";@import \"components/buttons\";@import \"components/button-group\";@import \"components/card\";@import \"components/footer-nav\";@import \"components/footer\";@import \"components/header\";@import \"components/hero\";@import \"components/logo\";@import \"components/icon\";@import \"components/page-header\";@import \"components/primary-nav\";@import \"components/search\";@import \"components/section\";@import \"components/table\";@import \"components/tabs\";@import \"components/text-passage\";@import \"components/tile\";@import \"components/typography\";/*------------------------------------*\\   #UTILITIES\\*------------------------------------*/@import \"utilities/visibility\";@import \"utilities/display\";/*------------------------------------*\\   #EXAMPLES FOR DESIGN SYSTEM COMPONENTS\\*------------------------------------*/",
+        "url": "/css/main.css"
+      }
+      ,
+    
+      "page-templates-html": {
+        "title": "Page Templates",
+        "author": "",
+        "category": "",
+        "content": "",
+        "url": "/page-templates.html"
+      }
+      ,
+    
+      "release-history-html": {
+        "title": "Histórico de Releases",
+        "author": "",
+        "category": "",
+        "content": "    {% for post in site.posts %}        \t\t\t\t\t\t\t{{ post.title }}            \t\t\t\t\t\t{{ post.content }}\t\t\t\t\t\t\t            {% endfor %}",
+        "url": "/release-history.html"
+      }
+      ,
+    
+      "resources-html": {
+        "title": "Recursos",
+        "author": "",
+        "category": "",
+        "content": "## Materiais adicionaisCompilamos uma lista de referências sobre os conteúdos apresentados aqui no Portalpara facilitar a aplicação e compreensão, ou caso queiram se aprofundarmais em algum dos assuntos.Em breve, treinamentos no Educa Benner sobre o **Elo Design System**.### Design System- [Sistemas de Design para Interfaces](https://coletivoux.com/sistemas-de-design-para-interfaces-6f846e0067e)### Design Atômico- [Documentação de sistemas através do Atomic Design](https://medium.com/skillsweb/documenta%C3%A7%C3%A3o-de-sistemas-atrav%C3%A9s-do-atomic-design-48c90af3e134)### UX Design- [O que é UX Design? Experiência do usuário explicada em 10 vídeos](https://brasil.uxdesign.cc/o-que-%C3%A9-ux-design-experi%C3%AAncia-do-usu%C3%A1rio-explicada-em-10-v%C3%ADdeos-161be4e5b313)- [O que é UI Design e UX Design?](https://medium.com/ui-lab-school/o-que-%C3%A9-ui-design-e-ux-design-525b95eb05df)### Grid- [Compreendendo o sistema de grid do Bootstrap](https://edsonjunior.com/compreendendo-grid-do-bootstrap/)- [A Grid do Bootstrap: Tudo que você sempre quis saber mas não tinha a quem perguntar](http://rodrigomilano.com.br/a-grid-do-bootstrap-tudo-que-voce-sempre-quis-saber-mas-nao-tinha-a-quem-perguntar/)### Ferramentas- [StatCounter - GlobalStats](http://gs.statcounter.com/#desktop-resolution-BR-monthly-201506-201606)",
+        "url": "/resources.html"
+      }
+      ,
+    
+      "roadmap-html": {
+        "title": "Roadmap",
+        "author": "",
+        "category": "",
+        "content": "Em breve mais informações.Confira os primeiros releases do Design System na página [Releases](/release-history.html).",
+        "url": "/roadmap.html"
+      }
+      ,
+    
+      "search-result-html": {
+        "title": "Search",
+        "author": "",
+        "category": "",
+        "content": "\t",
+        "url": "/search-result.html"
+      }
+      ,
+    
+      "css-style-guide-css": {
+        "title": "",
+        "author": "",
+        "category": "",
+        "content": "$color-white: #ffffff;$color-gray-dark: #333333;$color-gray-lighter: #f5f5f5;$color-gray-10: #e5e5e5;$color-gray-04: #f5f5f5;$color-app-red: #d82424;$color-app-green: #00af53;$color-app-ruby: #b10040;$color-app-blue: #225896;$color-app-sea-blue: #005f7f;$color-app-torquoise: #00aca8;$color-app-med-gray: #545459;$color-app-blue-light: #e1efff;$color-app-blue-deep: #111122;$anim-base-easing: ease;$anim-base-duration: .3s;/** * Max Width */$l-max-width: 84em;$l-max-width-text: 38em;/** * Breakpoints */$bp-small: 24em;$bp-small-2: 30em;$bp-med: 35em;$bp-large: 47em;$bp-xl: 62em;$bp-xl-2: 67em;$bp-xl-3: $l-max-width;/** * 1) This is an overide to have more text breathing room on home */@media all and (min-width: 62em) {\t.c-section--home {\t\tpadding: 0 3rem;\t}}/*------------------------------------*\\    #IFFFRAME\\*------------------------------------*//** * 1) Iffframe creates a resizable component */.iffframe {    padding: 1rem 0.7rem 1rem 0;    width: 100%;    position: relative;    border: 1px solid $color-gray-lighter;    border-left: none;    overflow: hidden;    height: auto;    background-color: $color-white;    margin-bottom: 2rem;\t//transition: width 0.6s $anim-base-easing;}.iffframe__iframe {    width: 100%;    overflow: auto;    overflow-x: auto !important;}/** * Iffframe handle * 1) Hide resize handle for small screens */.iffframe__handle {\tdisplay: none; /* 1 */    width: 0.7rem;    height: 100%;    position: absolute;    right: 0;    top: 0;    cursor: col-resize;    background-color: $color-gray-lighter;    transition: background-color $anim-base-duration $anim-base-easing;    &:after {        content: \"\";        display: block;        height: 1rem;        width: 2px;        border-right: 1px solid #aaa;        border-left: 1px solid #aaa;        position: absolute;        top: 50%;        left: 50%;        margin-top: -0.5rem;        margin-left: -1px;    }\t&:hover {\t\tbackground: #e5e5e5;\t}\t&:active {\t\tbackground: #cccccd;\t}\t@media all and (min-width: 40em) {\t\tdisplay: block;\t}}// Failed attempt to get the icon grid looking better// li.icon-grid__item.c-well {// \tpadding: 1rem !important;// \tborder-color: $color-gray-10;// \tbackground-color: $color-gray-04;// \th3 {// \t\tmargin-top: 2rem;// \t}// }/*------------------------------------*\\    #CODE\\*------------------------------------*//** * 1) Override some Prism defaults * 2) Fixed width button for showing and hiding code * 3) Change background color * 4) Update the code color to have Exxon colors */code[class*=\"language-\"], pre[class*=\"language-\"] {\ttab-size: 2;}.pattern-code {\tposition: relative;\tmargin-top: 2rem;}/** * Applied to pre element */.pattern-code-block {    margin-top: 0;    max-height: 25rem;\toverflow-y: hidden;    .is-expanded & {\t\tmax-height: none;\t}}.pattern-code-copy-btn {\tposition: absolute;\ttop: 0;\tright: 0;\tz-index: 2;}/* 3 */pre[class*=\"language-\"] {\tbackground-color: $color-gray-04;}code[class*=\"language-\"], pre[class*=\"language-\"] {\ttext-shadow: none;}/** * Push the button up to be closer to the code-block in the show-more block */.c-btn {\t.show-more & {\t\tposition: relative;\t\tbottom: 2rem;\t\tz-index: 1;\t}}/** * Force last paragraph of page header description to be inline so markdown flows into \"Jump To Usage Guidelines Link\" */.c-page-header__desc {\tp {\t\t&:last-of-type {\t\t\tdisplay: inline;\t\t}\t}}/** * Page header icon * 1) Add height and width for the page header icon for the \"Jump to Usage Guidelines Link\" * 2) Added within the header__desc to cancel out text-passage styles; */.c-page-header__icon {\t.c-page-header__desc & {\t\theight: 1rem; /* 1 */\t\twidth: 1rem; /* 1 */\t}}/** * Tabs list in reference site * 1) Wrap tabs * 2) Remove overflow * 3) Remove shadows for overflow */.c-tabs__list {\t@media all and (min-width: $bp-large) {\t\tflex-wrap: wrap; /* 1 */\t\toverflow-x: inherit; /* 2 */\t\toverflow-y: inherit; /* 2 */\t}}/*------------------------------------*\\    #LAYOUT TWEAKS\\*------------------------------------*/.push-right {\tpadding-left: 0.5rem;\t@media all and (min-width: 40em) {\t\tpadding-left: 8rem;\t}}.c-tabs-list__item {\tdisplay: none;\t&.is-active {\t\tdisplay: block;\t}}",
+        "url": "/css/style-guide.css"
+      }
+      ,
+    
+      "support-html": {
+        "title": "Suporte",
+        "author": "",
+        "category": "",
+        "content": "## Canais de contatoCaso tenha alguma dúvida, sugestão ou queira reportar um problema, entre emcontato conosco, time de UX Design, por algum dos e-mails abaixo. Ficaremoscontentes em atendê-los.- Johnny: [johnny.oliveira@benner.com.br](mailto:johnny.oliveira@benner.com.br)- Carlos: [carlos.capel@benner.com.br](mailto:carlos.capel@benner.com.br)- Luís Guilherme: [luis.silva@benner.com.br](mailto:luis.silva@benner.com.br)## RecursosPara mais conteúdos sobre Design System e assuntos relacionados, acesse a páginade [Recursos](/resources.html).",
+        "url": "/support.html"
+      }
+      
+    
+  };
+</script>
+
+
+			  <nav class="c-primary-nav" role="navigation">
+
+	<ul class="c-primary-nav__list c-primary-nav__list--flush js-nav-panel" role="tablist" aria-multiselectable="true">
+
+		<li class="c-primary-nav__item">
+			<a href="/getting-started.html" class="c-primary-nav__link ">
+				<span class="c-primary-nav__text">Introdução</span>
+			</a>
+		</li><!-- end c-nav__list__item -->
+
+		<li class="c-primary-nav__item ">
+			<a class="c-primary-nav__link c-primary-nav__link--has-children js-nav-dropdown-trigger " href="/guidelines/">
+
+				<span class="c-primary-nav__text">Guidelines</span>
+
+				<svg class="c-icon c-primary-nav__icon" aria-hidden="true">
+					<use href="/icons.svg#chevron-right"></use>
+				</svg>
+
+			</a>
+
+			<ul class="c-primary-nav__sublist js-nav-dropdownn ">
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+				<li class="c-primary-nav__item">
+					<a class="c-primary-nav__link " href="/guidelines/principles.html">
+                    
+
+                    Princípios
+
+                    
+					</a>
+				</li>
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+				<li class="c-primary-nav__item">
+					<a class="c-primary-nav__link " href="/guidelines/accessibility.html">
+                    
+
+                    Acessibilidade
+
+                    
+					</a>
+				</li>
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+				<li class="c-primary-nav__item">
+					<a class="c-primary-nav__link " href="/guidelines/voice.html">
+                    
+
+                    Tom de voz
+
+                    
+					</a>
+				</li>
+				
+
+			
+
+				
+				<li class="c-primary-nav__item">
+					<a class="c-primary-nav__link " href="/guidelines/ux.html">
+                    
+
+                    Experiência do usuário
+
+                    
+					</a>
+				</li>
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+			</ul>
+		</li>
+
+
+		<li class="c-primary-nav__item ">
+
+			<a href="/styles/index.html" class="c-primary-nav__link c-primary-nav__link--has-children js-nav-dropdown-trigger ">
+
+				<span class="c-primary-nav__span">Styles</span>
+
+				<svg class="c-icon c-primary-nav__icon" aria-hidden="true">
+					<use href="/icons.svg#chevron-right"></use>
+				</svg>
+
+			</a>
+
+			<ul class="c-primary-nav__sublist js-nav-dropdown ">
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/styles/color.html">
+                        
+
+                        Cores
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/styles/typography.html">
+                        
+
+                        Tipografia
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/styles/iconography.html">
+                        
+
+                        Ícones
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/styles/grid.html">
+                        
+
+                        Grid
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+			
+				
+					
+				
+			
+			</ul>
+
+		</li><!-- end c-nav__list__item -->
+
+		<li class="c-primary-nav__item is-active">
+
+			<a href="/components/index.html" class="c-primary-nav__link c-primary-nav__link--has-children js-nav-dropdown-trigger  is-active  is-current">
+
+				<span class="c-primary-nav__span">Componentes</span>
+
+				<svg class="c-icon c-primary-nav__icon" aria-hidden="true">
+					<use href="/icons.svg#chevron-right"></use>
+				</svg>
+
+			</a>
+
+			<ul class="c-primary-nav__sublist js-nav-dropdown  is-active">
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/">
+                        
+
+                        <span class="c-primary-nav__text">Overview</span>
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/alert.html">
+                        
+
+                        Alerta
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/badges.html">
+                        
+
+                        Badges
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/progress-bar.html">
+                        
+
+                        Barra de Progresso
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link is-active is-current" href="/components/button.html">
+                        
+
+                        Botões
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/breadcrumbs.html">
+                        
+
+                        Breadcrumbs
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/checkboxes.html">
+                        
+
+                        Checkboxes
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/forms.html">
+                        
+
+                        Formulário
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/menus.html">
+                        
+
+                        Menus
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/modals.html">
+                        
+
+                        Modal
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/pagination.html">
+                        
+
+                        Paginação
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/search.html">
+                        
+
+                        Pesquisa
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/pickers.html">
+                        
+
+                        Pickers
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/radio-buttons.html">
+                        
+
+                        Radio Buttons
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/selects.html">
+                        
+
+                        Selects
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/switcher.html">
+                        
+
+                        Switcher
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/table.html">
+                        
+
+                        Tabela
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/tabs.html">
+                        
+
+                        Tabs
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/tags.html">
+                        
+
+                        Tags
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/text-field.html">
+                        
+
+                        Text field
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+					<li class="c-primary-nav__item">
+						<a class="c-primary-nav__link " href="/components/tooltips.html">
+                        
+
+                        Tooltips/Popover
+
+                        
+						</a>
+					</li>
+					
+				
+			
+				
+					
+				
+			
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+					
+				
+			
+				
+			
+				
+					
+				
+			
+			</ul>
+
+		</li><!-- end c-nav__list__item -->
+
+		<li class="c-primary-nav__item">
+
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+
+		</li><!-- end c-nav__list__item -->
+
+		<li class="c-primary-nav__item">
+
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				<a href="/resources.html" class="c-primary-nav__link ">
+					<span class="c-primary-nav__text">Recursos</span>
+				</a>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+
+		</li><!-- end c-nav__list__item -->
+
+		<li class="c-primary-nav__item">
+
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+				<a href="/support.html" class="c-primary-nav__link ">
+					<span class="c-primary-nav__text">Suporte</span>
+				</a>
+				
+			
+
+		</li><!-- end c-nav__list__item -->
+
+		<li class="c-primary-nav__item">
+
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+
+		</li><!-- end c-nav__list__item -->
+
+	</ul><!-- end c-nav__list -->
+
+</nav><!-- end c-nav -->
+
+
+    	</div><!--end c-header__nav-container-->
+
+      <div class="logo-benner">
+  <img src="/benner.svg" id="benner">
+</div>
+
+
+    </div><!--end c-header__inner-->
+
+</header><!--end c-header-->
+
+
+            </div><!--end l-page-layout__secondary-->
+
+            <div class="l-page-layout__main">
+
+                <main role="main">
+                	<div class="l-container">
+
+                        <div class="c-page-header">
+
+	<h1 class="c-page-header__title">Botões </h1>
+	
+	<div class="c-page-header__desc">
+		<p>Executar ou iniciar uma ação dentro do sistema</p>
+
+	</div>
+	
+
+</div><!-- end c-page-header -->
+
+
+<section class="c-section">
+
+	<div class="c-tabs js-tabs">
+
+		<ul class="c-tabs__list">
+			
+			<li class="c-tabs__item">
+				<a href="#tab-botões" class="c-tabs__link js-tab" data-code-tabs="tab-botões">Botões</a>
+			</li><!-- end c-tabs__item -->
+			
+
+
+		</ul><!-- end c-tabs__list -->
+
+		<div class="c-tabs__body">
+
+			
+			<div class="c-tabs__panel js-tabs-panel" id="tab-botões">
+
+				<section class="c-section">
+					<header class="c-section__header">
+						<!--<h5 class="c-section__title">Botões <code class="u-font-size-med">c-btn</code></h5>-->
+						
+					</header>
+
+					<div class="c-tabs ">
+						<div class="c-tabs__body">
+							<div class="c-eg">
+								
+								
+								
+								
+								<img src="../resources/components/button-eg.png" alt="" id="button-eg" class="eg-component-image">
+
+								
+							</div>
+						</div><!--end c-tabs__body-->
+					</div><!--end c-tabs-->
+				</section><!--end section-->
+
+			</div><!--end c-tabs__panel-->
+		  
+
+		</div><!--end c-tabs__body-->
+
+	</div><!--end c-tabs-->
+
+</section><!-- end c-section -->
+
+<section class="c-section">
+
+	<div class="c-section-header ">
+
+		<h1 class="c-section-header__title">Utilização</h1>
+
+	</div><!-- end c-section-header -->
+
+	<div class="c-text-passage l-linelength-container">
+
+		<h3 id="quando-usar">Quando usar</h3>
+<ul>
+  <li>Quando é preciso executar uma ação, por exemplo, Incluir, Excluir, Editar, Atualizar, Cancelar, etc.</li>
+  <li>Para as ações mais importantes ou corriqueiras, utiliza-se os botões primários.</li>
+  <li>Para ações secundárias, utiliza-se os botões secundários.</li>
+  <li>Para ações de cancelamento ou ações menos importantes, utiliza-se os botões terciários (cinza).</li>
+  <li>Para ações extremas com efeitos colaterais, como exclusão, por exemplo, utiliza-se os botões vermelhos.</li>
+  <li>Para ações de confirmação, utiliza-se os botões verdes.</li>
+</ul>
+
+<h3 id="quando-não-usar">Quando não usar</h3>
+<ul>
+  <li>Botões não devem ser usados como elementos de navegação. Recomenda-se o uso de links para deixar claro a ideia de uma nova página.</li>
+  <li>Para ações com o mesmo objetivo, evite utilizar palavras diferentes para descrever a mesma ação. Exemplo: Inserir e Adicionar.</li>
+</ul>
+
+
+	</div><!-- end c-text-passage -->
+
+</section><!-- end c-section -->
+
+
+	                </div><!--end l-container-->
+				</main><!--end role=main-->
+
+                <footer class="c-footer" role="contentinfo">
+
+    <ul class="c-footer-nav">
+
+        <!--<li class="c-footer-nav__item">
+            <a href="/about.html" class="c-footer-nav__link">Sobre</a>
+        </li>--><!--end c-footer-nav__item-->
+
+        <li class="c-footer-nav__item">
+            <a href="/roadmap.html" class="c-footer-nav__link">Roadmap</a>
+        </li><!--end c-footer-nav__item-->
+
+        <li class="c-footer-nav__item">
+            <a href="/release-history.html" class="c-footer-nav__link">Histórico de Releases</a>
+        </li><!--end c-footer-nav__item-->
+
+        <li class="c-footer-nav__item">
+            <a href="/support.html" class="c-footer-nav__link">Suporte</a>
+        </li><!--end c-footer-nav__item-->
+
+    </ul><!--end c-footer-nav-->
+
+</footer><!--end c-footer-->
+
+
+<script src="/js/lunr.min.js"></script>
+<script src="/js/search.js"></script>
+<script src="/js/vendor/jquery-3.1.0.min.js"></script>
+<script src="/js/vendor/prism.js"></script>
+<script src="/js/vendor/iframe-resizer.min.js"></script>
+<script src="/js/vendor/clipboard.min.js"></script>
+<script src="/js/style-guide.js"></script>
+
+
+            </div><!--end l-page-layout__main-->
+
+        </div><!--end l-two-column-fixed-->
+
+	</body>
+
+</html>
